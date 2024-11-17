@@ -9,7 +9,6 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - 🔭 I’m currently working on developing software that enables solving of engineering problems.
 - 🌱 I’m currently learning kanada/german and web development
 - 👯 I’m looking to collaborate on my personal projects
-- 🤔 I’m looking for help with a startup idea
 - 💬 Ask me about python, helping kids study etc.
 - 📫 How to reach me: [aerogeek](http://www.twitter.com/aerogeek)
 - ⚡ [Read a random post from my blog](https://sukhbinder.wordpress.com/?random) 
