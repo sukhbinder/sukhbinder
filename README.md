@@ -15,4 +15,14 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Local LLM Use in 2024](https://sukhbinder.wordpress.com/2025/01/11/my-local-llm-use-in-2024/)
+- [Books I’ve Loved in 2024](https://sukhbinder.wordpress.com/2025/01/07/books-ive-loved-in-2024/)
+- [CBSE Review](https://sukhbinder.wordpress.com/2025/01/06/cbse-review/)
+- [OpenAI’s o3 model: is this AGI](https://sukhbinder.wordpress.com/2024/12/21/openais-o3-model-is-this-agi/)
+- [Bouncing Back: Revamped and Ready: ScreenRecord 1.1.0 Has Landed](https://sukhbinder.wordpress.com/2024/12/20/bouncing-back-revamped-and-ready-screenrecord-1-1-0-has-landed/)
+- [TIL: Interrupting a Python ctypes call with Ctrl-C](https://sukhbinder.wordpress.com/2024/12/17/til-interrupting-a-python-ctypes-call-with-ctrl-c/)
+- [Introducing afplay-win](https://sukhbinder.wordpress.com/2024/12/13/introducing-afplay-win/)
+- [llm-ollama 0.8.0](https://sukhbinder.wordpress.com/2024/12/11/llm-ollama-0-8-0/)
+- [Nitnem](https://sukhbinder.wordpress.com/2024/12/09/nitnem/)
+- [Look who is talking.  a new winzy plugin](https://sukhbinder.wordpress.com/2024/12/05/look-who-is-talking-a-new-winzy-plugin/)
 <!-- BLOG-POST-LIST:END -->
