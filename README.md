@@ -11,4 +11,8 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - 👯 I’m looking to collaborate on my personal projects
 - 💬 Ask me about python, helping kids study etc.
 - 📫 How to reach me: [aerogeek](http://www.twitter.com/aerogeek)
-- ⚡ [Read a random post from my blog](https://sukhbinder.wordpress.com/?random) 
+- ⚡ [Read a random post from my blog](https://sukhbinder.wordpress.com/?random)
+
+## Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
