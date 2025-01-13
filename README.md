@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Books Read In 2024](https://sukhbinder.wordpress.com/2025/01/13/books-read-in-2024/)
 - [Muthurayaswamy Betta | Yadamadu Hill | Half Day Trip From Bangalore | Just 60km  | Picnic](https://www.youtube.com/watch?v=TLJxscwraUk)
 - [My Local LLM Use in 2024](https://sukhbinder.wordpress.com/2025/01/11/my-local-llm-use-in-2024/)
 - [Fundera Bird Park Yellagiri Hills Roadtrip From Bangalore](https://www.youtube.com/watch?v=zTtXGFH25yA)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Doodi Lake | Scenic Location | Near Bangalore | Day trip| Halfday roadtrip](https://www.youtube.com/watch?v=O9YMYn_r77c)
 - [Yellagiri Roadtrip | Full Route | Breakfast Option | All Bends](https://www.youtube.com/watch?v=d_oB_2g87SM)
 - [llm-ollama 0.8.0](https://sukhbinder.wordpress.com/2024/12/11/llm-ollama-0-8-0/)
-- [Doddi Lake Ramanagara District](https://www.youtube.com/watch?v=4vp8j619Qv0)
 <!-- BLOG-POST-LIST:END -->
