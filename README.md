@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Deepseek v3 – Swimming against the tide](https://sukhbinder.wordpress.com/2025/01/17/deepseek-v3-swimming-against-the-tide/)
 - [Yellagiri Boat House Roadtrip from Bangalore](https://www.youtube.com/watch?v=0XmIZc0iO7Q)
 - [Everyone owns their tools](https://sukhbinder.wordpress.com/2025/01/16/everyone-owns-their-tools/)
 - [Books Read In 2024](https://sukhbinder.wordpress.com/2025/01/13/books-read-in-2024/)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [TIL: Interrupting a Python ctypes call with Ctrl-C](https://sukhbinder.wordpress.com/2024/12/17/til-interrupting-a-python-ctypes-call-with-ctrl-c/)
 - [Half Day Trip From Bangalore | Doodi Lake | Twin Rock](https://www.youtube.com/watch?v=BEPKGUXYfI8)
 - [Introducing afplay-win](https://sukhbinder.wordpress.com/2024/12/13/introducing-afplay-win/)
-- [Doodi Lake | Scenic Location | Near Bangalore | Day trip| Halfday roadtrip](https://www.youtube.com/watch?v=O9YMYn_r77c)
 <!-- BLOG-POST-LIST:END -->
