@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Why Not Me](https://sukhbinder.wordpress.com/2025/01/28/why-not-me/)
 - [llm-github-models](https://sukhbinder.wordpress.com/2025/01/23/llm-github-models/)
 - [Muthurayaswamy Betta Beautiful Hill Near bangalore Just 60km](https://www.youtube.com/watch?v=guK66F607hI)
 - [just 60km from bangalore Near Kanapura Yadamadu Hills](https://www.youtube.com/watch?v=Gtfxrgx3OG8)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Places to see in Yellagiri | Murugan Temple | Shri Kathava Nachi Amma Temple | Yelagiri Boat House](https://www.youtube.com/watch?v=e6aos4C9rMo)
 - [Fundera park Yellagiri | Places to Visit in Yellagiri | #HumHaiRahi | Roadtrip from Bangalore](https://www.youtube.com/watch?v=tBsfyabHo18)
 - [OpenAI’s o3 model: is this AGI](https://sukhbinder.wordpress.com/2024/12/21/openais-o3-model-is-this-agi/)
-- [Bouncing Back: Revamped and Ready: ScreenRecord 1.1.0 Has Landed](https://sukhbinder.wordpress.com/2024/12/20/bouncing-back-revamped-and-ready-screenrecord-1-1-0-has-landed/)
 <!-- BLOG-POST-LIST:END -->
