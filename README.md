@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Picnic at Yadamadu Hills just 60km from bangalore](https://www.youtube.com/watch?v=Dju8e4usY7k)
 - [Yadamadu Hills Beautiful Picnic Spot Near Bangalore](https://www.youtube.com/watch?v=KRnfe0rur-E)
 - [Shri Mutturaya Swamy Temple Yadamadu Hills](https://www.youtube.com/watch?v=rDBF8lMXzRg)
 - [Why Not Me](https://sukhbinder.wordpress.com/2025/01/28/why-not-me/)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Fundera Bird Park Yellagiri Hills | Roadtrip from Bangalore](https://www.youtube.com/watch?v=wlT-nWLSG3w)
 - [CBSE Review](https://sukhbinder.wordpress.com/2025/01/06/cbse-review/)
 - [Roadtrip From Bangalore Fundera Bird Park](https://www.youtube.com/watch?v=tSXUa-IRU6M)
-- [Places to see in Yellagiri | Murugan Temple | Shri Kathava Nachi Amma Temple | Yelagiri Boat House](https://www.youtube.com/watch?v=e6aos4C9rMo)
 <!-- BLOG-POST-LIST:END -->
