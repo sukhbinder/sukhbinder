@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Highlights of the Next Few Videos On #HumHaiRahi](https://www.youtube.com/watch?v=5rqgaw1lvK4)
 - [Picnic at Yadamadu Hills just 60km from bangalore](https://www.youtube.com/watch?v=Dju8e4usY7k)
 - [Yadamadu Hills Beautiful Picnic Spot Near Bangalore](https://www.youtube.com/watch?v=KRnfe0rur-E)
 - [Shri Mutturaya Swamy Temple Yadamadu Hills](https://www.youtube.com/watch?v=rDBF8lMXzRg)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Books I’ve Loved in 2024](https://sukhbinder.wordpress.com/2025/01/07/books-ive-loved-in-2024/)
 - [Fundera Bird Park Yellagiri Hills | Roadtrip from Bangalore](https://www.youtube.com/watch?v=wlT-nWLSG3w)
 - [CBSE Review](https://sukhbinder.wordpress.com/2025/01/06/cbse-review/)
-- [Roadtrip From Bangalore Fundera Bird Park](https://www.youtube.com/watch?v=tSXUa-IRU6M)
 <!-- BLOG-POST-LIST:END -->
