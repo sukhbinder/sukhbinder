@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [50 years of travel tips](https://sukhbinder.wordpress.com/2025/02/17/50-years-of-travel-tips/)
 - [Two Quotes for 2025](https://sukhbinder.wordpress.com/2025/02/13/two-quotes-for-2025/)
 - [Highlights of the Next Few Videos On #HumHaiRahi](https://www.youtube.com/watch?v=5rqgaw1lvK4)
 - [Picnic at Yadamadu Hills just 60km from bangalore](https://www.youtube.com/watch?v=Dju8e4usY7k)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Fundera Bird Park Yellagiri Hills Roadtrip From Bangalore](https://www.youtube.com/watch?v=zTtXGFH25yA)
 - [Raceway Motorsports GoKating Bangalore | Day Trip | #humhairahi | Half Day trip from Bangalore](https://www.youtube.com/watch?v=YYl2dtT5cJI)
 - [Books I’ve Loved in 2024](https://sukhbinder.wordpress.com/2025/01/07/books-ive-loved-in-2024/)
-- [Fundera Bird Park Yellagiri Hills | Roadtrip from Bangalore](https://www.youtube.com/watch?v=wlT-nWLSG3w)
 <!-- BLOG-POST-LIST:END -->
