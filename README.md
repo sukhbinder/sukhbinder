@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [See this video to see how xAI](https://sukhbinder.wordpress.com/2025/02/22/see-this-video-to-see-how-xai/)
 - [Now talk to o3-mini with duckduckgo-ai-chat cli or llm-duckduckgo-chat plugin](https://sukhbinder.wordpress.com/2025/02/19/now-talk-to-o3-mini-with-duckduckgo-ai-chat-cli-or-llm-duckduckgo-chat-plugin/)
 - [50 years of travel tips](https://sukhbinder.wordpress.com/2025/02/17/50-years-of-travel-tips/)
 - [Two Quotes for 2025](https://sukhbinder.wordpress.com/2025/02/13/two-quotes-for-2025/)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Muthurayaswamy Betta | Yadamadu Hill | Half Day Trip From Bangalore | Just 60km  | Picnic](https://www.youtube.com/watch?v=TLJxscwraUk)
 - [My Local LLM Use in 2024](https://sukhbinder.wordpress.com/2025/01/11/my-local-llm-use-in-2024/)
 - [Fundera Bird Park Yellagiri Hills Roadtrip From Bangalore](https://www.youtube.com/watch?v=zTtXGFH25yA)
-- [Raceway Motorsports GoKating Bangalore | Day Trip | #humhairahi | Half Day trip from Bangalore](https://www.youtube.com/watch?v=YYl2dtT5cJI)
 <!-- BLOG-POST-LIST:END -->
