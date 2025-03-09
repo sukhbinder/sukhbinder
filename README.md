@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [My Heroes are Ordinary People.](https://sukhbinder.wordpress.com/2025/03/09/my-heroes-are-ordinary-people/)
 - [Resolving the –extract issue in llm-ollama](https://sukhbinder.wordpress.com/2025/03/07/resolving-the-extract-issue-in-llm-ollama/)
 - [Suratkal Beach #mangalore #kiasonet #roadtrip #humhairahi](https://www.youtube.com/watch?v=YMNl0-0g3e0)
 - [Malpe Boat Ride to St Mary&#39;s Island Shorts Arabian Sea #udupi #humhairahi #roadtrip](https://www.youtube.com/watch?v=U8rs2djPrus)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Set Reminders from Terminal. winzy-macos-reminder](https://sukhbinder.wordpress.com/2025/01/18/set-reminders-from-terminal-winzy-macos-reminder/)
 - [Deepseek v3 – Swimming against the tide](https://sukhbinder.wordpress.com/2025/01/17/deepseek-v3-swimming-against-the-tide/)
 - [Yellagiri Boat House Roadtrip from Bangalore](https://www.youtube.com/watch?v=0XmIZc0iO7Q)
-- [Everyone owns their tools](https://sukhbinder.wordpress.com/2025/01/16/everyone-owns-their-tools/)
 <!-- BLOG-POST-LIST:END -->
