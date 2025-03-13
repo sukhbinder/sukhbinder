@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [duckduckgo-ai-chat v0.0.3 released – chat with GPT level models from C](https://sukhbinder.wordpress.com/2025/03/13/duckduckgo-ai-chat-v0-0-3-released-chat-with-gpt-gen-2-models-from-c/)
 - [Shiv Mandir at MALAPA KONDA | Daytrip from Bangalore |  #roadtrip | #humhairahi  #travel](https://www.youtube.com/watch?v=yxSrYoRe1NE)
 - [Malapa Konda Daytrip Roadtrip near Bangalore](https://www.youtube.com/watch?v=ighRI6RQnzk)
 - [My Heroes are Ordinary People.](https://sukhbinder.wordpress.com/2025/03/09/my-heroes-are-ordinary-people/)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [llm-github-models](https://sukhbinder.wordpress.com/2025/01/23/llm-github-models/)
 - [Muthurayaswamy Betta Beautiful Hill Near bangalore Just 60km](https://www.youtube.com/watch?v=guK66F607hI)
 - [just 60km from bangalore Near Kanapura Yadamadu Hills](https://www.youtube.com/watch?v=Gtfxrgx3OG8)
-- [Set Reminders from Terminal. winzy-macos-reminder](https://sukhbinder.wordpress.com/2025/01/18/set-reminders-from-terminal-winzy-macos-reminder/)
 <!-- BLOG-POST-LIST:END -->
