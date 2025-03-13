@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Shiv Mandir at MALAPA KONDA | Daytrip from Bangalore |  #roadtrip | #humhairahi  #travel](https://www.youtube.com/watch?v=yxSrYoRe1NE)
 - [Malapa Konda Daytrip Roadtrip near Bangalore](https://www.youtube.com/watch?v=ighRI6RQnzk)
 - [My Heroes are Ordinary People.](https://sukhbinder.wordpress.com/2025/03/09/my-heroes-are-ordinary-people/)
 - [Resolving the –extract issue in llm-ollama](https://sukhbinder.wordpress.com/2025/03/07/resolving-the-extract-issue-in-llm-ollama/)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Muthurayaswamy Betta Beautiful Hill Near bangalore Just 60km](https://www.youtube.com/watch?v=guK66F607hI)
 - [just 60km from bangalore Near Kanapura Yadamadu Hills](https://www.youtube.com/watch?v=Gtfxrgx3OG8)
 - [Set Reminders from Terminal. winzy-macos-reminder](https://sukhbinder.wordpress.com/2025/01/18/set-reminders-from-terminal-winzy-macos-reminder/)
-- [Deepseek v3 – Swimming against the tide](https://sukhbinder.wordpress.com/2025/01/17/deepseek-v3-swimming-against-the-tide/)
 <!-- BLOG-POST-LIST:END -->
