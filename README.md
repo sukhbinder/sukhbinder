@@ -15,8 +15,9 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Programming occupation will become extinct… is it?](https://sukhbinder.wordpress.com/2025/03/16/programming-occupation-will-become-extinct-is-it/)
 - [In the past wrote this in fortran then in python and now its a winzy plugin](https://sukhbinder.wordpress.com/2025/03/14/in-the-past-wrote-this-in-fortran-then-in-python-and-now-its-a-winzy-plugin/)
-- [duckduckgo-ai-chat v0.0.3 released – chat with GPT level models from C](https://sukhbinder.wordpress.com/2025/03/13/duckduckgo-ai-chat-v0-0-3-released-chat-with-gpt-gen-2-models-from-c/)
+- [duckduckgo-ai-chat v0.0.3 released – chat with GPT level models from CLI](https://sukhbinder.wordpress.com/2025/03/13/duckduckgo-ai-chat-v0-0-3-released-chat-with-gpt-gen-2-models-from-c/)
 - [Shiv Mandir at MALAPA KONDA | Daytrip from Bangalore |  #roadtrip | #humhairahi  #travel](https://www.youtube.com/watch?v=yxSrYoRe1NE)
 - [Malapa Konda Daytrip Roadtrip near Bangalore](https://www.youtube.com/watch?v=ighRI6RQnzk)
 - [My Heroes are Ordinary People.](https://sukhbinder.wordpress.com/2025/03/09/my-heroes-are-ordinary-people/)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Shri Mutturaya Swamy Temple Yadamadu Hills](https://www.youtube.com/watch?v=rDBF8lMXzRg)
 - [Why Not Me](https://sukhbinder.wordpress.com/2025/01/28/why-not-me/)
 - [llm-github-models](https://sukhbinder.wordpress.com/2025/01/23/llm-github-models/)
-- [Muthurayaswamy Betta Beautiful Hill Near bangalore Just 60km](https://www.youtube.com/watch?v=guK66F607hI)
 <!-- BLOG-POST-LIST:END -->
