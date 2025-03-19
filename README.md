@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Now talk to Mistral-Small-24B-Instruct-2501 with the duckchat cli app](https://sukhbinder.wordpress.com/2025/03/19/now-talk-to-mistral-small-24b-instruct-2501-with-the-duckchat-cli-app/)
 - [Offbeat location near bangalore | Dandiganahalli Dam |Good picnic spot | #humhairahi](https://www.youtube.com/watch?v=fBPvK4wIuxs)
 - [Some lesson learnt fixing bug in open source llm-gemini and llm-ollama](https://sukhbinder.wordpress.com/2025/03/16/some-lesson-learnt-fixing-bug-in-open-source-llm-gemini-and-llm-ollama/)
 - [Programming occupation will become extinct… is it?](https://sukhbinder.wordpress.com/2025/03/16/programming-occupation-will-become-extinct-is-it/)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Highlights of the Next Few Videos On #HumHaiRahi](https://www.youtube.com/watch?v=5rqgaw1lvK4)
 - [Picnic at Yadamadu Hills just 60km from bangalore](https://www.youtube.com/watch?v=Dju8e4usY7k)
 - [Yadamadu Hills Beautiful Picnic Spot Near Bangalore](https://www.youtube.com/watch?v=KRnfe0rur-E)
-- [Shri Mutturaya Swamy Temple Yadamadu Hills](https://www.youtube.com/watch?v=rDBF8lMXzRg)
 <!-- BLOG-POST-LIST:END -->
