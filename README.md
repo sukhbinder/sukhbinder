@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Talk to Mistral Small 3 with llm-duckduckgo-chat plugin for LLM](https://sukhbinder.wordpress.com/2025/03/19/talk-to-mistral-small-3-with-llm-duckduckgo-chat-plugin-for-llm/)
 - [Now talk to Mistral-Small-24B-Instruct-2501 with the duckchat cli app](https://sukhbinder.wordpress.com/2025/03/19/now-talk-to-mistral-small-24b-instruct-2501-with-the-duckchat-cli-app/)
 - [Offbeat location near bangalore | Dandiganahalli Dam |Good picnic spot | #humhairahi](https://www.youtube.com/watch?v=fBPvK4wIuxs)
 - [Some lesson learnt fixing bug in open source llm-gemini and llm-ollama](https://sukhbinder.wordpress.com/2025/03/16/some-lesson-learnt-fixing-bug-in-open-source-llm-gemini-and-llm-ollama/)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Two Quotes for 2025](https://sukhbinder.wordpress.com/2025/02/13/two-quotes-for-2025/)
 - [Highlights of the Next Few Videos On #HumHaiRahi](https://www.youtube.com/watch?v=5rqgaw1lvK4)
 - [Picnic at Yadamadu Hills just 60km from bangalore](https://www.youtube.com/watch?v=Dju8e4usY7k)
-- [Yadamadu Hills Beautiful Picnic Spot Near Bangalore](https://www.youtube.com/watch?v=KRnfe0rur-E)
 <!-- BLOG-POST-LIST:END -->
