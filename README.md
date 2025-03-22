@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Notes for Version 0.1.5 of llm-duckduckgo-chat](https://sukhbinder.wordpress.com/2025/03/22/notes-for-version-0-1-5-of-llm-duckduckgo-chat/)
 - [Released duckduckgo-ai-chat v0.0.5](https://sukhbinder.wordpress.com/2025/03/21/released-duckduckgo-ai-chat-v0-0-5/)
 - [Talk to Mistral Small 3 with llm-duckduckgo-chat plugin for LLM](https://sukhbinder.wordpress.com/2025/03/19/talk-to-mistral-small-3-with-llm-duckduckgo-chat-plugin-for-llm/)
 - [Now talk to Mistral-Small-24B-Instruct-2501 with the duckchat cli app](https://sukhbinder.wordpress.com/2025/03/19/now-talk-to-mistral-small-24b-instruct-2501-with-the-duckchat-cli-app/)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Now talk to o3-mini with duckduckgo-ai-chat cli or llm-duckduckgo-chat plugin](https://sukhbinder.wordpress.com/2025/02/19/now-talk-to-o3-mini-with-duckduckgo-ai-chat-cli-or-llm-duckduckgo-chat-plugin/)
 - [50 years of travel tips](https://sukhbinder.wordpress.com/2025/02/17/50-years-of-travel-tips/)
 - [Two Quotes for 2025](https://sukhbinder.wordpress.com/2025/02/13/two-quotes-for-2025/)
-- [Highlights of the Next Few Videos On #HumHaiRahi](https://www.youtube.com/watch?v=5rqgaw1lvK4)
 <!-- BLOG-POST-LIST:END -->
