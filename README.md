@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Shri Kouchkal Muneshwara Swami Gudi | Mudishwara Temple | Just 80km from bangalore #humhairahi](https://www.youtube.com/watch?v=gyC7gMUpYzs)
 - [TIL: Python Input issue : EOFError](https://sukhbinder.wordpress.com/2025/03/23/til-python-input-issue-eoferror/)
 - [Dandiganahalli Dam | Just 90km |  #travel #picnicspot #halfday #daytrip #camping](https://www.youtube.com/watch?v=n6aDg4t5NAY)
 - [Notes for Version 0.1.5 of llm-duckduckgo-chat](https://sukhbinder.wordpress.com/2025/03/22/notes-for-version-0-1-5-of-llm-duckduckgo-chat/)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Malpe Boat Ride to St Mary&#39;s Island Shorts Arabian Sea #udupi #humhairahi #roadtrip](https://www.youtube.com/watch?v=U8rs2djPrus)
 - [Sasihithlu Beach #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/watch?v=fZMPKdli_dQ)
 - [See this video to see how xAI](https://sukhbinder.wordpress.com/2025/02/22/see-this-video-to-see-how-xai/)
-- [Now talk to o3-mini with duckduckgo-ai-chat cli or llm-duckduckgo-chat plugin](https://sukhbinder.wordpress.com/2025/02/19/now-talk-to-o3-mini-with-duckduckgo-ai-chat-cli-or-llm-duckduckgo-chat-plugin/)
 <!-- BLOG-POST-LIST:END -->
