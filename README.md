@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Save the Web by Being Nice.](https://sukhbinder.wordpress.com/2025/03/31/save-the-web-by-being-nice/)
 - [Dandiganahalli Dam | Just 90km |  #travel #picnicspot #halfday #daytrip #camping](https://www.youtube.com/watch?v=ydnNWBLBjvA)
 - [Dandiganahalli Dam | Just 90km |  #travel #picnicspot #halfday #daytrip #camping](https://www.youtube.com/watch?v=pdr8N_r9XEA)
 - [The real needs of life ….](https://sukhbinder.wordpress.com/2025/03/28/the-real-needs-of-life/)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Shiv Mandir at MALAPA KONDA | Daytrip from Bangalore |  #roadtrip | #humhairahi  #travel](https://www.youtube.com/watch?v=yxSrYoRe1NE)
 - [Malapa Konda Daytrip Roadtrip near Bangalore](https://www.youtube.com/watch?v=ighRI6RQnzk)
 - [My Heroes are Ordinary People.](https://sukhbinder.wordpress.com/2025/03/09/my-heroes-are-ordinary-people/)
-- [Resolving the –extract issue in llm-ollama](https://sukhbinder.wordpress.com/2025/03/07/resolving-the-extract-issue-in-llm-ollama/)
 <!-- BLOG-POST-LIST:END -->
