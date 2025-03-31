@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Dandiganahalli Dam | Just 90km |  #travel #picnicspot #halfday #daytrip #camping](https://www.youtube.com/watch?v=ydnNWBLBjvA)
 - [Dandiganahalli Dam | Just 90km |  #travel #picnicspot #halfday #daytrip #camping](https://www.youtube.com/watch?v=pdr8N_r9XEA)
 - [The real needs of life ….](https://sukhbinder.wordpress.com/2025/03/28/the-real-needs-of-life/)
 - [I’m leading a double life……](https://sukhbinder.wordpress.com/2025/03/26/im-leading-a-double-life/)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Malapa Konda Daytrip Roadtrip near Bangalore](https://www.youtube.com/watch?v=ighRI6RQnzk)
 - [My Heroes are Ordinary People.](https://sukhbinder.wordpress.com/2025/03/09/my-heroes-are-ordinary-people/)
 - [Resolving the –extract issue in llm-ollama](https://sukhbinder.wordpress.com/2025/03/07/resolving-the-extract-issue-in-llm-ollama/)
-- [Suratkal Beach #mangalore #kiasonet #roadtrip #humhairahi](https://www.youtube.com/watch?v=YMNl0-0g3e0)
 <!-- BLOG-POST-LIST:END -->
