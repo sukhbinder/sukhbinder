@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Thirumalai Naicker Palace | Meenakshi temple | Madurai day 0 #TamilNadu #travel  #humhairahi](https://www.youtube.com/watch?v=l4oGPm1qqkI)
 - [Start using local LLM using my smollama-py v0.0.1](https://sukhbinder.wordpress.com/2025/04/05/start-using-local-llm-using-my-smollama-py-v0-0-1/)
 - [What’s the Weather](https://sukhbinder.wordpress.com/2025/04/03/whats-the-weather/)
 - [Shri kouchkal Muneshwara Swami Gudi | Offbeat Location | Cave temple](https://www.youtube.com/watch?v=oSfbHMXDcz8)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Offbeat location near bangalore | Dandiganahalli Dam |Good picnic spot | #humhairahi](https://www.youtube.com/watch?v=fBPvK4wIuxs)
 - [Some lesson learnt fixing bug in open source llm-gemini and llm-ollama](https://sukhbinder.wordpress.com/2025/03/16/some-lesson-learnt-fixing-bug-in-open-source-llm-gemini-and-llm-ollama/)
 - [Programming occupation will become extinct… is it?](https://sukhbinder.wordpress.com/2025/03/16/programming-occupation-will-become-extinct-is-it/)
-- [In the past wrote this in fortran then in python and now its a winzy plugin](https://sukhbinder.wordpress.com/2025/03/14/in-the-past-wrote-this-in-fortran-then-in-python-and-now-its-a-winzy-plugin/)
 <!-- BLOG-POST-LIST:END -->
