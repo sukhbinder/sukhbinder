@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Thirumalai Naicker Palace | Madurai | Meenakshi Temple | Tamil Nadu travel | kia sonet #humhairahi](https://www.youtube.com/watch?v=SKvdm6rzFmI)
 - [Invert, Always Invert!](https://sukhbinder.wordpress.com/2025/04/08/invert-always-invert/)
 - [My Impressions of Llama 4](https://sukhbinder.wordpress.com/2025/04/07/my-impressions-of-llama-4/)
 - [Thirumalai Naicker Palace | Meenakshi temple | Madurai day 0 #TamilNadu #travel  #humhairahi](https://www.youtube.com/watch?v=l4oGPm1qqkI)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Released duckduckgo-ai-chat v0.0.5](https://sukhbinder.wordpress.com/2025/03/21/released-duckduckgo-ai-chat-v0-0-5/)
 - [Talk to Mistral Small 3 with llm-duckduckgo-chat plugin for LLM](https://sukhbinder.wordpress.com/2025/03/19/talk-to-mistral-small-3-with-llm-duckduckgo-chat-plugin-for-llm/)
 - [Now talk to Mistral-Small-24B-Instruct-2501 with the duckchat cli app](https://sukhbinder.wordpress.com/2025/03/19/now-talk-to-mistral-small-24b-instruct-2501-with-the-duckchat-cli-app/)
-- [Offbeat location near bangalore | Dandiganahalli Dam |Good picnic spot | #humhairahi](https://www.youtube.com/watch?v=fBPvK4wIuxs)
 <!-- BLOG-POST-LIST:END -->
