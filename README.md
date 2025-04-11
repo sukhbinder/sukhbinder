@@ -15,6 +15,7 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 
 ## My Latest Blog posts and Youtube Videos.
 <!-- BLOG-POST-LIST:START -->
+- [Linus Torvalds built Git in 10 days – and never imagined it would last 20 years](https://sukhbinder.wordpress.com/2025/04/11/linus-torvalds-built-git-in-10-days-and-never-imagined-it-would-last-20-years/)
 - [winzy visual notify v0.0.4 released](https://sukhbinder.wordpress.com/2025/04/11/winzy-visual-notify-v0-0-4-released/)
 - [Thirumalai Naicker Palace | Madurai | Meenakshi Temple | Tamil Nadu travel | kia sonet #humhairahi](https://www.youtube.com/watch?v=SKvdm6rzFmI)
 - [Invert, Always Invert!](https://sukhbinder.wordpress.com/2025/04/08/invert-always-invert/)
@@ -34,5 +35,4 @@ Autodidactic, lifelong learner, tinkerer, experimental cook and aspirational ent
 - [Dandiganahalli Dam | Just 90km |  #travel #picnicspot #halfday #daytrip #camping](https://www.youtube.com/watch?v=n6aDg4t5NAY)
 - [Notes for Version 0.1.5 of llm-duckduckgo-chat](https://sukhbinder.wordpress.com/2025/03/22/notes-for-version-0-1-5-of-llm-duckduckgo-chat/)
 - [Released duckduckgo-ai-chat v0.0.5](https://sukhbinder.wordpress.com/2025/03/21/released-duckduckgo-ai-chat-v0-0-5/)
-- [Talk to Mistral Small 3 with llm-duckduckgo-chat plugin for LLM](https://sukhbinder.wordpress.com/2025/03/19/talk-to-mistral-small-3-with-llm-duckduckgo-chat-plugin-for-llm/)
 <!-- BLOG-POST-LIST:END -->
