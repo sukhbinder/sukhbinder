@@ -19,7 +19,21 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[vidtoolz-replace-audio v0.0.2](https://github.com/sukhbinder/vidtoolz-replace-audio/releases/tag/v0.0.2) - 2025-04-13
 
+[winzy-visual-notify v0.0.4](https://github.com/sukhbinder/winzy-visual-notify/releases/tag/v0.0.4) - 2025-04-11
+
+[vidtoolz-add-text v0.0.3](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.0.3) - 2025-04-10
+
+[smollama-py v0.0.2](https://github.com/sukhbinder/smollama-py/releases/tag/v0.0.2) - 2025-04-07
+
+[winzy-days-from ](https://github.com/sukhbinder/winzy-days-from/releases/tag/v0.0.1) - 2025-04-04
+
+[screenrecord ](https://github.com/sukhbinder/screenrecord/releases/tag/v1.1.3a) - 2025-03-29
+
+[duckduckgo-ai-chat ](https://github.com/sukhbinder/duckduckgo-ai-chat/releases/tag/v0.0.8a) - 2025-03-28
+
+[llm-duckduckgo-chat Version v0.1.6  plugin](https://github.com/sukhbinder/llm-duckduckgo-chat/releases/tag/v0.1.6) - 2025-03-26
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/main/releases.md)
 </td><td valign="top" width="34%">
@@ -43,8 +57,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/main/releas
 [The real needs of life ….](https://sukhbinder.wordpress.com/2025/03/28/the-real-needs-of-life/) - Fri, 28 Mar 2025 06:16:44 +0000
 
 [I’m leading a double life……](https://sukhbinder.wordpress.com/2025/03/26/im-leading-a-double-life/) - Wed, 26 Mar 2025 15:11:11 +0000
-
-[TIL: Python Input issue : EOFError](https://sukhbinder.wordpress.com/2025/03/23/til-python-input-issue-eoferror/) - Sun, 23 Mar 2025 02:36:42 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
