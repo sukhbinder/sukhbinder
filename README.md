@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Github Profile Updated](https://sukhbinder.wordpress.com/2025/04/14/github-profile-updated/) - Mon, 14 Apr 2025 16:41:04 +0000
+
 [Linus Torvalds built Git in 10 days – and never imagined it would last 20 years](https://sukhbinder.wordpress.com/2025/04/11/linus-torvalds-built-git-in-10-days-and-never-imagined-it-would-last-20-years/) - Fri, 11 Apr 2025 15:41:29 +0000
 
 [winzy visual notify v0.0.4 released](https://sukhbinder.wordpress.com/2025/04/11/winzy-visual-notify-v0-0-4-released/) - Fri, 11 Apr 2025 11:06:09 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [The real needs of life ….](https://sukhbinder.wordpress.com/2025/03/28/the-real-needs-of-life/) - Fri, 28 Mar 2025 06:16:44 +0000
 
 [I’m leading a double life……](https://sukhbinder.wordpress.com/2025/03/26/im-leading-a-double-life/) - Wed, 26 Mar 2025 15:11:11 +0000
-
-[TIL: Python Input issue : EOFError](https://sukhbinder.wordpress.com/2025/03/23/til-python-input-issue-eoferror/) - Sun, 23 Mar 2025 02:36:42 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
