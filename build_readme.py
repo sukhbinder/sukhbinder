@@ -177,7 +177,7 @@ if __name__ == "__main__":
     
     rewritten = replace_chunk(rewritten, "youtube", youtube_md)
 
-    entries = fetch_feed_entries("https://sukhbinder.wordpress.com/feed")[:9]
+    entries = fetch_feed_entries("https://sukhbinder.wordpress.com/feed")[:10]
     entries_md = "\n\n".join(
         ["[{title}]({url}) - {published}".format(**entry) for entry in entries]
     )
