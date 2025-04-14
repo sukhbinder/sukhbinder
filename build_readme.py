@@ -123,52 +123,52 @@ def fetch_feed_entries(feedurl):
 if __name__ == "__main__":
     readme = root / "README.md"
     
-    # project_releases = root / "releases.md"
-    # releases = fetch_releases(TOKEN)
-    # releases.sort(key=lambda r: r["published_at"], reverse=True)
-    # md = "\n\n".join(
-    #     [
-    #         "[{repo} {release}]({url}) - {published_day}".format(**release)
-    #         for release in releases[:8]
-    #     ]
-    # )
+    project_releases = root / "releases.md"
+    releases = fetch_releases(TOKEN)
+    releases.sort(key=lambda r: r["published_at"], reverse=True)
+    md = "\n\n".join(
+        [
+            "[{repo} {release}]({url}) - {published_day}".format(**release)
+            for release in releases[:8]
+        ]
+    )
     
     readme_contents = readme.open().read()
     
-    # rewritten = replace_chunk(readme_contents, "recent_releases", md)
-    rewritten = readme_contents
+    rewritten = replace_chunk(readme_contents, "recent_releases", md)
+    # rewritten = readme_contents
 
     # Write out full project-releases.md file
-    # project_releases_md = "\n".join(
-    #     [
-    #         (
-    #             "* **[{repo}]({repo_url})**: [{release}]({url}) {total_releases_md}- {published_day}\n"
-    #             "<br />{description}"
-    #         ).format(
-    #             total_releases_md="- ([{} releases total]({}/releases)) ".format(
-    #                 release["total_releases"], release["repo_url"]
-    #             )
-    #             if release["total_releases"] > 1
-    #             else "",
-    #             **release
-    #         )
-    #         for release in releases
-    #     ]
-    # )
-    # project_releases_content = project_releases.open().read()
-    # project_releases_content = replace_chunk(
-    #     project_releases_content, "recent_releases", project_releases_md
-    # )
-    # project_releases_content = replace_chunk(
-    #     project_releases_content, "project_count", str(len(releases)), inline=True
-    # )
-    # project_releases_content = replace_chunk(
-    #     project_releases_content,
-    #     "releases_count",
-    #     str(sum(r["total_releases"] for r in releases)),
-    #     inline=True,
-    # )
-    # project_releases.open("w").write(project_releases_content)
+    project_releases_md = "\n".join(
+        [
+            (
+                "* **[{repo}]({repo_url})**: [{release}]({url}) {total_releases_md}- {published_day}\n"
+                "<br />{description}"
+            ).format(
+                total_releases_md="- ([{} releases total]({}/releases)) ".format(
+                    release["total_releases"], release["repo_url"]
+                )
+                if release["total_releases"] > 1
+                else "",
+                **release
+            )
+            for release in releases
+        ]
+    )
+    project_releases_content = project_releases.open().read()
+    project_releases_content = replace_chunk(
+        project_releases_content, "recent_releases", project_releases_md
+    )
+    project_releases_content = replace_chunk(
+        project_releases_content, "project_count", str(len(releases)), inline=True
+    )
+    project_releases_content = replace_chunk(
+        project_releases_content,
+        "releases_count",
+        str(sum(r["total_releases"] for r in releases)),
+        inline=True,
+    )
+    project_releases.open("w").write(project_releases_content)
 
     youtube = fetch_feed_entries("https://www.youtube.com/feeds/videos.xml?channel_id=UCMbEUhrtCc95WypjB8-JOFA")
     youtube_md = "\n\n".join(
@@ -177,7 +177,7 @@ if __name__ == "__main__":
     
     rewritten = replace_chunk(rewritten, "youtube", youtube_md)
 
-    entries = fetch_feed_entries("https://sukhbinder.wordpress.com/feed")[:10]
+    entries = fetch_feed_entries("https://sukhbinder.wordpress.com/feed")[:9]
     entries_md = "\n\n".join(
         ["[{title}]({url}) - {published}".format(**entry) for entry in entries]
     )
