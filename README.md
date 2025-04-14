@@ -34,6 +34,14 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [duckduckgo-ai-chat ](https://github.com/sukhbinder/duckduckgo-ai-chat/releases/tag/v0.0.8a) - 2025-03-28
 
 [llm-duckduckgo-chat Version v0.1.6  plugin](https://github.com/sukhbinder/llm-duckduckgo-chat/releases/tag/v0.1.6) - 2025-03-26
+
+[vidtoolz-apply-fadein-fadeout v0.0.1](https://github.com/sukhbinder/vidtoolz-apply-fadein-fadeout/releases/tag/v0.0.1) - 2025-03-16
+
+[vidtoolz ](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.0.2) - 2025-03-16
+
+[vidtoolz-apply-greenscreen v0.0.1](https://github.com/sukhbinder/vidtoolz-apply-greenscreen/releases/tag/v0.0.1) - 2025-03-16
+
+[vidtoolz-add-sound ](https://github.com/sukhbinder/vidtoolz-add-sound/releases/tag/v0.0.1) - 2025-03-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
