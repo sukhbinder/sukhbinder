@@ -129,7 +129,7 @@ if __name__ == "__main__":
     md = "\n\n".join(
         [
             "[{repo} {release}]({url}) - {published_day}".format(**release)
-            for release in releases[:8]
+            for release in releases[:12]
         ]
     )
     

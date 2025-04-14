@@ -35,7 +35,7 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 [llm-duckduckgo-chat Version v0.1.6  plugin](https://github.com/sukhbinder/llm-duckduckgo-chat/releases/tag/v0.1.6) - 2025-03-26
 <!-- recent_releases ends -->
-More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/main/releases.md)
+More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
