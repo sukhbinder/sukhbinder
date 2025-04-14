@@ -172,7 +172,7 @@ if __name__ == "__main__":
 
     youtube = fetch_feed_entries("https://www.youtube.com/feeds/videos.xml?channel_id=UCMbEUhrtCc95WypjB8-JOFA")
     youtube_md = "\n\n".join(
-        ["[{title}]({url}) - {published}".format(**entry) for entry in youtube[:6]]
+        ["[{title}]({url}) - {published}".format(**entry) for entry in youtube[:7]]
     )
     
     rewritten = replace_chunk(rewritten, "youtube", youtube_md)
