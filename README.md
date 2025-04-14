@@ -62,24 +62,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Roadtrip to Madurai #TamilNaduTravel #humhairahi #kiasonet](https://www.youtube.com/watch?v=5j7dxAfbhUs) - 2025-04-02
 
 [Dandiganahalli Dam | Just 90km |  #travel #picnicspot #halfday #daytrip #camping](https://www.youtube.com/watch?v=ydnNWBLBjvA) - 2025-03-31
-
-[Dandiganahalli Dam | Just 90km |  #travel #picnicspot #halfday #daytrip #camping](https://www.youtube.com/watch?v=pdr8N_r9XEA) - 2025-03-29
-
-[Shri Kouchkal Muneshwara Swami Gudi | Mudishwara Temple | Just 80km from bangalore #humhairahi](https://www.youtube.com/watch?v=gyC7gMUpYzs) - 2025-03-26
-
-[Dandiganahalli Dam | Just 90km |  #travel #picnicspot #halfday #daytrip #camping](https://www.youtube.com/watch?v=n6aDg4t5NAY) - 2025-03-23
-
-[Offbeat location near bangalore | Dandiganahalli Dam |Good picnic spot | #humhairahi](https://www.youtube.com/watch?v=fBPvK4wIuxs) - 2025-03-19
-
-[Shiv Mandir at MALAPA KONDA | Daytrip from Bangalore |  #roadtrip | #humhairahi  #travel](https://www.youtube.com/watch?v=yxSrYoRe1NE) - 2025-03-13
-
-[Malapa Konda Daytrip Roadtrip near Bangalore](https://www.youtube.com/watch?v=ighRI6RQnzk) - 2025-03-12
-
-[Suratkal Beach #mangalore #kiasonet #roadtrip #humhairahi](https://www.youtube.com/watch?v=YMNl0-0g3e0) - 2025-03-07
-
-[Malpe Boat Ride to St Mary's Island Shorts Arabian Sea #udupi #humhairahi #roadtrip](https://www.youtube.com/watch?v=U8rs2djPrus) - 2025-03-05
-
-[Sasihithlu Beach #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/watch?v=fZMPKdli_dQ) - 2025-03-03
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
