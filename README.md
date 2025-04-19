@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Rural karnataka | Roadtrips](https://www.youtube.com/watch?v=D09xcfLRoq4) - 2025-04-19
+
 [Madurai to Pambam Bridge #Roadtrip #humhairahi #kiasonet #travel](https://www.youtube.com/watch?v=7mE6itXjNnk) - 2025-04-16
 
 [Vaisakhi celebration at Gurudwara Singh Sabha BTM Community Hall Bangalore #humhairahi #travel](https://www.youtube.com/watch?v=9Y6IcXalMyE) - 2025-04-14
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Shri kouchkal Muneshwara Swami Gudi | Offbeat Location | Cave temple](https://www.youtube.com/watch?v=oSfbHMXDcz8) - 2025-04-03
 
 [Roadtrip to Madurai #TamilNaduTravel #humhairahi #kiasonet](https://www.youtube.com/watch?v=5j7dxAfbhUs) - 2025-04-02
-
-[Dandiganahalli Dam | Just 90km |  #travel #picnicspot #halfday #daytrip #camping](https://www.youtube.com/watch?v=ydnNWBLBjvA) - 2025-03-31
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
