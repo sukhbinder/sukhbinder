@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Lack of Joy](https://sukhbinder.wordpress.com/2025/04/25/lack-of-joy/) - Fri, 25 Apr 2025 07:06:23 +0000
+
 [If applied this commit will ……..](https://sukhbinder.wordpress.com/2025/04/15/if-applied-this-commit-will/) - 
 
 [Github Profile Updated](https://sukhbinder.wordpress.com/2025/04/14/github-profile-updated/) - Mon, 14 Apr 2025 16:41:04 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [What’s the Weather](https://sukhbinder.wordpress.com/2025/04/03/whats-the-weather/) - 
 
 [Save the Web by Being Nice.](https://sukhbinder.wordpress.com/2025/03/31/save-the-web-by-being-nice/) - Mon, 31 Mar 2025 06:08:12 +0000
-
-[The real needs of life ….](https://sukhbinder.wordpress.com/2025/03/28/the-real-needs-of-life/) - Fri, 28 Mar 2025 06:16:44 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
