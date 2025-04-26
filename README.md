@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[intersection v1.3.2](https://github.com/sukhbinder/intersection/releases/tag/v1.3.2) - 2025-04-26
+
 [vidtoolz-replace-audio v0.0.2](https://github.com/sukhbinder/vidtoolz-replace-audio/releases/tag/v0.0.2) - 2025-04-13
 
 [winzy-visual-notify v0.0.4](https://github.com/sukhbinder/winzy-visual-notify/releases/tag/v0.0.4) - 2025-04-11
@@ -40,8 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [vidtoolz ](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.0.2) - 2025-03-16
 
 [vidtoolz-apply-greenscreen v0.0.1](https://github.com/sukhbinder/vidtoolz-apply-greenscreen/releases/tag/v0.0.1) - 2025-03-16
-
-[vidtoolz-add-sound ](https://github.com/sukhbinder/vidtoolz-add-sound/releases/tag/v0.0.1) - 2025-03-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">

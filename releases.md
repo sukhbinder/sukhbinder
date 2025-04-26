@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->122<!-- releases_count ends --> releases across <!-- project_count starts -->56<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->126<!-- releases_count ends --> releases across <!-- project_count starts -->56<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[intersection](https://github.com/sukhbinder/intersection)**: [v1.3.2](https://github.com/sukhbinder/intersection/releases/tag/v1.3.2) - ([5 releases total](https://github.com/sukhbinder/intersection/releases)) - 2025-04-26
+<br />Intersection of curves in python
 * **[vidtoolz-replace-audio](https://github.com/sukhbinder/vidtoolz-replace-audio)**: [v0.0.2](https://github.com/sukhbinder/vidtoolz-replace-audio/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-replace-audio/releases)) - 2025-04-13
 <br />Replace audio for a video file
 * **[winzy-visual-notify](https://github.com/sukhbinder/winzy-visual-notify)**: [v0.0.4](https://github.com/sukhbinder/winzy-visual-notify/releases/tag/v0.0.4) - ([4 releases total](https://github.com/sukhbinder/winzy-visual-notify/releases)) - 2025-04-11
@@ -113,6 +115,4 @@ Listing <!-- releases_count starts -->122<!-- releases_count ends --> releases a
 <br />A tiny app to log the active Windows title to a desktop log file in a windows system
 * **[winsay](https://github.com/sukhbinder/winsay)**: [latest release](https://github.com/sukhbinder/winsay/releases/tag/v1.1.1) - 2024-08-01
 <br />Say command in windows
-* **[intersection](https://github.com/sukhbinder/intersection)**: [First release](https://github.com/sukhbinder/intersection/releases/tag/n_v01) - 2021-01-09
-<br />Intersection of curves in python
 <!-- recent_releases ends -->
