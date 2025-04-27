@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Intersection](https://sukhbinder.wordpress.com/2025/04/27/intersection/) - Sun, 27 Apr 2025 06:46:31 +0000
+
 [Lack of Joy](https://sukhbinder.wordpress.com/2025/04/25/lack-of-joy/) - Fri, 25 Apr 2025 07:06:23 +0000
 
 [If applied this commit will ……..](https://sukhbinder.wordpress.com/2025/04/15/if-applied-this-commit-will/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Start using local LLM using my smollama-py v0.0.1](https://sukhbinder.wordpress.com/2025/04/05/start-using-local-llm-using-my-smollama-py-v0-0-1/) - Sat, 05 Apr 2025 10:27:06 +0000
 
 [What’s the Weather](https://sukhbinder.wordpress.com/2025/04/03/whats-the-weather/) - 
-
-[Save the Web by Being Nice.](https://sukhbinder.wordpress.com/2025/03/31/save-the-web-by-being-nice/) - Mon, 31 Mar 2025 06:08:12 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
