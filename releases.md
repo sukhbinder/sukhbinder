@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->126<!-- releases_count ends --> releases across <!-- project_count starts -->56<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->127<!-- releases_count ends --> releases across <!-- project_count starts -->56<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[intersection](https://github.com/sukhbinder/intersection)**: [v1.3.2](https://github.com/sukhbinder/intersection/releases/tag/v1.3.2) - ([5 releases total](https://github.com/sukhbinder/intersection/releases)) - 2025-04-26
+* **[intersection](https://github.com/sukhbinder/intersection)**: [v1.3.2](https://github.com/sukhbinder/intersection/releases/tag/v1.3.3) - ([6 releases total](https://github.com/sukhbinder/intersection/releases)) - 2025-04-27
 <br />Intersection of curves in python
 * **[vidtoolz-replace-audio](https://github.com/sukhbinder/vidtoolz-replace-audio)**: [v0.0.2](https://github.com/sukhbinder/vidtoolz-replace-audio/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-replace-audio/releases)) - 2025-04-13
 <br />Replace audio for a video file

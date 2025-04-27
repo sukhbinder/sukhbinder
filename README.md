@@ -19,7 +19,7 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
-[intersection v1.3.2](https://github.com/sukhbinder/intersection/releases/tag/v1.3.2) - 2025-04-26
+[intersection v1.3.2](https://github.com/sukhbinder/intersection/releases/tag/v1.3.3) - 2025-04-27
 
 [vidtoolz-replace-audio v0.0.2](https://github.com/sukhbinder/vidtoolz-replace-audio/releases/tag/v0.0.2) - 2025-04-13
 
