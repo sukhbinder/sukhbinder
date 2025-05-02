@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Dhanuskodi drive With Kia Sonet](https://www.youtube.com/watch?v=_DK9aM9_bmE) - 2025-05-02
+
 [Dhanushkodi Beach | Kothanda Ramar Temple | Holiday Homes CPWD stay Rameshwaram | #humhairahi](https://www.youtube.com/watch?v=zj_n_2PTUiw) - 2025-04-30
 
 [Sri Guru Nanak Dham Gurudwara Sahib Rameshwaram Kia Sonet #humhairahi #travel](https://www.youtube.com/watch?v=JFXI1esa6Ns) - 2025-04-20
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Vaisakhi celebration at Gurudwara Singh Sabha BTM Community Hall Bangalore #humhairahi #travel](https://www.youtube.com/watch?v=9Y6IcXalMyE) - 2025-04-14
 
 [Thirumalai Naicker Palace | Madurai | Meenakshi Temple | Tamil Nadu travel | kia sonet #humhairahi](https://www.youtube.com/watch?v=SKvdm6rzFmI) - 2025-04-09
-
-[Thirumalai Naicker Palace | Meenakshi temple | Madurai day 0 #TamilNadu #travel  #humhairahi](https://www.youtube.com/watch?v=l4oGPm1qqkI) - 2025-04-07
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
