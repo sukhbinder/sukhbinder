@@ -73,6 +73,10 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Holiday Homes CPWD Rameshwaram | Sunrise at DhanusKodi | #KiaSonet #humhairahi](https://www.youtube.com/watch?v=MYhyulHh3yo) - 2025-05-03
+
+[Gurudwara Nanak Dham Sahib ji Rameshwaram](https://www.youtube.com/watch?v=UbyKAbZ_VJI) - 2025-05-03
+
 [Dhanuskodi drive With Kia Sonet](https://www.youtube.com/watch?v=_DK9aM9_bmE) - 2025-05-02
 
 [Dhanushkodi Beach | Kothanda Ramar Temple | Holiday Homes CPWD stay Rameshwaram | #humhairahi](https://www.youtube.com/watch?v=zj_n_2PTUiw) - 2025-04-30
@@ -82,10 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Rural karnataka | Roadtrips](https://www.youtube.com/watch?v=D09xcfLRoq4) - 2025-04-19
 
 [Madurai to Pambam Bridge #Roadtrip #humhairahi #kiasonet #travel](https://www.youtube.com/watch?v=7mE6itXjNnk) - 2025-04-16
-
-[Vaisakhi celebration at Gurudwara Singh Sabha BTM Community Hall Bangalore #humhairahi #travel](https://www.youtube.com/watch?v=9Y6IcXalMyE) - 2025-04-14
-
-[Thirumalai Naicker Palace | Madurai | Meenakshi Temple | Tamil Nadu travel | kia sonet #humhairahi](https://www.youtube.com/watch?v=SKvdm6rzFmI) - 2025-04-09
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
