@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Rural Karnataka | Cave Temple | Just 80km | Shri Kouchkal Muneswara Swami Gudi](https://www.youtube.com/watch?v=3OVirPjNcxQ) - 2025-05-23
+
 [Roadtrips | Rural Karnataka](https://www.youtube.com/watch?v=0Vh8Rrgfzvg) - 2025-05-19
 
 [Hill Top Temple | Shivgangae | Shri Mudivireshwara Swami Devasthana](https://www.youtube.com/watch?v=HCTe731ljxM) - 2025-05-17
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Rameshwaram Dham Mandir | 22 Kund Shnan | Rameshwaram | Kia Sonet #humhairahi](https://www.youtube.com/watch?v=81wXXHgPqVw) - 2025-05-07
 
 [Dangerous Driving | Indian roads | Roadtrips](https://www.youtube.com/watch?v=cfi9C_XnmwI) - 2025-05-05
-
-[Holiday Homes CPWD Rameshwaram | Sunrise at DhanusKodi | #KiaSonet #humhairahi](https://www.youtube.com/watch?v=MYhyulHh3yo) - 2025-05-03
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
