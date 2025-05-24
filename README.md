@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Achievement unlocked](https://sukhbinder.wordpress.com/2025/05/24/achievement-unlocked/) - Sat, 24 May 2025 06:23:16 +0000
+
 [Microservices are not a starter templates](https://sukhbinder.wordpress.com/2025/05/09/microservices-are-not-a-starter-templates/) - Fri, 09 May 2025 02:15:54 +0000
 
 [Intersection](https://sukhbinder.wordpress.com/2025/04/27/intersection/) - Sun, 27 Apr 2025 06:46:31 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Invert, Always Invert!](https://sukhbinder.wordpress.com/2025/04/08/invert-always-invert/) - 
 
 [My Impressions of Llama 4](https://sukhbinder.wordpress.com/2025/04/07/my-impressions-of-llama-4/) - Mon, 07 Apr 2025 05:10:18 +0000
-
-[Start using local LLM using my smollama-py v0.0.1](https://sukhbinder.wordpress.com/2025/04/05/start-using-local-llm-using-my-smollama-py-v0-0-1/) - Sat, 05 Apr 2025 10:27:06 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
