@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[The #1 reason to learn how to invest:](https://sukhbinder.wordpress.com/2025/05/29/the-1-reason-to-learn-how-to-invest/) - 
+
 [Trying to teach in the age of AI….](https://sukhbinder.wordpress.com/2025/05/27/beating-the-likeness-bots-and-the-cheating-machines/) - 
 
 [AI augmentation is also an amputation](https://sukhbinder.wordpress.com/2025/05/24/ai-augmentation-is-also-an-amputation/) - Sat, 24 May 2025 06:42:21 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Github Profile Updated](https://sukhbinder.wordpress.com/2025/04/14/github-profile-updated/) - Mon, 14 Apr 2025 16:41:04 +0000
 
 [Linus Torvalds built Git in 10 days – and never imagined it would last 20 years](https://sukhbinder.wordpress.com/2025/04/11/linus-torvalds-built-git-in-10-days-and-never-imagined-it-would-last-20-years/) - Fri, 11 Apr 2025 15:41:29 +0000
-
-[winzy visual notify v0.0.4 released](https://sukhbinder.wordpress.com/2025/04/11/winzy-visual-notify-v0-0-4-released/) - Fri, 11 Apr 2025 11:06:09 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
