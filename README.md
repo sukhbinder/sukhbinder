@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Sri Meenakshi Amman Temple Maduari](https://www.youtube.com/watch?v=uhR4AxH1sQ8) - 2025-05-30
+
 [Thirumalai Naicker Palace Madurai](https://www.youtube.com/watch?v=p4b0NinKgPI) - 2025-05-29
 
 [Rural Karnataka | Cave Temple | Just 80km | Shri Kouchkal Muneswara Swami Gudi](https://www.youtube.com/watch?v=3OVirPjNcxQ) - 2025-05-23
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [सैर कर दुनिया की ग़ाफ़िल](https://www.youtube.com/watch?v=pWSfwfKFBh8) - 2025-05-13
 
 [Shri Mudvireshwara Swami Devasthana | Shivgangae | Hill Top Temple](https://www.youtube.com/watch?v=1KNsLEvC8es) - 2025-05-11
-
-[Rameshwaram Dham Mandir | 22 Kund Shnan | Rameshwaram | Kia Sonet #humhairahi](https://www.youtube.com/watch?v=81wXXHgPqVw) - 2025-05-07
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
