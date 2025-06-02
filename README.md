@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Nayak palace Madurai | Travel | Roadtrip | Places to see in Madurai | Kia Sonet](https://www.youtube.com/watch?v=7S2ESE5tpCw) - 2025-06-02
+
 [Sri Meenakshi Amman Temple Maduari](https://www.youtube.com/watch?v=uhR4AxH1sQ8) - 2025-05-30
 
 [Thirumalai Naicker Palace Madurai](https://www.youtube.com/watch?v=p4b0NinKgPI) - 2025-05-29
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Hill Top Temple | Shivgangae | Shri Mudivireshwara Swami Devasthana](https://www.youtube.com/watch?v=HCTe731ljxM) - 2025-05-17
 
 [सैर कर दुनिया की ग़ाफ़िल](https://www.youtube.com/watch?v=pWSfwfKFBh8) - 2025-05-13
-
-[Shri Mudvireshwara Swami Devasthana | Shivgangae | Hill Top Temple](https://www.youtube.com/watch?v=1KNsLEvC8es) - 2025-05-11
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
