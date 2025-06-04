@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[LLMs are electric bicycles for the mind.](https://sukhbinder.wordpress.com/2025/06/04/llms-are-electric-bicycles-for-the-mind/) - Wed, 04 Jun 2025 04:04:34 +0000
+
 [Knowledge Rich Education](https://sukhbinder.wordpress.com/2025/06/03/knowledge-rich-education/) - 
 
 [The #1 reason to learn how to invest:](https://sukhbinder.wordpress.com/2025/05/29/the-1-reason-to-learn-how-to-invest/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Lack of Joy](https://sukhbinder.wordpress.com/2025/04/25/lack-of-joy/) - Fri, 25 Apr 2025 07:06:23 +0000
 
 [If applied this commit will ……..](https://sukhbinder.wordpress.com/2025/04/15/if-applied-this-commit-will/) - 
-
-[Github Profile Updated](https://sukhbinder.wordpress.com/2025/04/14/github-profile-updated/) - Mon, 14 Apr 2025 16:41:04 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
