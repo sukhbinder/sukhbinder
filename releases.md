@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->127<!-- releases_count ends --> releases across <!-- project_count starts -->56<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->128<!-- releases_count ends --> releases across <!-- project_count starts -->56<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[winzy-pdf-to-text](https://github.com/sukhbinder/winzy-pdf-to-text)**: [v0.1.0](https://github.com/sukhbinder/winzy-pdf-to-text/releases/tag/v0.1.0) - ([5 releases total](https://github.com/sukhbinder/winzy-pdf-to-text/releases)) - 2025-06-04
+<br />Extract text from a given pdf
 * **[intersection](https://github.com/sukhbinder/intersection)**: [v1.3.2](https://github.com/sukhbinder/intersection/releases/tag/v1.3.3) - ([6 releases total](https://github.com/sukhbinder/intersection/releases)) - 2025-04-27
 <br />Intersection of curves in python
 * **[vidtoolz-replace-audio](https://github.com/sukhbinder/vidtoolz-replace-audio)**: [v0.0.2](https://github.com/sukhbinder/vidtoolz-replace-audio/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-replace-audio/releases)) - 2025-04-13
@@ -85,8 +87,6 @@ Listing <!-- releases_count starts -->127<!-- releases_count ends --> releases a
 <br />None
 * **[winzy-days-till](https://github.com/sukhbinder/winzy-days-till)**: [Release Notes v0.0.3](https://github.com/sukhbinder/winzy-days-till/releases/tag/v0.0.3) - ([3 releases total](https://github.com/sukhbinder/winzy-days-till/releases)) - 2024-11-07
 <br />Gives days remaining till the given date
-* **[winzy-pdf-to-text](https://github.com/sukhbinder/winzy-pdf-to-text)**: [pypi release](https://github.com/sukhbinder/winzy-pdf-to-text/releases/tag/bf) - ([4 releases total](https://github.com/sukhbinder/winzy-pdf-to-text/releases)) - 2024-10-22
-<br />Extract text from a given pdf
 * **[winzy-webcam](https://github.com/sukhbinder/winzy-webcam)**: [First successful release on pypi](https://github.com/sukhbinder/winzy-webcam/releases/tag/v0.1.3) - ([3 releases total](https://github.com/sukhbinder/winzy-webcam/releases)) - 2024-10-16
 <br />Take image from webcam on laptop
 * **[winzy-text-on-image](https://github.com/sukhbinder/winzy-text-on-image)**: [First release on pypi](https://github.com/sukhbinder/winzy-text-on-image/releases/tag/v0.0.1) - 2024-10-13
