@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Sayer Kar Duniya Ki  | Madurai Trip | #humhairahi](https://www.youtube.com/watch?v=7m5jEV05G4c) - 2025-06-05
+
 [Rameshwaram to Tanjavur Roadtrip Kia Sonet Tamil Nadu Trip #humhairahi](https://www.youtube.com/watch?v=6S_lJbbHsZQ) - 2025-06-04
 
 [Madurai Roadtrip|  Misaal | Satinder Sartaj | Kia Sonet](https://www.youtube.com/watch?v=A5ipvo1MhdY) - 2025-06-03
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Thirumalai Naicker Palace Madurai](https://www.youtube.com/watch?v=p4b0NinKgPI) - 2025-05-29
 
 [Rural Karnataka | Cave Temple | Just 80km | Shri Kouchkal Muneswara Swami Gudi](https://www.youtube.com/watch?v=3OVirPjNcxQ) - 2025-05-23
-
-[Roadtrips | Rural Karnataka](https://www.youtube.com/watch?v=0Vh8Rrgfzvg) - 2025-05-19
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
