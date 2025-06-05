@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->128<!-- releases_count ends --> releases across <!-- project_count starts -->56<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->129<!-- releases_count ends --> releases across <!-- project_count starts -->56<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[vidtoolz-trim](https://github.com/sukhbinder/vidtoolz-trim)**: [v0.0.2](https://github.com/sukhbinder/vidtoolz-trim/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-trim/releases)) - 2025-06-05
+<br />Trim video using ffmpeg
 * **[winzy-pdf-to-text](https://github.com/sukhbinder/winzy-pdf-to-text)**: [v0.1.0](https://github.com/sukhbinder/winzy-pdf-to-text/releases/tag/v0.1.0) - ([5 releases total](https://github.com/sukhbinder/winzy-pdf-to-text/releases)) - 2025-06-04
 <br />Extract text from a given pdf
 * **[intersection](https://github.com/sukhbinder/intersection)**: [v1.3.2](https://github.com/sukhbinder/intersection/releases/tag/v1.3.3) - ([6 releases total](https://github.com/sukhbinder/intersection/releases)) - 2025-04-27
@@ -41,8 +43,6 @@ Listing <!-- releases_count starts -->128<!-- releases_count ends --> releases a
 <br />Create Reminders in macos with cli
 * **[vidtoolz-concat](https://github.com/sukhbinder/vidtoolz-concat)**: [](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.1) - 2025-01-08
 <br />Concat videos using ffmpeg 
-* **[vidtoolz-trim](https://github.com/sukhbinder/vidtoolz-trim)**: [](https://github.com/sukhbinder/vidtoolz-trim/releases/tag/v0.0.1) - 2025-01-08
-<br />Trim video using ffmpeg
 * **[vidtoolz-beats](https://github.com/sukhbinder/vidtoolz-beats)**: [](https://github.com/sukhbinder/vidtoolz-beats/releases/tag/v0.0.1) - 2025-01-08
 <br />Get beats from a mp3 song
 * **[vidtoolz-shorts](https://github.com/sukhbinder/vidtoolz-shorts)**: [](https://github.com/sukhbinder/vidtoolz-shorts/releases/tag/v0.0.1) - 2025-01-08
