@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->129<!-- releases_count ends --> releases across <!-- project_count starts -->56<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->130<!-- releases_count ends --> releases across <!-- project_count starts -->56<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [v0.1.2](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.2) - ([3 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2025-06-06
+<br />CLI tools for editing videos in python. A plugin based approach.
 * **[vidtoolz-trim](https://github.com/sukhbinder/vidtoolz-trim)**: [v0.0.2](https://github.com/sukhbinder/vidtoolz-trim/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-trim/releases)) - 2025-06-05
 <br />Trim video using ffmpeg
 * **[winzy-pdf-to-text](https://github.com/sukhbinder/winzy-pdf-to-text)**: [v0.1.0](https://github.com/sukhbinder/winzy-pdf-to-text/releases/tag/v0.1.0) - ([5 releases total](https://github.com/sukhbinder/winzy-pdf-to-text/releases)) - 2025-06-04
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->129<!-- releases_count ends --> releases a
 <br />LLM plugin for talking to models exposed by DuckDuckGo AI Chat service.
 * **[vidtoolz-apply-fadein-fadeout](https://github.com/sukhbinder/vidtoolz-apply-fadein-fadeout)**: [v0.0.1](https://github.com/sukhbinder/vidtoolz-apply-fadein-fadeout/releases/tag/v0.0.1) - 2025-03-16
 <br />Apply fadein-fadeout effects on videos
-* **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2025-03-16
-<br />CLI tools for editing videos in python. A plugin based approach.
 * **[vidtoolz-apply-greenscreen](https://github.com/sukhbinder/vidtoolz-apply-greenscreen)**: [v0.0.1](https://github.com/sukhbinder/vidtoolz-apply-greenscreen/releases/tag/v0.0.1) - 2025-03-16
 <br />Apply greenscreen video on top of a video
 * **[vidtoolz-add-sound](https://github.com/sukhbinder/vidtoolz-add-sound)**: [](https://github.com/sukhbinder/vidtoolz-add-sound/releases/tag/v0.0.1) - 2025-03-14
