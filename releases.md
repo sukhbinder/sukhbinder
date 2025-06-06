@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->130<!-- releases_count ends --> releases across <!-- project_count starts -->56<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->131<!-- releases_count ends --> releases across <!-- project_count starts -->57<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[tera-tera](https://github.com/sukhbinder/tera-tera)**: [v0.1.0](https://github.com/sukhbinder/tera-tera/releases/tag/v0.1.0) - 2025-06-06
+<br />Tera tera app to do langar seva at various gurudwara's
 * **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [v0.1.2](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.2) - ([3 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2025-06-06
 <br />CLI tools for editing videos in python. A plugin based approach.
 * **[vidtoolz-trim](https://github.com/sukhbinder/vidtoolz-trim)**: [v0.0.2](https://github.com/sukhbinder/vidtoolz-trim/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-trim/releases)) - 2025-06-05
