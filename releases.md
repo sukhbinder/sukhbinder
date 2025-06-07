@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->131<!-- releases_count ends --> releases across <!-- project_count starts -->57<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->132<!-- releases_count ends --> releases across <!-- project_count starts -->57<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[vidtoolz-add-text](https://github.com/sukhbinder/vidtoolz-add-text)**: [v0.4.0](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.4.0) - ([3 releases total](https://github.com/sukhbinder/vidtoolz-add-text/releases)) - 2025-06-07
+<br />Add text to a video file
 * **[tera-tera](https://github.com/sukhbinder/tera-tera)**: [v0.1.0](https://github.com/sukhbinder/tera-tera/releases/tag/v0.1.0) - 2025-06-06
 <br />Tera tera app to do langar seva at various gurudwara's
 * **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [v0.1.2](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.2) - ([3 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2025-06-06
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->131<!-- releases_count ends --> releases a
 <br />Replace audio for a video file
 * **[winzy-visual-notify](https://github.com/sukhbinder/winzy-visual-notify)**: [v0.0.4](https://github.com/sukhbinder/winzy-visual-notify/releases/tag/v0.0.4) - ([4 releases total](https://github.com/sukhbinder/winzy-visual-notify/releases)) - 2025-04-11
 <br />Notify using visual artefacts like clippy and other things.
-* **[vidtoolz-add-text](https://github.com/sukhbinder/vidtoolz-add-text)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.0.3) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-add-text/releases)) - 2025-04-10
-<br />Add text to a video file
 * **[smollama-py](https://github.com/sukhbinder/smollama-py)**: [v0.0.2](https://github.com/sukhbinder/smollama-py/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/smollama-py/releases)) - 2025-04-07
 <br />A python app to serve smOllama - lightweight web browser chatbot interface for Ollama models
 * **[winzy-days-from](https://github.com/sukhbinder/winzy-days-from)**: [](https://github.com/sukhbinder/winzy-days-from/releases/tag/v0.0.1) - 2025-04-04

@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[vidtoolz-add-text v0.4.0](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.4.0) - 2025-06-07
+
 [tera-tera v0.1.0](https://github.com/sukhbinder/tera-tera/releases/tag/v0.1.0) - 2025-06-06
 
 [vidtoolz v0.1.2](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.2) - 2025-06-06
@@ -32,8 +34,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [vidtoolz-replace-audio v0.0.2](https://github.com/sukhbinder/vidtoolz-replace-audio/releases/tag/v0.0.2) - 2025-04-13
 
 [winzy-visual-notify v0.0.4](https://github.com/sukhbinder/winzy-visual-notify/releases/tag/v0.0.4) - 2025-04-11
-
-[vidtoolz-add-text v0.0.3](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.0.3) - 2025-04-10
 
 [smollama-py v0.0.2](https://github.com/sukhbinder/smollama-py/releases/tag/v0.0.2) - 2025-04-07
 
