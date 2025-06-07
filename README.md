@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Gayatri Pariwar | Madurai](https://www.youtube.com/watch?v=2bq350aOcl0) - 2025-06-07
+
 [Sayer Kar Duniya Ki  | Madurai Trip | #humhairahi](https://www.youtube.com/watch?v=7m5jEV05G4c) - 2025-06-05
 
 [Rameshwaram to Tanjavur Roadtrip Kia Sonet Tamil Nadu Trip #humhairahi](https://www.youtube.com/watch?v=6S_lJbbHsZQ) - 2025-06-04
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Sri Meenakshi Amman Temple Maduari](https://www.youtube.com/watch?v=uhR4AxH1sQ8) - 2025-05-30
 
 [Thirumalai Naicker Palace Madurai](https://www.youtube.com/watch?v=p4b0NinKgPI) - 2025-05-29
-
-[Rural Karnataka | Cave Temple | Just 80km | Shri Kouchkal Muneswara Swami Gudi](https://www.youtube.com/watch?v=3OVirPjNcxQ) - 2025-05-23
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
