@@ -19,9 +19,9 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
-[vidtoolz-trim v0.1.2](https://github.com/sukhbinder/vidtoolz-trim/releases/tag/v0.1.2) - 2025-06-08
+[vidtoolz-add-text v0.4.1](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.4.1) - 2025-06-10
 
-[vidtoolz-add-text v0.4.0](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.4.0) - 2025-06-07
+[vidtoolz-trim v0.1.2](https://github.com/sukhbinder/vidtoolz-trim/releases/tag/v0.1.2) - 2025-06-08
 
 [tera-tera v0.1.0](https://github.com/sukhbinder/tera-tera/releases/tag/v0.1.0) - 2025-06-06
 
