@@ -19,11 +19,11 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[tera-tera v0.1.1](https://github.com/sukhbinder/tera-tera/releases/tag/v0.1.1a) - 2025-06-12
+
 [vidtoolz-add-text v0.4.1](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.4.1) - 2025-06-10
 
 [vidtoolz-trim v0.1.2](https://github.com/sukhbinder/vidtoolz-trim/releases/tag/v0.1.2) - 2025-06-08
-
-[tera-tera v0.1.0](https://github.com/sukhbinder/tera-tera/releases/tag/v0.1.0) - 2025-06-06
 
 [vidtoolz v0.1.2](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.2) - 2025-06-06
 
@@ -75,17 +75,17 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 <!-- youtube starts -->
 [Places to see in Tanjavur | Big Temple | Tanjavur Place | Kia Sonet | #humhairahi](https://www.youtube.com/watch?v=C-MqUtR6a-U) - 2025-06-11
 
-[Danushkodi Beach Drive with Kia sonet #humhairahi](https://www.youtube.com/shorts/B5zF2n5NLjQ) - 2025-06-11
+[Danushkodi Beach Drive with Kia sonet #humhairahi](https://www.youtube.com/watch?v=B5zF2n5NLjQ) - 2025-06-11
 
-[Gayatri Pariwar | Madurai](https://www.youtube.com/shorts/2bq350aOcl0) - 2025-06-07
+[Gayatri Pariwar | Madurai](https://www.youtube.com/watch?v=2bq350aOcl0) - 2025-06-07
 
-[Sayer Kar Duniya Ki  | Madurai Trip | #humhairahi](https://www.youtube.com/shorts/7m5jEV05G4c) - 2025-06-05
+[Sayer Kar Duniya Ki  | Madurai Trip | #humhairahi](https://www.youtube.com/watch?v=7m5jEV05G4c) - 2025-06-05
 
 [Rameshwaram to Tanjavur Roadtrip Kia Sonet Tamil Nadu Trip #humhairahi](https://www.youtube.com/watch?v=6S_lJbbHsZQ) - 2025-06-04
 
-[Madurai Roadtrip|  Misaal | Satinder Sartaj | Kia Sonet](https://www.youtube.com/shorts/A5ipvo1MhdY) - 2025-06-03
+[Madurai Roadtrip|  Misaal | Satinder Sartaj | Kia Sonet](https://www.youtube.com/watch?v=A5ipvo1MhdY) - 2025-06-03
 
-[Nayak palace Madurai | Travel | Roadtrip | Places to see in Madurai | Kia Sonet](https://www.youtube.com/shorts/7S2ESE5tpCw) - 2025-06-02
+[Nayak palace Madurai | Travel | Roadtrip | Places to see in Madurai | Kia Sonet](https://www.youtube.com/watch?v=7S2ESE5tpCw) - 2025-06-02
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
