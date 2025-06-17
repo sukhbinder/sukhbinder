@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Gurudwara Nanak Dham Rameshwaram Historical Gurudwara Sahib](https://www.youtube.com/shorts/0-OU-2ui4t0) - 2025-06-17
+
 [Dhanuskodi Ruins Reclaimed by Nature](https://www.youtube.com/shorts/oGvdGY6CgbQ) - 2025-06-13
 
 [Places to see in Tanjavur | Big Temple | Tanjavur Place | Kia Sonet | #humhairahi](https://www.youtube.com/watch?v=C-MqUtR6a-U) - 2025-06-11
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Sayer Kar Duniya Ki  | Madurai Trip | #humhairahi](https://www.youtube.com/shorts/7m5jEV05G4c) - 2025-06-05
 
 [Rameshwaram to Tanjavur Roadtrip Kia Sonet Tamil Nadu Trip #humhairahi](https://www.youtube.com/watch?v=6S_lJbbHsZQ) - 2025-06-04
-
-[Madurai Roadtrip|  Misaal | Satinder Sartaj | Kia Sonet](https://www.youtube.com/shorts/A5ipvo1MhdY) - 2025-06-03
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
