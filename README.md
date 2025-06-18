@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Pitfalls of premature closure with LLM assisted coding .](https://sukhbinder.wordpress.com/2025/06/18/pitfalls-of-premature-closure-with-llm-assisted-coding/) - Wed, 18 Jun 2025 04:01:28 +0000
+
 [The runners high doesnt come to those that take the bus.](https://sukhbinder.wordpress.com/2025/06/16/the-runners-high-doesnt-come-to-those-that-take-the-bus/) - Mon, 16 Jun 2025 03:38:08 +0000
 
 [Journey To Remember](https://sukhbinder.wordpress.com/2025/06/14/journey-to-remember/) - Sat, 14 Jun 2025 06:21:38 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [AI augmentation is also an amputation](https://sukhbinder.wordpress.com/2025/05/24/ai-augmentation-is-also-an-amputation/) - Sat, 24 May 2025 06:42:21 +0000
 
 [Achievement unlocked](https://sukhbinder.wordpress.com/2025/05/24/achievement-unlocked/) - Sat, 24 May 2025 06:23:16 +0000
-
-[Microservices are not a starter templates](https://sukhbinder.wordpress.com/2025/05/09/microservices-are-not-a-starter-templates/) - Fri, 09 May 2025 02:15:54 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
