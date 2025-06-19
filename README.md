@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[The Iconic Pamban Bridge Rameshwaram](https://www.youtube.com/shorts/jVa3TBa9TPI) - 2025-06-19
+
 [Tanjavur to Bangalore Roadtrip | Tamil Nadu |Travel #humhairahi #kiasonet](https://www.youtube.com/watch?v=dC02ALcV_uI) - 2025-06-18
 
 [Gurudwara Nanak Dham Rameshwaram Historical Gurudwara Sahib](https://www.youtube.com/shorts/0-OU-2ui4t0) - 2025-06-17
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Danushkodi Beach Drive with Kia sonet #humhairahi](https://www.youtube.com/shorts/B5zF2n5NLjQ) - 2025-06-11
 
 [Gayatri Pariwar | Madurai](https://www.youtube.com/shorts/2bq350aOcl0) - 2025-06-07
-
-[Sayer Kar Duniya Ki  | Madurai Trip | #humhairahi](https://www.youtube.com/shorts/7m5jEV05G4c) - 2025-06-05
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
