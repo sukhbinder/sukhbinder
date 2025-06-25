@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Bangalore to Chitradurga Roadtrip #kiasonet #humhairahi](https://www.youtube.com/watch?v=-m977gai8-4) - 2025-06-25
+
 [सैर कर दुनिया की ग़ाफ़िल Towards Rameshwaram](https://www.youtube.com/shorts/r7mFsrKolNo) - 2025-06-23
 
 [The Iconic Pamban Bridge Rameshwaram](https://www.youtube.com/shorts/jVa3TBa9TPI) - 2025-06-19
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Dhanuskodi Ruins Reclaimed by Nature](https://www.youtube.com/shorts/oGvdGY6CgbQ) - 2025-06-13
 
 [Places to see in Tanjavur | Big Temple | Tanjavur Place | Kia Sonet | #humhairahi](https://www.youtube.com/watch?v=C-MqUtR6a-U) - 2025-06-11
-
-[Danushkodi Beach Drive with Kia sonet #humhairahi](https://www.youtube.com/shorts/B5zF2n5NLjQ) - 2025-06-11
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
