@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->136<!-- releases_count ends --> releases across <!-- project_count starts -->57<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->138<!-- releases_count ends --> releases across <!-- project_count starts -->57<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[vidtoolz-concat](https://github.com/sukhbinder/vidtoolz-concat)**: [v0.03](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.3a) - ([3 releases total](https://github.com/sukhbinder/vidtoolz-concat/releases)) - 2025-06-27
+<br />Concat videos using ffmpeg 
 * **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [v0.1.3](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.3) - ([4 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2025-06-27
 <br />CLI tools for editing videos in python. A plugin based approach.
 * **[tera-tera](https://github.com/sukhbinder/tera-tera)**: [v0.1.1](https://github.com/sukhbinder/tera-tera/releases/tag/v0.1.1a) - ([2 releases total](https://github.com/sukhbinder/tera-tera/releases)) - 2025-06-12
@@ -43,8 +45,6 @@ Listing <!-- releases_count starts -->136<!-- releases_count ends --> releases a
 <br />Run tasks in loop from cli
 * **[winzy-macos-reminder](https://github.com/sukhbinder/winzy-macos-reminder)**: [v0.0.3 release](https://github.com/sukhbinder/winzy-macos-reminder/releases/tag/v0.0.3) - ([3 releases total](https://github.com/sukhbinder/winzy-macos-reminder/releases)) - 2025-01-08
 <br />Create Reminders in macos with cli
-* **[vidtoolz-concat](https://github.com/sukhbinder/vidtoolz-concat)**: [](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.1) - 2025-01-08
-<br />Concat videos using ffmpeg 
 * **[vidtoolz-beats](https://github.com/sukhbinder/vidtoolz-beats)**: [](https://github.com/sukhbinder/vidtoolz-beats/releases/tag/v0.0.1) - 2025-01-08
 <br />Get beats from a mp3 song
 * **[vidtoolz-shorts](https://github.com/sukhbinder/vidtoolz-shorts)**: [](https://github.com/sukhbinder/vidtoolz-shorts/releases/tag/v0.0.1) - 2025-01-08

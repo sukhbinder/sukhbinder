@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[vidtoolz-concat v0.03](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.3a) - 2025-06-27
+
 [vidtoolz v0.1.3](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.3) - 2025-06-27
 
 [tera-tera v0.1.1](https://github.com/sukhbinder/tera-tera/releases/tag/v0.1.1a) - 2025-06-12
@@ -40,8 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [winzy-days-from ](https://github.com/sukhbinder/winzy-days-from/releases/tag/v0.0.1) - 2025-04-04
 
 [screenrecord ](https://github.com/sukhbinder/screenrecord/releases/tag/v1.1.3a) - 2025-03-29
-
-[duckduckgo-ai-chat ](https://github.com/sukhbinder/duckduckgo-ai-chat/releases/tag/v0.0.8a) - 2025-03-28
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
