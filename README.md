@@ -21,7 +21,7 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 <!-- recent_releases starts -->
 [winzy-selected-file v0.1.0](https://github.com/sukhbinder/winzy-selected-file/releases/tag/v0.1.0) - 2025-06-28
 
-[vidtoolz-concat v0.03](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.3a) - 2025-06-27
+[vidtoolz-concat v0.0.3](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.3a) - 2025-06-27
 
 [vidtoolz v0.1.3](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.3) - 2025-06-27
 
@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[winzy-selected-file](https://sukhbinder.wordpress.com/2025/06/28/winzy-selected-file/) - Sat, 28 Jun 2025 03:46:54 +0000
+
 [Pitfalls of premature closure with LLM assisted coding .](https://sukhbinder.wordpress.com/2025/06/18/pitfalls-of-premature-closure-with-llm-assisted-coding/) - Wed, 18 Jun 2025 04:01:28 +0000
 
 [The runners high doesnt come to those that take the bus.](https://sukhbinder.wordpress.com/2025/06/16/the-runners-high-doesnt-come-to-those-that-take-the-bus/) - Mon, 16 Jun 2025 03:38:08 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Trying to teach in the age of AI….](https://sukhbinder.wordpress.com/2025/05/27/beating-the-likeness-bots-and-the-cheating-machines/) - 
 
 [AI augmentation is also an amputation](https://sukhbinder.wordpress.com/2025/05/24/ai-augmentation-is-also-an-amputation/) - Sat, 24 May 2025 06:42:21 +0000
-
-[Achievement unlocked](https://sukhbinder.wordpress.com/2025/05/24/achievement-unlocked/) - Sat, 24 May 2025 06:23:16 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
