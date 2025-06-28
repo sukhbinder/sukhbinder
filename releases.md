@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->138<!-- releases_count ends --> releases across <!-- project_count starts -->57<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->139<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[winzy-selected-file](https://github.com/sukhbinder/winzy-selected-file)**: [v0.1.0](https://github.com/sukhbinder/winzy-selected-file/releases/tag/v0.1.0) - 2025-06-28
+<br />Get selected files on Mac os in console
 * **[vidtoolz-concat](https://github.com/sukhbinder/vidtoolz-concat)**: [v0.03](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.3a) - ([3 releases total](https://github.com/sukhbinder/vidtoolz-concat/releases)) - 2025-06-27
 <br />Concat videos using ffmpeg 
 * **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [v0.1.3](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.3) - ([4 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2025-06-27
