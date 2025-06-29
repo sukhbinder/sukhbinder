@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[How to start python app at system login on macOS](https://sukhbinder.wordpress.com/2025/06/29/how-to-start-python-app-at-system-login-on-macos/) - Sun, 29 Jun 2025 04:13:17 +0000
+
 [winzy-selected-file](https://sukhbinder.wordpress.com/2025/06/28/winzy-selected-file/) - Sat, 28 Jun 2025 03:46:54 +0000
 
 [Pitfalls of premature closure with LLM assisted coding .](https://sukhbinder.wordpress.com/2025/06/18/pitfalls-of-premature-closure-with-llm-assisted-coding/) - Wed, 18 Jun 2025 04:01:28 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [The #1 reason to learn how to invest:](https://sukhbinder.wordpress.com/2025/05/29/the-1-reason-to-learn-how-to-invest/) - 
 
 [Trying to teach in the age of AI….](https://sukhbinder.wordpress.com/2025/05/27/beating-the-likeness-bots-and-the-cheating-machines/) - 
-
-[AI augmentation is also an amputation](https://sukhbinder.wordpress.com/2025/05/24/ai-augmentation-is-also-an-amputation/) - Sat, 24 May 2025 06:42:21 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
