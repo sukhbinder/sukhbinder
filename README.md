@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Rules](https://sukhbinder.wordpress.com/2025/06/30/rules/) - Mon, 30 Jun 2025 02:56:00 +0000
+
 [How to start python app at system login on macOS](https://sukhbinder.wordpress.com/2025/06/29/how-to-start-python-app-at-system-login-on-macos/) - Sun, 29 Jun 2025 04:13:17 +0000
 
 [winzy-selected-file](https://sukhbinder.wordpress.com/2025/06/28/winzy-selected-file/) - Sat, 28 Jun 2025 03:46:54 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Knowledge Rich Education](https://sukhbinder.wordpress.com/2025/06/03/knowledge-rich-education/) - 
 
 [The #1 reason to learn how to invest:](https://sukhbinder.wordpress.com/2025/05/29/the-1-reason-to-learn-how-to-invest/) - 
-
-[Trying to teach in the age of AI….](https://sukhbinder.wordpress.com/2025/05/27/beating-the-likeness-bots-and-the-cheating-machines/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
