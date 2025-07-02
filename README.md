@@ -73,6 +73,10 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Exploring Chitradurga Fort | Monkey Man | Karnataka #humhairahi #kiasonet #travel](https://www.youtube.com/watch?v=nZTO013UNk0) - 2025-07-02
+
+[Rameshwaran Gurudwara Sahib Nanak Dham](https://www.youtube.com/shorts/-9wr90hdv20) - 2025-07-02
+
 [Drive on Pamban Bridge | Kia Sonet | Beautiful Drive](https://www.youtube.com/shorts/RquIM_syhA4) - 2025-06-29
 
 [Bangalore to Chitradurga Roadtrip #kiasonet #humhairahi](https://www.youtube.com/watch?v=-m977gai8-4) - 2025-06-25
@@ -82,10 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [The Iconic Pamban Bridge Rameshwaram](https://www.youtube.com/shorts/jVa3TBa9TPI) - 2025-06-19
 
 [Tanjavur to Bangalore Roadtrip | Tamil Nadu |Travel #humhairahi #kiasonet](https://www.youtube.com/watch?v=dC02ALcV_uI) - 2025-06-18
-
-[Gurudwara Nanak Dham Rameshwaram Historical Gurudwara Sahib](https://www.youtube.com/shorts/0-OU-2ui4t0) - 2025-06-17
-
-[Dhanuskodi Ruins Reclaimed by Nature](https://www.youtube.com/shorts/oGvdGY6CgbQ) - 2025-06-13
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
