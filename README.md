@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[The ₹4,843 Crore Heist](https://sukhbinder.wordpress.com/2025/07/04/the-%e2%82%b94843-crore-heist/) - Fri, 04 Jul 2025 15:50:59 +0000
+
 [Rules](https://sukhbinder.wordpress.com/2025/06/30/rules/) - Mon, 30 Jun 2025 02:56:00 +0000
 
 [How to start python app at system login on macOS](https://sukhbinder.wordpress.com/2025/06/29/how-to-start-python-app-at-system-login-on-macos/) - Sun, 29 Jun 2025 04:13:17 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [LLMs are electric bicycles for the mind.](https://sukhbinder.wordpress.com/2025/06/04/llms-are-electric-bicycles-for-the-mind/) - Wed, 04 Jun 2025 04:04:34 +0000
 
 [Knowledge Rich Education](https://sukhbinder.wordpress.com/2025/06/03/knowledge-rich-education/) - 
-
-[The #1 reason to learn how to invest:](https://sukhbinder.wordpress.com/2025/05/29/the-1-reason-to-learn-how-to-invest/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
