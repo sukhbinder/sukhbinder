@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[The Brihadeeswarar Temple  #roadtrips #automobile #vacationideas #humhairahi](https://www.youtube.com/shorts/gOpiu-MCfgM) - 2025-07-05
+
 [Tanjavur Big Temple #humhairahi #travel #kiasonet  #roadtrips #automobile #vacationideas](https://www.youtube.com/shorts/ZjKfSJtLIog) - 2025-07-03
 
 [Monkey Man at Chitradurga Fort | chitradurga with guide | Karnataka #humhairahi #kiasonet #travel](https://www.youtube.com/watch?v=nZTO013UNk0) - 2025-07-02
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Bangalore to Chitradurga Roadtrip #kiasonet #humhairahi](https://www.youtube.com/watch?v=-m977gai8-4) - 2025-06-25
 
 [सैर कर दुनिया की ग़ाफ़िल Towards Rameshwaram](https://www.youtube.com/shorts/r7mFsrKolNo) - 2025-06-23
-
-[The Iconic Pamban Bridge Rameshwaram](https://www.youtube.com/shorts/jVa3TBa9TPI) - 2025-06-19
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
