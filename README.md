@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Introducing crontab-win](https://sukhbinder.wordpress.com/2025/07/08/introducing-crontab-win/) - 
+
 [Discontinued duckduckgo-ai-chat](https://sukhbinder.wordpress.com/2025/07/05/discontinued-duckduckgo-ai-chat/) - Sat, 05 Jul 2025 03:37:52 +0000
 
 [The ₹4,843 Crore Heist](https://sukhbinder.wordpress.com/2025/07/04/the-%e2%82%b94843-crore-heist/) - Fri, 04 Jul 2025 15:50:59 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Journey To Remember](https://sukhbinder.wordpress.com/2025/06/14/journey-to-remember/) - Sat, 14 Jun 2025 06:21:38 +0000
 
 [Embrace Constraints](https://sukhbinder.wordpress.com/2025/06/10/embrace-constraints/) - 
-
-[LLMs are electric bicycles for the mind.](https://sukhbinder.wordpress.com/2025/06/04/llms-are-electric-bicycles-for-the-mind/) - Wed, 04 Jun 2025 04:04:34 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
