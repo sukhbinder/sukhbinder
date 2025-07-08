@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->140<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->141<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[crontab-win](https://github.com/sukhbinder/crontab-win)**: [v0.0.2](https://github.com/sukhbinder/crontab-win/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/crontab-win/releases)) - 2025-07-08
+<br />Crontab for windows
 * **[vidtoolz-intro](https://github.com/sukhbinder/vidtoolz-intro)**: [](https://github.com/sukhbinder/vidtoolz-intro/releases/tag/v0.1.1) - 2025-07-03
 <br />Create intro video from a series of videos
 * **[winzy-selected-file](https://github.com/sukhbinder/winzy-selected-file)**: [v0.1.0](https://github.com/sukhbinder/winzy-selected-file/releases/tag/v0.1.0) - 2025-06-28
@@ -57,8 +59,6 @@ Listing <!-- releases_count starts -->140<!-- releases_count ends --> releases a
 <br />Never let the windows system sleep
 * **[winzy-convert](https://github.com/sukhbinder/winzy-convert)**: [](https://github.com/sukhbinder/winzy-convert/releases/tag/v0.0.1) - 2024-12-24
 <br />Mimic's convert to convert images to pdf, ppt etc.
-* **[crontab-win](https://github.com/sukhbinder/crontab-win)**: [v0.0.1](https://github.com/sukhbinder/crontab-win/releases/tag/v0.0.1) - 2024-12-21
-<br />Crontab for windows
 * **[winzy-head-tail](https://github.com/sukhbinder/winzy-head-tail)**: [v0.0.1](https://github.com/sukhbinder/winzy-head-tail/releases/tag/v0.0.1) - 2024-12-21
 <br />Mimics head and tail command using python
 * **[winzy-horoscope](https://github.com/sukhbinder/winzy-horoscope)**: [First release](https://github.com/sukhbinder/winzy-horoscope/releases/tag/v0.0.1) - 2024-12-16
