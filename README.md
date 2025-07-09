@@ -48,7 +48,7 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
-[Introducing crontab-win](https://sukhbinder.wordpress.com/2025/07/08/introducing-crontab-win/) - 
+[Introducing crontab-win – crontab for windows](https://sukhbinder.wordpress.com/2025/07/08/introducing-crontab-win/) - 
 
 [Discontinued duckduckgo-ai-chat](https://sukhbinder.wordpress.com/2025/07/05/discontinued-duckduckgo-ai-chat/) - Sat, 05 Jul 2025 03:37:52 +0000
 
@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Exploring Chandravali caves | Chirtradurga | DRDO stay | #kiasonet #humhairahi #travel](https://www.youtube.com/watch?v=n1o5Rta-NuU) - 2025-07-09
+
 [UNESCO World Heritage Site  #roadtrips #automobile #vacationideas #humhairahi](https://www.youtube.com/shorts/gkHnVCybW4g) - 2025-07-07
 
 [The Brihadeeswarar Temple  #roadtrips #automobile #vacationideas #humhairahi](https://www.youtube.com/shorts/gOpiu-MCfgM) - 2025-07-05
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Rameshwaran Gurudwara Sahib Nanak Dham](https://www.youtube.com/shorts/-9wr90hdv20) - 2025-07-02
 
 [Drive on Pamban Bridge | Kia Sonet | Beautiful Drive](https://www.youtube.com/shorts/RquIM_syhA4) - 2025-06-29
-
-[Bangalore to Chitradurga Roadtrip #kiasonet #humhairahi](https://www.youtube.com/watch?v=-m977gai8-4) - 2025-06-25
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
