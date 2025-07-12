@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->141<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->142<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [v0.1.4](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.4) - ([5 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2025-07-12
+<br />CLI tools for editing videos in python. A plugin based approach.
 * **[crontab-win](https://github.com/sukhbinder/crontab-win)**: [v0.0.2](https://github.com/sukhbinder/crontab-win/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/crontab-win/releases)) - 2025-07-08
 <br />Crontab for windows
 * **[vidtoolz-intro](https://github.com/sukhbinder/vidtoolz-intro)**: [](https://github.com/sukhbinder/vidtoolz-intro/releases/tag/v0.1.1) - 2025-07-03
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->141<!-- releases_count ends --> releases a
 <br />Get selected files on Mac os in console
 * **[vidtoolz-concat](https://github.com/sukhbinder/vidtoolz-concat)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.3a) - ([3 releases total](https://github.com/sukhbinder/vidtoolz-concat/releases)) - 2025-06-27
 <br />Concat videos using ffmpeg 
-* **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [v0.1.3](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.3) - ([4 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2025-06-27
-<br />CLI tools for editing videos in python. A plugin based approach.
 * **[tera-tera](https://github.com/sukhbinder/tera-tera)**: [v0.1.1](https://github.com/sukhbinder/tera-tera/releases/tag/v0.1.1a) - ([2 releases total](https://github.com/sukhbinder/tera-tera/releases)) - 2025-06-12
 <br />Tera tera app to do langar seva at various gurudwara's
 * **[vidtoolz-add-text](https://github.com/sukhbinder/vidtoolz-add-text)**: [v0.4.1](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.4.1) - ([4 releases total](https://github.com/sukhbinder/vidtoolz-add-text/releases)) - 2025-06-10

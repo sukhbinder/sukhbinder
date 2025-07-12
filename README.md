@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[vidtoolz v0.1.4](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.4) - 2025-07-12
+
 [crontab-win v0.0.2](https://github.com/sukhbinder/crontab-win/releases/tag/v0.0.2) - 2025-07-08
 
 [vidtoolz-intro ](https://github.com/sukhbinder/vidtoolz-intro/releases/tag/v0.1.1) - 2025-07-03
@@ -26,8 +28,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [winzy-selected-file v0.1.0](https://github.com/sukhbinder/winzy-selected-file/releases/tag/v0.1.0) - 2025-06-28
 
 [vidtoolz-concat v0.0.3](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.3a) - 2025-06-27
-
-[vidtoolz v0.1.3](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.3) - 2025-06-27
 
 [tera-tera v0.1.1](https://github.com/sukhbinder/tera-tera/releases/tag/v0.1.1a) - 2025-06-12
 
