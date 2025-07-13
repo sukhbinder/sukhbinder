@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->142<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->143<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[winzy](https://github.com/sukhbinder/winzy)**: [v0.0.3](https://github.com/sukhbinder/winzy/releases/tag/v0.0.3) - ([7 releases total](https://github.com/sukhbinder/winzy/releases)) - 2025-07-13
+<br />CLI tools for windows. A plugin based approach.
 * **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [v0.1.4](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.4) - ([5 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2025-07-12
 <br />CLI tools for editing videos in python. A plugin based approach.
 * **[crontab-win](https://github.com/sukhbinder/crontab-win)**: [v0.0.2](https://github.com/sukhbinder/crontab-win/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/crontab-win/releases)) - 2025-07-08
@@ -75,8 +77,6 @@ Listing <!-- releases_count starts -->142<!-- releases_count ends --> releases a
 <br />Create gifs from files in a folder.
 * **[winzy-win-geometry](https://github.com/sukhbinder/winzy-win-geometry)**: [Latest release with light dependencies](https://github.com/sukhbinder/winzy-win-geometry/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/winzy-win-geometry/releases)) - 2024-11-18
 <br />Get window geometry as a percentage of screen size.
-* **[winzy](https://github.com/sukhbinder/winzy)**: [Updated Plugin List](https://github.com/sukhbinder/winzy/releases/tag/v0.0.2) - ([6 releases total](https://github.com/sukhbinder/winzy/releases)) - 2024-11-17
-<br />CLI tools for windows. A plugin based approach.
 * **[winzy-notify](https://github.com/sukhbinder/winzy-notify)**: [Release Notes for  v0.0.1](https://github.com/sukhbinder/winzy-notify/releases/tag/v0.0.1) - 2024-11-15
 <br />Show Notification in Mac and Windows
 * **[winzy-weather](https://github.com/sukhbinder/winzy-weather)**: [Release Notes](https://github.com/sukhbinder/winzy-weather/releases/tag/v0.0.1) - 2024-11-14

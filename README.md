@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[winzy v0.0.3](https://github.com/sukhbinder/winzy/releases/tag/v0.0.3) - 2025-07-13
+
 [vidtoolz v0.1.4](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.4) - 2025-07-12
 
 [crontab-win v0.0.2](https://github.com/sukhbinder/crontab-win/releases/tag/v0.0.2) - 2025-07-08
@@ -40,8 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [intersection v1.3.2](https://github.com/sukhbinder/intersection/releases/tag/v1.3.3) - 2025-04-27
 
 [vidtoolz-replace-audio v0.0.2](https://github.com/sukhbinder/vidtoolz-replace-audio/releases/tag/v0.0.2) - 2025-04-13
-
-[winzy-visual-notify v0.0.4](https://github.com/sukhbinder/winzy-visual-notify/releases/tag/v0.0.4) - 2025-04-11
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
