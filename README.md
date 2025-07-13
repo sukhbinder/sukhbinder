@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Chitradurga Fort](https://www.youtube.com/shorts/kAwIhOElnGg) - 2025-07-13
+
 [Tanjavur Palace  #humhairahi #roadtrips #automobile  #vacationideas](https://www.youtube.com/shorts/hr5W63wwKxQ) - 2025-07-11
 
 [Exploring Chandravali caves | Chirtradurga | DRDO stay | #kiasonet #humhairahi #travel](https://www.youtube.com/watch?v=n1o5Rta-NuU) - 2025-07-09
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Tanjavur Big Temple #humhairahi #travel #kiasonet  #roadtrips #automobile #vacationideas](https://www.youtube.com/shorts/ZjKfSJtLIog) - 2025-07-03
 
 [Monkey Man at Chitradurga Fort | chitradurga with guide | Karnataka #humhairahi #kiasonet #travel](https://www.youtube.com/watch?v=nZTO013UNk0) - 2025-07-02
-
-[Rameshwaran Gurudwara Sahib Nanak Dham](https://www.youtube.com/shorts/-9wr90hdv20) - 2025-07-02
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
