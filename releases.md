@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->143<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->144<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[winzy-convert](https://github.com/sukhbinder/winzy-convert)**: [winzy convert v0.0.2](https://github.com/sukhbinder/winzy-convert/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/winzy-convert/releases)) - 2025-07-16
+<br />Mimic's convert to convert images to pdf, ppt etc.
 * **[winzy](https://github.com/sukhbinder/winzy)**: [v0.0.3](https://github.com/sukhbinder/winzy/releases/tag/v0.0.3) - ([7 releases total](https://github.com/sukhbinder/winzy/releases)) - 2025-07-13
 <br />CLI tools for windows. A plugin based approach.
 * **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [v0.1.4](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.4) - ([5 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2025-07-12
@@ -59,8 +61,6 @@ Listing <!-- releases_count starts -->143<!-- releases_count ends --> releases a
 <br />Create shorts from long form videos
 * **[never-sleep](https://github.com/sukhbinder/never-sleep)**: [](https://github.com/sukhbinder/never-sleep/releases/tag/v0.0.1) - 2025-01-08
 <br />Never let the windows system sleep
-* **[winzy-convert](https://github.com/sukhbinder/winzy-convert)**: [](https://github.com/sukhbinder/winzy-convert/releases/tag/v0.0.1) - 2024-12-24
-<br />Mimic's convert to convert images to pdf, ppt etc.
 * **[winzy-head-tail](https://github.com/sukhbinder/winzy-head-tail)**: [v0.0.1](https://github.com/sukhbinder/winzy-head-tail/releases/tag/v0.0.1) - 2024-12-21
 <br />Mimics head and tail command using python
 * **[winzy-horoscope](https://github.com/sukhbinder/winzy-horoscope)**: [First release](https://github.com/sukhbinder/winzy-horoscope/releases/tag/v0.0.1) - 2024-12-16
