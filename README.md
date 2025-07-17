@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Roadtrip to Chitradurga Fort](https://www.youtube.com/shorts/wkYSZgBE0yE) - 2025-07-17
+
 [Roadtrip chitradurga to humpi via chitradurga dam kia sonet #humhairahi](https://www.youtube.com/watch?v=76weyapv8N8) - 2025-07-16
 
 [Chitradurga Fort](https://www.youtube.com/shorts/kAwIhOElnGg) - 2025-07-13
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [UNESCO World Heritage Site  #roadtrips #automobile #vacationideas #humhairahi](https://www.youtube.com/shorts/gkHnVCybW4g) - 2025-07-07
 
 [The Brihadeeswarar Temple  #roadtrips #automobile #vacationideas #humhairahi](https://www.youtube.com/shorts/gOpiu-MCfgM) - 2025-07-05
-
-[Tanjavur Big Temple #humhairahi #travel #kiasonet  #roadtrips #automobile #vacationideas](https://www.youtube.com/shorts/ZjKfSJtLIog) - 2025-07-03
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
