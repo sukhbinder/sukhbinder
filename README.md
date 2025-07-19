@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Chandravali caves n stay](https://www.youtube.com/shorts/e5EdYyYgSLQ) - 2025-07-19
+
 [Roadtrip to Chitradurga Fort](https://www.youtube.com/shorts/wkYSZgBE0yE) - 2025-07-17
 
 [Roadtrip chitradurga to humpi via chitradurga dam kia sonet #humhairahi](https://www.youtube.com/watch?v=76weyapv8N8) - 2025-07-16
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Exploring Chandravali caves | Chirtradurga | DRDO stay | #kiasonet #humhairahi #travel](https://www.youtube.com/watch?v=n1o5Rta-NuU) - 2025-07-09
 
 [UNESCO World Heritage Site  #roadtrips #automobile #vacationideas #humhairahi](https://www.youtube.com/shorts/gkHnVCybW4g) - 2025-07-07
-
-[The Brihadeeswarar Temple  #roadtrips #automobile #vacationideas #humhairahi](https://www.youtube.com/shorts/gOpiu-MCfgM) - 2025-07-05
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
