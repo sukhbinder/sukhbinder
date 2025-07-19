@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->144<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->145<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[winzy-pdf-to-text](https://github.com/sukhbinder/winzy-pdf-to-text)**: [v0.1.1](https://github.com/sukhbinder/winzy-pdf-to-text/releases/tag/v0.1.1) - ([6 releases total](https://github.com/sukhbinder/winzy-pdf-to-text/releases)) - 2025-07-19
+<br />Extract text from a given pdf
 * **[winzy-convert](https://github.com/sukhbinder/winzy-convert)**: [winzy convert v0.0.2](https://github.com/sukhbinder/winzy-convert/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/winzy-convert/releases)) - 2025-07-16
 <br />Mimic's convert to convert images to pdf, ppt etc.
 * **[winzy](https://github.com/sukhbinder/winzy)**: [v0.0.3](https://github.com/sukhbinder/winzy/releases/tag/v0.0.3) - ([7 releases total](https://github.com/sukhbinder/winzy/releases)) - 2025-07-13
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->144<!-- releases_count ends --> releases a
 <br />Add text to a video file
 * **[vidtoolz-trim](https://github.com/sukhbinder/vidtoolz-trim)**: [v0.1.2](https://github.com/sukhbinder/vidtoolz-trim/releases/tag/v0.1.2) - ([3 releases total](https://github.com/sukhbinder/vidtoolz-trim/releases)) - 2025-06-08
 <br />Trim video using ffmpeg
-* **[winzy-pdf-to-text](https://github.com/sukhbinder/winzy-pdf-to-text)**: [v0.1.0](https://github.com/sukhbinder/winzy-pdf-to-text/releases/tag/v0.1.0) - ([5 releases total](https://github.com/sukhbinder/winzy-pdf-to-text/releases)) - 2025-06-04
-<br />Extract text from a given pdf
 * **[intersection](https://github.com/sukhbinder/intersection)**: [v1.3.2](https://github.com/sukhbinder/intersection/releases/tag/v1.3.3) - ([6 releases total](https://github.com/sukhbinder/intersection/releases)) - 2025-04-27
 <br />Intersection of curves in python
 * **[vidtoolz-replace-audio](https://github.com/sukhbinder/vidtoolz-replace-audio)**: [v0.0.2](https://github.com/sukhbinder/vidtoolz-replace-audio/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-replace-audio/releases)) - 2025-04-13
