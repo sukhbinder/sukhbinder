@@ -48,6 +48,10 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[AI is Like a Refrigerator](https://sukhbinder.wordpress.com/2025/07/20/ai-is-like-a-refrigerator/) - Sun, 20 Jul 2025 03:31:51 +0000
+
+[Replacing Shovels with Bulldozers](https://sukhbinder.wordpress.com/2025/07/20/replacing-shovels-with-bulldozers/) - Sun, 20 Jul 2025 03:29:35 +0000
+
 [How I use my winzy-pdf-to-text plugin and local llm to look at thousands of filings on BSE](https://sukhbinder.wordpress.com/2025/07/19/how-i-use-my-winzy-pdf-to-text-plugin-and-local-llm-to-look-at-thousands-of-filings-on-bse/) - Sat, 19 Jul 2025 08:24:52 +0000
 
 [Introducing crontab-win – crontab for windows](https://sukhbinder.wordpress.com/2025/07/08/introducing-crontab-win/) - 
@@ -63,10 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [winzy-selected-file](https://sukhbinder.wordpress.com/2025/06/28/winzy-selected-file/) - Sat, 28 Jun 2025 03:46:54 +0000
 
 [Pitfalls of premature closure with LLM assisted coding .](https://sukhbinder.wordpress.com/2025/06/18/pitfalls-of-premature-closure-with-llm-assisted-coding/) - Wed, 18 Jun 2025 04:01:28 +0000
-
-[The runners high doesnt come to those that take the bus.](https://sukhbinder.wordpress.com/2025/06/16/the-runners-high-doesnt-come-to-those-that-take-the-bus/) - Mon, 16 Jun 2025 03:38:08 +0000
-
-[Journey To Remember](https://sukhbinder.wordpress.com/2025/06/14/journey-to-remember/) - Sat, 14 Jun 2025 06:21:38 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
