@@ -73,6 +73,10 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Chandravali Caves #humhairahi #travel #kiasonet](https://www.youtube.com/shorts/p7fLgHF0s6k) - 2025-07-23
+
+[Virupaksha temple humpi #kiasonet #humhairahi](https://www.youtube.com/watch?v=7pjWeec9FXM) - 2025-07-23
+
 [Chandravali caves n stay](https://www.youtube.com/shorts/e5EdYyYgSLQ) - 2025-07-19
 
 [Roadtrip to Chitradurga Fort](https://www.youtube.com/shorts/wkYSZgBE0yE) - 2025-07-17
@@ -82,10 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Chitradurga Fort](https://www.youtube.com/shorts/kAwIhOElnGg) - 2025-07-13
 
 [Tanjavur Palace  #humhairahi #roadtrips #automobile  #vacationideas](https://www.youtube.com/shorts/hr5W63wwKxQ) - 2025-07-11
-
-[Exploring Chandravali caves | Chirtradurga | DRDO stay | #kiasonet #humhairahi #travel](https://www.youtube.com/watch?v=n1o5Rta-NuU) - 2025-07-09
-
-[UNESCO World Heritage Site  #roadtrips #automobile #vacationideas #humhairahi](https://www.youtube.com/shorts/gkHnVCybW4g) - 2025-07-07
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
