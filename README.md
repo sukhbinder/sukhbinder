@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[The Conjurer, and the Scribe](https://sukhbinder.wordpress.com/2025/07/28/the-conjurer-and-the-scribe/) - Mon, 28 Jul 2025 09:55:58 +0000
+
 [How we learn](https://sukhbinder.wordpress.com/2025/07/24/how-we-learn/) - 
 
 [AI is Like a Refrigerator](https://sukhbinder.wordpress.com/2025/07/20/ai-is-like-a-refrigerator/) - Sun, 20 Jul 2025 03:31:51 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Rules](https://sukhbinder.wordpress.com/2025/06/30/rules/) - Mon, 30 Jun 2025 02:56:00 +0000
 
 [How to start python app at system login on macOS](https://sukhbinder.wordpress.com/2025/06/29/how-to-start-python-app-at-system-login-on-macos/) - Sun, 29 Jun 2025 04:13:17 +0000
-
-[winzy-selected-file](https://sukhbinder.wordpress.com/2025/06/28/winzy-selected-file/) - Sat, 28 Jun 2025 03:46:54 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
