@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Monkey Man At Chitradurga Fort](https://www.youtube.com/shorts/q2InSZ3k9OI) - 2025-07-29
+
 [Chandravali Caves #humhairahi #travel #kiasonet](https://www.youtube.com/shorts/p7fLgHF0s6k) - 2025-07-23
 
 [Virupaksha temple humpi #kiasonet #humhairahi](https://www.youtube.com/watch?v=7pjWeec9FXM) - 2025-07-23
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Roadtrip chitradurga to humpi via chitradurga dam kia sonet #humhairahi](https://www.youtube.com/watch?v=76weyapv8N8) - 2025-07-16
 
 [Chitradurga Fort](https://www.youtube.com/shorts/kAwIhOElnGg) - 2025-07-13
-
-[Tanjavur Palace  #humhairahi #roadtrips #automobile  #vacationideas](https://www.youtube.com/shorts/hr5W63wwKxQ) - 2025-07-11
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
