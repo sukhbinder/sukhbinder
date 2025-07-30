@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Compromise](https://sukhbinder.wordpress.com/2025/07/30/compromise/) - Wed, 30 Jul 2025 07:03:41 +0000
+
 [The Conjurer, and the Scribe](https://sukhbinder.wordpress.com/2025/07/28/the-conjurer-and-the-scribe/) - Mon, 28 Jul 2025 09:55:58 +0000
 
 [How we learn](https://sukhbinder.wordpress.com/2025/07/24/how-we-learn/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [The ₹4,843 Crore Heist](https://sukhbinder.wordpress.com/2025/07/04/the-%e2%82%b94843-crore-heist/) - Fri, 04 Jul 2025 15:50:59 +0000
 
 [Rules](https://sukhbinder.wordpress.com/2025/06/30/rules/) - Mon, 30 Jun 2025 02:56:00 +0000
-
-[How to start python app at system login on macOS](https://sukhbinder.wordpress.com/2025/06/29/how-to-start-python-app-at-system-login-on-macos/) - Sun, 29 Jun 2025 04:13:17 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
