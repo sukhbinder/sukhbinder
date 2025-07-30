@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[सैर कर दुन ki Gafil #shorts #humhairahi #travel #roadtrips](https://www.youtube.com/shorts/sOJxp5j4DoQ) - 2025-07-30
+
 [Exploring Humpi Hemkunta Hills Sasivekalu Ganesha Ugra Narasimha Hajara Raama temple Underground shi](https://www.youtube.com/watch?v=AVdpzD1-QS8) - 2025-07-30
 
 [Monkey Man At Chitradurga Fort](https://www.youtube.com/shorts/q2InSZ3k9OI) - 2025-07-29
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Chandravali caves n stay](https://www.youtube.com/shorts/e5EdYyYgSLQ) - 2025-07-19
 
 [Roadtrip to Chitradurga Fort](https://www.youtube.com/shorts/wkYSZgBE0yE) - 2025-07-17
-
-[Roadtrip chitradurga to humpi via chitradurga dam kia sonet #humhairahi](https://www.youtube.com/watch?v=76weyapv8N8) - 2025-07-16
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
