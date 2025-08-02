@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Chess Symbols Using Python](https://sukhbinder.wordpress.com/2025/08/02/chess-symbols-using-python/) - Sat, 02 Aug 2025 08:22:36 +0000
+
 [Compromise](https://sukhbinder.wordpress.com/2025/07/30/compromise/) - Wed, 30 Jul 2025 07:03:41 +0000
 
 [The Conjurer, and the Scribe](https://sukhbinder.wordpress.com/2025/07/28/the-conjurer-and-the-scribe/) - Mon, 28 Jul 2025 09:55:58 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Discontinued duckduckgo-ai-chat](https://sukhbinder.wordpress.com/2025/07/05/discontinued-duckduckgo-ai-chat/) - Sat, 05 Jul 2025 03:37:52 +0000
 
 [The ₹4,843 Crore Heist](https://sukhbinder.wordpress.com/2025/07/04/the-%e2%82%b94843-crore-heist/) - Fri, 04 Jul 2025 15:50:59 +0000
-
-[Rules](https://sukhbinder.wordpress.com/2025/06/30/rules/) - Mon, 30 Jun 2025 02:56:00 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
