@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Historical Gurudwara's of India](https://www.youtube.com/shorts/opTn28ZNuOU) - 2025-08-02
+
 [सैर कर दुन ki Gafil #shorts #humhairahi #travel #roadtrips](https://www.youtube.com/shorts/sOJxp5j4DoQ) - 2025-07-30
 
 [Exploring Humpi Hemkunta Hills Sasivekalu Ganesha Ugra Narasimha Hajara Raama temple Underground shi](https://www.youtube.com/watch?v=AVdpzD1-QS8) - 2025-07-30
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Virupaksha temple humpi #kiasonet #humhairahi](https://www.youtube.com/watch?v=7pjWeec9FXM) - 2025-07-23
 
 [Chandravali caves n stay](https://www.youtube.com/shorts/e5EdYyYgSLQ) - 2025-07-19
-
-[Roadtrip to Chitradurga Fort](https://www.youtube.com/shorts/wkYSZgBE0yE) - 2025-07-17
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
