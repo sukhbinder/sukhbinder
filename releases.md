@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->145<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->146<!-- releases_count ends --> releases across <!-- project_count starts -->60<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[vidtoolz-hum-hai-rahi](https://github.com/sukhbinder/vidtoolz-hum-hai-rahi)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-hum-hai-rahi/releases/tag/v0.0.3) - 2025-08-02
+<br />Tools for hum hai rahi channel
 * **[winzy-pdf-to-text](https://github.com/sukhbinder/winzy-pdf-to-text)**: [v0.1.1](https://github.com/sukhbinder/winzy-pdf-to-text/releases/tag/v0.1.1) - ([6 releases total](https://github.com/sukhbinder/winzy-pdf-to-text/releases)) - 2025-07-19
 <br />Extract text from a given pdf
 * **[winzy-convert](https://github.com/sukhbinder/winzy-convert)**: [winzy convert v0.0.2](https://github.com/sukhbinder/winzy-convert/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/winzy-convert/releases)) - 2025-07-16
