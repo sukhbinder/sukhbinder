@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->146<!-- releases_count ends --> releases across <!-- project_count starts -->60<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->147<!-- releases_count ends --> releases across <!-- project_count starts -->60<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[vidtoolz-shorts](https://github.com/sukhbinder/vidtoolz-shorts)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-shorts/releases/tag/v0.0.3) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-shorts/releases)) - 2025-08-02
+<br />Create shorts from long form videos
 * **[vidtoolz-hum-hai-rahi](https://github.com/sukhbinder/vidtoolz-hum-hai-rahi)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-hum-hai-rahi/releases/tag/v0.0.3) - 2025-08-02
 <br />Tools for hum hai rahi channel
 * **[winzy-pdf-to-text](https://github.com/sukhbinder/winzy-pdf-to-text)**: [v0.1.1](https://github.com/sukhbinder/winzy-pdf-to-text/releases/tag/v0.1.1) - ([6 releases total](https://github.com/sukhbinder/winzy-pdf-to-text/releases)) - 2025-07-19
@@ -59,8 +61,6 @@ Listing <!-- releases_count starts -->146<!-- releases_count ends --> releases a
 <br />Create Reminders in macos with cli
 * **[vidtoolz-beats](https://github.com/sukhbinder/vidtoolz-beats)**: [](https://github.com/sukhbinder/vidtoolz-beats/releases/tag/v0.0.1) - 2025-01-08
 <br />Get beats from a mp3 song
-* **[vidtoolz-shorts](https://github.com/sukhbinder/vidtoolz-shorts)**: [](https://github.com/sukhbinder/vidtoolz-shorts/releases/tag/v0.0.1) - 2025-01-08
-<br />Create shorts from long form videos
 * **[never-sleep](https://github.com/sukhbinder/never-sleep)**: [](https://github.com/sukhbinder/never-sleep/releases/tag/v0.0.1) - 2025-01-08
 <br />Never let the windows system sleep
 * **[winzy-head-tail](https://github.com/sukhbinder/winzy-head-tail)**: [v0.0.1](https://github.com/sukhbinder/winzy-head-tail/releases/tag/v0.0.1) - 2024-12-21
