@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Chitradurga Fort Karnataka #kiasonet #humhairahi](https://www.youtube.com/shorts/aK7fLO5J_iQ) - 2025-08-03
+
 [Historical Gurudwara's of India](https://www.youtube.com/shorts/opTn28ZNuOU) - 2025-08-02
 
 [सैर कर दुन ki Gafil #shorts #humhairahi #travel #roadtrips](https://www.youtube.com/shorts/sOJxp5j4DoQ) - 2025-07-30
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Chandravali Caves #humhairahi #travel #kiasonet](https://www.youtube.com/shorts/p7fLgHF0s6k) - 2025-07-23
 
 [Virupaksha temple humpi #kiasonet #humhairahi](https://www.youtube.com/watch?v=7pjWeec9FXM) - 2025-07-23
-
-[Chandravali caves n stay](https://www.youtube.com/shorts/e5EdYyYgSLQ) - 2025-07-19
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
