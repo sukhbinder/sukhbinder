@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Guided Tour of Chitradurga Fort #humhairahi #kiasonet](https://www.youtube.com/shorts/iEWJ9UTWGRw) - 2025-08-11
+
 [Roadtrip 2 Chitradurga Fort #kiasonet #humhairahi](https://www.youtube.com/shorts/jSoCP1iOYKQ) - 2025-08-07
 
 [Lotus mahal Humpi Shree Vijaya Vitthala Temple places to see in humpi #humhairahi 2](https://www.youtube.com/watch?v=M4-JT3EqUTU) - 2025-08-06
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Historical Gurudwara's of India](https://www.youtube.com/shorts/opTn28ZNuOU) - 2025-08-02
 
 [सैर कर दुन ki Gafil #shorts #humhairahi #travel #roadtrips](https://www.youtube.com/shorts/sOJxp5j4DoQ) - 2025-07-30
-
-[Exploring Humpi Hemkunta Hills Sasivekalu Ganesha Ugra Narasimha Hajara Raama temple Underground shi](https://www.youtube.com/watch?v=AVdpzD1-QS8) - 2025-07-30
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
