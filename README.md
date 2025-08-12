@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Human Intelligence is Compositional](https://sukhbinder.wordpress.com/2025/08/12/human-intelligence-is-compositional/) - 
+
 [Chess Symbols Using Python](https://sukhbinder.wordpress.com/2025/08/02/chess-symbols-using-python/) - Sat, 02 Aug 2025 08:22:36 +0000
 
 [Compromise](https://sukhbinder.wordpress.com/2025/07/30/compromise/) - Wed, 30 Jul 2025 07:03:41 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Introducing crontab-win – crontab for windows](https://sukhbinder.wordpress.com/2025/07/08/introducing-crontab-win/) - 
 
 [Discontinued duckduckgo-ai-chat](https://sukhbinder.wordpress.com/2025/07/05/discontinued-duckduckgo-ai-chat/) - Sat, 05 Jul 2025 03:37:52 +0000
-
-[The ₹4,843 Crore Heist](https://sukhbinder.wordpress.com/2025/07/04/the-%e2%82%b94843-crore-heist/) - Fri, 04 Jul 2025 15:50:59 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
