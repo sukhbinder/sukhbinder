@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Vibe Coding](https://sukhbinder.wordpress.com/2025/08/17/vibe-coding/) - Sun, 17 Aug 2025 15:35:55 +0000
+
 [Human Intelligence is Compositional](https://sukhbinder.wordpress.com/2025/08/12/human-intelligence-is-compositional/) - 
 
 [Chess Symbols Using Python](https://sukhbinder.wordpress.com/2025/08/02/chess-symbols-using-python/) - Sat, 02 Aug 2025 08:22:36 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [How I use my winzy-pdf-to-text plugin and local llm to look at thousands of filings on BSE](https://sukhbinder.wordpress.com/2025/07/19/how-i-use-my-winzy-pdf-to-text-plugin-and-local-llm-to-look-at-thousands-of-filings-on-bse/) - Sat, 19 Jul 2025 08:24:52 +0000
 
 [Introducing crontab-win – crontab for windows](https://sukhbinder.wordpress.com/2025/07/08/introducing-crontab-win/) - 
-
-[Discontinued duckduckgo-ai-chat](https://sukhbinder.wordpress.com/2025/07/05/discontinued-duckduckgo-ai-chat/) - Sat, 05 Jul 2025 03:37:52 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
