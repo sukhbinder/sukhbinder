@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Chandravali Caves Near Chitradurga #traveldestinations #humhairahi #kiasonet](https://www.youtube.com/shorts/vTM0_rzIJCI) - 2025-08-17
+
 [Our Failed Trip to Kishkinda from Humpi | Anjanadri Betta |#kiasonet #kiasonet](https://www.youtube.com/watch?v=h4LPg5QOP10) - 2025-08-13
 
 [Chandravali caves | exploring karnataka | #kiasonet #humhairahi](https://www.youtube.com/shorts/k8-FhwE4qIc) - 2025-08-13
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Lotus mahal Humpi Shree Vijaya Vitthala Temple places to see in humpi #humhairahi 2](https://www.youtube.com/watch?v=M4-JT3EqUTU) - 2025-08-06
 
 [Historical Gurudwara's Roadtrip  #Kiasonet #humhairahi](https://www.youtube.com/shorts/5NuuzS2GDj0) - 2025-08-04
-
-[Chitradurga Fort Karnataka #kiasonet #humhairahi](https://www.youtube.com/shorts/aK7fLO5J_iQ) - 2025-08-03
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
