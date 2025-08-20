@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Roadtrip to Jogmatti Hill from chitradurga #humhairahi #travel #roadtrips #kiasonet](https://www.youtube.com/watch?v=nE8hO_hGe_U) - 2025-08-20
+
 [Chitradurga Dam | Exploring Karnataka | #humhairahi #kiasonet #roadtrips](https://www.youtube.com/shorts/nUv4XJ9PF8s) - 2025-08-19
 
 [Chandravali Caves Near Chitradurga #traveldestinations #humhairahi #kiasonet](https://www.youtube.com/shorts/vTM0_rzIJCI) - 2025-08-17
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Guided Tour of Chitradurga Fort #humhairahi #kiasonet](https://www.youtube.com/shorts/iEWJ9UTWGRw) - 2025-08-11
 
 [Roadtrip 2 Chitradurga Fort #kiasonet #humhairahi](https://www.youtube.com/shorts/jSoCP1iOYKQ) - 2025-08-07
-
-[Lotus mahal Humpi Shree Vijaya Vitthala Temple places to see in humpi #humhairahi 2](https://www.youtube.com/watch?v=M4-JT3EqUTU) - 2025-08-06
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
