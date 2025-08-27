@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Jogmatti forest Safari |  Shri Jogi Siddheshwara Gadduge | Beautiful Location #travel #humhairahi](https://www.youtube.com/watch?v=f94IOZ-ZBFc) - 2025-08-27
+
 [Underground Shiva Temple Humpi #humhairahi #roadtrips #kiasonet](https://www.youtube.com/shorts/aiqQn33t0Fs) - 2025-08-23
 
 [Roadtrip to Jogmatti Hill from chitradurga #humhairahi #travel #roadtrips #kiasonet](https://www.youtube.com/watch?v=nE8hO_hGe_U) - 2025-08-20
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Our Failed Trip to Kishkinda from Humpi | Anjanadri Betta |#kiasonet #kiasonet](https://www.youtube.com/watch?v=h4LPg5QOP10) - 2025-08-13
 
 [Chandravali caves | exploring karnataka | #kiasonet #humhairahi](https://www.youtube.com/shorts/k8-FhwE4qIc) - 2025-08-13
-
-[Guided Tour of Chitradurga Fort #humhairahi #kiasonet](https://www.youtube.com/shorts/iEWJ9UTWGRw) - 2025-08-11
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
