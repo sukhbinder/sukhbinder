@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Virupaksha Temple Humpi  #humhairahi #roadtrips #kiasonet](https://www.youtube.com/shorts/LWAQqJkzuww) - 2025-09-02
+
 [historical gurudwaras roadtrip #kiasonet #humhairahi](https://www.youtube.com/shorts/FuKBqM7EGtI) - 2025-08-29
 
 [Jogmatti forest Safari |  Shri Jogi Siddheshwara Gadduge | Beautiful Location #travel #humhairahi](https://www.youtube.com/watch?v=f94IOZ-ZBFc) - 2025-08-27
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Chitradurga Dam | Exploring Karnataka | #humhairahi #kiasonet #roadtrips](https://www.youtube.com/shorts/nUv4XJ9PF8s) - 2025-08-19
 
 [Chandravali Caves Near Chitradurga #traveldestinations #humhairahi #kiasonet](https://www.youtube.com/shorts/vTM0_rzIJCI) - 2025-08-17
-
-[Our Failed Trip to Kishkinda from Humpi | Anjanadri Betta |#kiasonet #kiasonet](https://www.youtube.com/watch?v=h4LPg5QOP10) - 2025-08-13
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
