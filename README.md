@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Best Dam we have visited so far Chitradura to Bangalore #humhairahi #travel #kiasonet](https://www.youtube.com/watch?v=IcIRRoTMyNE) - 2025-09-03
+
 [Virupaksha Temple Humpi  #humhairahi #roadtrips #kiasonet](https://www.youtube.com/shorts/LWAQqJkzuww) - 2025-09-02
 
 [historical gurudwaras roadtrip #kiasonet #humhairahi](https://www.youtube.com/shorts/FuKBqM7EGtI) - 2025-08-29
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Roadtrip to Jogmatti Hill from chitradurga #humhairahi #travel #roadtrips #kiasonet](https://www.youtube.com/watch?v=nE8hO_hGe_U) - 2025-08-20
 
 [Chitradurga Dam | Exploring Karnataka | #humhairahi #kiasonet #roadtrips](https://www.youtube.com/shorts/nUv4XJ9PF8s) - 2025-08-19
-
-[Chandravali Caves Near Chitradurga #traveldestinations #humhairahi #kiasonet](https://www.youtube.com/shorts/vTM0_rzIJCI) - 2025-08-17
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
