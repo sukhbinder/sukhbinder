@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Underground Shiva Temple Humpi #humhairahi #kiasonet #travelvlog #roadtrips](https://www.youtube.com/shorts/FBki7xKQMcg) - 2025-09-11
+
 [Khatusyam Temple Asha Puran Devi Temple Bangalore #travel #humhairahi #kiasonet #nearbangalore](https://www.youtube.com/watch?v=Ni7pqOkI-qw) - 2025-09-09
 
 [Exploring Humpi In a Day #humhairahi #travelvlog #kiasonet #roadtrips](https://www.youtube.com/shorts/WCLBIRqqKYs) - 2025-09-07
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Virupaksha Temple Humpi  #humhairahi #roadtrips #kiasonet](https://www.youtube.com/shorts/LWAQqJkzuww) - 2025-09-02
 
 [historical gurudwaras roadtrip #kiasonet #humhairahi](https://www.youtube.com/shorts/FuKBqM7EGtI) - 2025-08-29
-
-[Jogmatti forest Safari |  Shri Jogi Siddheshwara Gadduge | Beautiful Location #travel #humhairahi](https://www.youtube.com/watch?v=f94IOZ-ZBFc) - 2025-08-27
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
