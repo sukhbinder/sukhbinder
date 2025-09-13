@@ -83,7 +83,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 [Hemkunta Hill Humpi #humhairahi #kiasonet #roadtrips #travel](https://www.youtube.com/shorts/539zVaFX-90) - 2025-09-05
 
-[Best Dam we have visited so far Chitradura to Bangalore #humhairahi #travel #kiasonet](https://www.youtube.com/watch?v=IcIRRoTMyNE) - 2025-09-03
+[Best Dam we have visited so far |Chitradura to Bangalore #humhairahi #travel #kiasonet](https://www.youtube.com/watch?v=IcIRRoTMyNE) - 2025-09-03
 
 [Virupaksha Temple Humpi  #humhairahi #roadtrips #kiasonet](https://www.youtube.com/shorts/LWAQqJkzuww) - 2025-09-02
 <!-- youtube ends -->
