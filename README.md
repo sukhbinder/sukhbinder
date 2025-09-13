@@ -21,27 +21,27 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 <!-- recent_releases starts -->
 [vidtoolz-shorts v0.0.3](https://github.com/sukhbinder/vidtoolz-shorts/releases/tag/v0.0.3) - 2025-08-02
 
-[vidtoolz-hum-hai-rahi v0.0.3](https://github.com/sukhbinder/vidtoolz-hum-hai-rahi/releases/tag/v0.0.3) - 2025-08-02
-
-[winzy-pdf-to-text v0.1.1](https://github.com/sukhbinder/winzy-pdf-to-text/releases/tag/v0.1.1) - 2025-07-19
-
 [winzy-convert winzy convert v0.0.2](https://github.com/sukhbinder/winzy-convert/releases/tag/v0.0.2) - 2025-07-16
 
 [winzy v0.0.3](https://github.com/sukhbinder/winzy/releases/tag/v0.0.3) - 2025-07-13
 
-[vidtoolz v0.1.4](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.4) - 2025-07-12
-
 [crontab-win v0.0.2](https://github.com/sukhbinder/crontab-win/releases/tag/v0.0.2) - 2025-07-08
-
-[vidtoolz-intro ](https://github.com/sukhbinder/vidtoolz-intro/releases/tag/v0.1.1) - 2025-07-03
 
 [winzy-selected-file v0.1.0](https://github.com/sukhbinder/winzy-selected-file/releases/tag/v0.1.0) - 2025-06-28
 
 [vidtoolz-concat v0.0.3](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.3a) - 2025-06-27
 
-[vidtoolz-add-text v0.4.1](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.4.1) - 2025-06-10
-
 [vidtoolz-trim v0.1.2](https://github.com/sukhbinder/vidtoolz-trim/releases/tag/v0.1.2) - 2025-06-08
+
+[intersection v1.3.2](https://github.com/sukhbinder/intersection/releases/tag/v1.3.3) - 2025-04-27
+
+[vidtoolz-replace-audio v0.0.2](https://github.com/sukhbinder/vidtoolz-replace-audio/releases/tag/v0.0.2) - 2025-04-13
+
+[winzy-visual-notify v0.0.4](https://github.com/sukhbinder/winzy-visual-notify/releases/tag/v0.0.4) - 2025-04-11
+
+[smollama-py v0.0.2](https://github.com/sukhbinder/smollama-py/releases/tag/v0.0.2) - 2025-04-07
+
+[winzy-days-from ](https://github.com/sukhbinder/winzy-days-from/releases/tag/v0.0.1) - 2025-04-04
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[The Elephant Stables Humpi Ruins Places to See Kia Sonet #humhairahi #travelvlog #travel #roadtrips](https://www.youtube.com/shorts/e-vjgy4v3Yc) - 2025-09-13
+
 [Underground Shiva Temple Humpi #humhairahi #kiasonet #travelvlog #roadtrips](https://www.youtube.com/shorts/FBki7xKQMcg) - 2025-09-11
 
 [Khatusyam Temple Asha Puran Devi Temple Bangalore #travel #humhairahi #kiasonet #nearbangalore](https://www.youtube.com/watch?v=Ni7pqOkI-qw) - 2025-09-09
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Best Dam we have visited so far Chitradura to Bangalore #humhairahi #travel #kiasonet](https://www.youtube.com/watch?v=IcIRRoTMyNE) - 2025-09-03
 
 [Virupaksha Temple Humpi  #humhairahi #roadtrips #kiasonet](https://www.youtube.com/shorts/LWAQqJkzuww) - 2025-09-02
-
-[historical gurudwaras roadtrip #kiasonet #humhairahi](https://www.youtube.com/shorts/FuKBqM7EGtI) - 2025-08-29
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
