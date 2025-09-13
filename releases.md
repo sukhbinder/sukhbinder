@@ -1,20 +1,30 @@
 # Released projects
 
-Listing <!-- releases_count starts -->95<!-- releases_count ends --> releases across <!-- project_count starts -->38<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->145<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[vidtoolz-shorts](https://github.com/sukhbinder/vidtoolz-shorts)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-shorts/releases/tag/v0.0.3) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-shorts/releases)) - 2025-08-02
 <br />Create shorts from long form videos
+* **[vidtoolz-hum-hai-rahi](https://github.com/sukhbinder/vidtoolz-hum-hai-rahi)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-hum-hai-rahi/releases/tag/v0.0.3) - 2025-08-02
+<br />Tools for hum hai rahi channel
+* **[winzy-pdf-to-text](https://github.com/sukhbinder/winzy-pdf-to-text)**: [v0.1.1](https://github.com/sukhbinder/winzy-pdf-to-text/releases/tag/v0.1.1) - ([6 releases total](https://github.com/sukhbinder/winzy-pdf-to-text/releases)) - 2025-07-19
+<br />Extract text from a given pdf
 * **[winzy-convert](https://github.com/sukhbinder/winzy-convert)**: [winzy convert v0.0.2](https://github.com/sukhbinder/winzy-convert/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/winzy-convert/releases)) - 2025-07-16
 <br />Mimic's convert to convert images to pdf, ppt etc.
 * **[winzy](https://github.com/sukhbinder/winzy)**: [v0.0.3](https://github.com/sukhbinder/winzy/releases/tag/v0.0.3) - ([7 releases total](https://github.com/sukhbinder/winzy/releases)) - 2025-07-13
 <br />CLI tools for windows. A plugin based approach.
+* **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [v0.1.4](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.4) - ([5 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2025-07-12
+<br />CLI tools for editing videos in python. A plugin based approach.
 * **[crontab-win](https://github.com/sukhbinder/crontab-win)**: [v0.0.2](https://github.com/sukhbinder/crontab-win/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/crontab-win/releases)) - 2025-07-08
 <br />Crontab for windows
+* **[vidtoolz-intro](https://github.com/sukhbinder/vidtoolz-intro)**: [](https://github.com/sukhbinder/vidtoolz-intro/releases/tag/v0.1.1) - 2025-07-03
+<br />Create intro video from a series of videos
 * **[winzy-selected-file](https://github.com/sukhbinder/winzy-selected-file)**: [v0.1.0](https://github.com/sukhbinder/winzy-selected-file/releases/tag/v0.1.0) - 2025-06-28
 <br />Get selected files on Mac os in console
 * **[vidtoolz-concat](https://github.com/sukhbinder/vidtoolz-concat)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.3a) - ([3 releases total](https://github.com/sukhbinder/vidtoolz-concat/releases)) - 2025-06-27
 <br />Concat videos using ffmpeg 
+* **[vidtoolz-add-text](https://github.com/sukhbinder/vidtoolz-add-text)**: [v0.4.1](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.4.1) - ([4 releases total](https://github.com/sukhbinder/vidtoolz-add-text/releases)) - 2025-06-10
+<br />Add text to a video file
 * **[vidtoolz-trim](https://github.com/sukhbinder/vidtoolz-trim)**: [v0.1.2](https://github.com/sukhbinder/vidtoolz-trim/releases/tag/v0.1.2) - ([3 releases total](https://github.com/sukhbinder/vidtoolz-trim/releases)) - 2025-06-08
 <br />Trim video using ffmpeg
 * **[intersection](https://github.com/sukhbinder/intersection)**: [v1.3.2](https://github.com/sukhbinder/intersection/releases/tag/v1.3.3) - ([6 releases total](https://github.com/sukhbinder/intersection/releases)) - 2025-04-27
@@ -27,10 +37,20 @@ Listing <!-- releases_count starts -->95<!-- releases_count ends --> releases ac
 <br />A python app to serve smOllama - lightweight web browser chatbot interface for Ollama models
 * **[winzy-days-from](https://github.com/sukhbinder/winzy-days-from)**: [](https://github.com/sukhbinder/winzy-days-from/releases/tag/v0.0.1) - 2025-04-04
 <br />Calculate a future date based on a given date and number of days.
+* **[screenrecord](https://github.com/sukhbinder/screenrecord)**: [](https://github.com/sukhbinder/screenrecord/releases/tag/v1.1.3a) - ([6 releases total](https://github.com/sukhbinder/screenrecord/releases)) - 2025-03-29
+<br />Record screen with python.
 * **[duckduckgo-ai-chat](https://github.com/sukhbinder/duckduckgo-ai-chat)**: [](https://github.com/sukhbinder/duckduckgo-ai-chat/releases/tag/v0.0.8a) - ([9 releases total](https://github.com/sukhbinder/duckduckgo-ai-chat/releases)) - 2025-03-28
 <br />A CLI to access DuckDuckGo ai chat service from terminal
 * **[llm-duckduckgo-chat](https://github.com/sukhbinder/llm-duckduckgo-chat)**: [Version v0.1.6  plugin](https://github.com/sukhbinder/llm-duckduckgo-chat/releases/tag/v0.1.6) - ([7 releases total](https://github.com/sukhbinder/llm-duckduckgo-chat/releases)) - 2025-03-26
 <br />LLM plugin for talking to models exposed by DuckDuckGo AI Chat service.
+* **[vidtoolz-apply-fadein-fadeout](https://github.com/sukhbinder/vidtoolz-apply-fadein-fadeout)**: [v0.0.1](https://github.com/sukhbinder/vidtoolz-apply-fadein-fadeout/releases/tag/v0.0.1) - 2025-03-16
+<br />Apply fadein-fadeout effects on videos
+* **[vidtoolz-apply-greenscreen](https://github.com/sukhbinder/vidtoolz-apply-greenscreen)**: [v0.0.1](https://github.com/sukhbinder/vidtoolz-apply-greenscreen/releases/tag/v0.0.1) - 2025-03-16
+<br />Apply greenscreen video on top of a video
+* **[vidtoolz-add-sound](https://github.com/sukhbinder/vidtoolz-add-sound)**: [](https://github.com/sukhbinder/vidtoolz-add-sound/releases/tag/v0.0.1) - 2025-03-14
+<br />Add sound to a video file
+* **[winzy-time-in-words](https://github.com/sukhbinder/winzy-time-in-words)**: [](https://github.com/sukhbinder/winzy-time-in-words/releases/tag/v0.0.1) - 2025-03-13
+<br />Simple program to say time in words
 * **[winzy-zenmode](https://github.com/sukhbinder/winzy-zenmode)**: [release v0.1.0](https://github.com/sukhbinder/winzy-zenmode/releases/tag/v0.1.0) - 2025-01-10
 <br />Zenmode stay focussed with only the priority windows and nothing else.
 * **[winzy-taskloop](https://github.com/sukhbinder/winzy-taskloop)**: [v0.1.0](https://github.com/sukhbinder/winzy-taskloop/releases/tag/v0.1.0) - 2025-01-09
@@ -65,10 +85,32 @@ Listing <!-- releases_count starts -->95<!-- releases_count ends --> releases ac
 <br />Get outlook calendar entries in commandline
 * **[winzy-whitelist](https://github.com/sukhbinder/winzy-whitelist)**: [](https://github.com/sukhbinder/winzy-whitelist/releases/tag/v0.0.1) - 2024-11-13
 <br />Whitelist python created exe's to make them bat scripts
+* **[winzy-text-to-image](https://github.com/sukhbinder/winzy-text-to-image)**: [# Release Notes](https://github.com/sukhbinder/winzy-text-to-image/releases/tag/v0.4) - ([4 releases total](https://github.com/sukhbinder/winzy-text-to-image/releases)) - 2024-11-13
+<br />Generate text to image using pollinations.ai api
 * **[winzy-txt2img-val-town](https://github.com/sukhbinder/winzy-txt2img-val-town)**: [](https://github.com/sukhbinder/winzy-txt2img-val-town/releases/tag/v0.0.1) - 2024-11-13
 <br />Text to Image Gen Using Val Town's imggenurl
+* **[winzy-banner](https://github.com/sukhbinder/winzy-banner)**: [](https://github.com/sukhbinder/winzy-banner/releases/tag/v0.1.5) - ([6 releases total](https://github.com/sukhbinder/winzy-banner/releases)) - 2024-11-12
+<br />None
+* **[winzy-days-till](https://github.com/sukhbinder/winzy-days-till)**: [Release Notes v0.0.3](https://github.com/sukhbinder/winzy-days-till/releases/tag/v0.0.3) - ([3 releases total](https://github.com/sukhbinder/winzy-days-till/releases)) - 2024-11-07
+<br />Gives days remaining till the given date
+* **[winzy-webcam](https://github.com/sukhbinder/winzy-webcam)**: [First successful release on pypi](https://github.com/sukhbinder/winzy-webcam/releases/tag/v0.1.3) - ([3 releases total](https://github.com/sukhbinder/winzy-webcam/releases)) - 2024-10-16
+<br />Take image from webcam on laptop
+* **[winzy-text-on-image](https://github.com/sukhbinder/winzy-text-on-image)**: [First release on pypi](https://github.com/sukhbinder/winzy-text-on-image/releases/tag/v0.0.1) - 2024-10-13
+<br />Add text to an image.
+* **[winzy-wc](https://github.com/sukhbinder/winzy-wc)**: [First release for pypi](https://github.com/sukhbinder/winzy-wc/releases/tag/v0.0.1) - 2024-10-13
+<br />Mimics the functionality of the 'wc' command in Unix.
+* **[winzy-screencapture](https://github.com/sukhbinder/winzy-screencapture)**: [First release for pypi](https://github.com/sukhbinder/winzy-screencapture/releases/tag/v0.0.1) - 2024-10-13
+<br />Capture screen using movieio
+* **[winzy-laptop-battery](https://github.com/sukhbinder/winzy-laptop-battery)**: [First pypi release](https://github.com/sukhbinder/winzy-laptop-battery/releases/tag/v.0.0.1) - 2024-10-13
+<br />Get laptop battery info and warn if asked
+* **[winzy-extract](https://github.com/sukhbinder/winzy-extract)**: [First release on pypi](https://github.com/sukhbinder/winzy-extract/releases/tag/v.0.0.1) - 2024-10-13
+<br />Extracts text from a file based on input and output line numbers
+* **[winzy-cut](https://github.com/sukhbinder/winzy-cut)**: [First release on pypi](https://github.com/sukhbinder/winzy-cut/releases/tag/v0.0.1) - 2024-10-13
+<br />Mimics the functionality of the 'cut' command
 * **[winzy-checkmail](https://github.com/sukhbinder/winzy-checkmail)**: [](https://github.com/sukhbinder/winzy-checkmail/releases/tag/v0.1) - 2024-10-13
 <br />CLI tool for checking outlook email
+* **[winzy-calendar](https://github.com/sukhbinder/winzy-calendar)**: [](https://github.com/sukhbinder/winzy-calendar/releases/tag/v0.1) - 2024-10-13
+<br />Calendar in windows commandline
 * **[sendmail-outlook](https://github.com/sukhbinder/sendmail-outlook)**: [First release](https://github.com/sukhbinder/sendmail-outlook/releases/tag/v0.0.1) - 2024-08-20
 <br />Send email using outlook application 
 * **[llm-embed-ollama](https://github.com/sukhbinder/llm-embed-ollama)**: [Added bge embedding models](https://github.com/sukhbinder/llm-embed-ollama/releases/tag/v0.1.2) - ([5 releases total](https://github.com/sukhbinder/llm-embed-ollama/releases)) - 2024-08-08
