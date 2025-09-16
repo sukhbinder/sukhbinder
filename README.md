@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Now use -h](https://sukhbinder.wordpress.com/2025/09/17/now-use-h/) - 
+
 [Something I am missing](https://sukhbinder.wordpress.com/2025/09/11/something-i-am-missing/) - 
 
 [Vibe Coding](https://sukhbinder.wordpress.com/2025/08/17/vibe-coding/) - Sun, 17 Aug 2025 15:35:55 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [AI is Like a Refrigerator](https://sukhbinder.wordpress.com/2025/07/20/ai-is-like-a-refrigerator/) - Sun, 20 Jul 2025 03:31:51 +0000
 
 [Replacing Shovels with Bulldozers](https://sukhbinder.wordpress.com/2025/07/20/replacing-shovels-with-bulldozers/) - Sun, 20 Jul 2025 03:29:35 +0000
-
-[How I use my winzy-pdf-to-text plugin and local llm to look at thousands of filings on BSE](https://sukhbinder.wordpress.com/2025/07/19/how-i-use-my-winzy-pdf-to-text-plugin-and-local-llm-to-look-at-thousands-of-filings-on-bse/) - Sat, 19 Jul 2025 08:24:52 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
