@@ -73,6 +73,10 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[The Lotus Mahal Humpi Ruins Places to See Kia Sonet Roadtrip #humhairahi](https://www.youtube.com/shorts/lsdiYaEBD8Q) - 2025-09-17
+
+[Roadtrip to Mangalore Via Winmill Temple of Hassaan #roadtrip #kiasonet](https://www.youtube.com/watch?v=lOK-7J7AELg) - 2025-09-16
+
 [The Elephant Stables Humpi Ruins Places to See Kia Sonet #humhairahi #travelvlog #travel #roadtrips](https://www.youtube.com/shorts/e-vjgy4v3Yc) - 2025-09-13
 
 [Underground Shiva Temple Humpi #humhairahi #kiasonet #travelvlog #roadtrips](https://www.youtube.com/shorts/FBki7xKQMcg) - 2025-09-11
@@ -82,10 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Exploring Humpi In a Day #humhairahi #travelvlog #kiasonet #roadtrips](https://www.youtube.com/shorts/WCLBIRqqKYs) - 2025-09-07
 
 [Hemkunta Hill Humpi #humhairahi #kiasonet #roadtrips #travel](https://www.youtube.com/shorts/539zVaFX-90) - 2025-09-05
-
-[Best Dam we have visited so far |Chitradura to Bangalore #humhairahi #travel #kiasonet](https://www.youtube.com/watch?v=IcIRRoTMyNE) - 2025-09-03
-
-[Virupaksha Temple Humpi  #humhairahi #roadtrips #kiasonet](https://www.youtube.com/shorts/LWAQqJkzuww) - 2025-09-02
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
