@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Ride Through Jogmati Forest #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/zWgciGFOANw) - 2025-09-19
+
 [The Lotus Mahal Humpi Ruins Places to See Kia Sonet Roadtrip #humhairahi](https://www.youtube.com/shorts/lsdiYaEBD8Q) - 2025-09-17
 
 [Roadtrip to Mangalore Via Winmill Temple of Hassaan #roadtrip #kiasonet](https://www.youtube.com/watch?v=lOK-7J7AELg) - 2025-09-16
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Khatusyam Temple Asha Puran Devi Temple Bangalore #travel #humhairahi #kiasonet #nearbangalore](https://www.youtube.com/watch?v=Ni7pqOkI-qw) - 2025-09-09
 
 [Exploring Humpi In a Day #humhairahi #travelvlog #kiasonet #roadtrips](https://www.youtube.com/shorts/WCLBIRqqKYs) - 2025-09-07
-
-[Hemkunta Hill Humpi #humhairahi #kiasonet #roadtrips #travel](https://www.youtube.com/shorts/539zVaFX-90) - 2025-09-05
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
