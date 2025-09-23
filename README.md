@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Most Beautiful Dam of Karnataka #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/52DGoTIxfIg) - 2025-09-23
+
 [Ride Through Jogmati Forest #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/zWgciGFOANw) - 2025-09-19
 
 [The Lotus Mahal Humpi Ruins Places to See Kia Sonet Roadtrip #humhairahi](https://www.youtube.com/shorts/lsdiYaEBD8Q) - 2025-09-17
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Underground Shiva Temple Humpi #humhairahi #kiasonet #travelvlog #roadtrips](https://www.youtube.com/shorts/FBki7xKQMcg) - 2025-09-11
 
 [Khatusyam Temple Asha Puran Devi Temple Bangalore #travel #humhairahi #kiasonet #nearbangalore](https://www.youtube.com/watch?v=Ni7pqOkI-qw) - 2025-09-09
-
-[Exploring Humpi In a Day #humhairahi #travelvlog #kiasonet #roadtrips](https://www.youtube.com/shorts/WCLBIRqqKYs) - 2025-09-07
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
