@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Bangalore to Mangalore Shridhi Ghat Full RoadCondition #kiasonet #roadtrips](https://www.youtube.com/watch?v=SjhIfH9aqeE) - 2025-09-23
+
 [Most Beautiful Dam of Karnataka #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/52DGoTIxfIg) - 2025-09-23
 
 [Ride Through Jogmati Forest #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/zWgciGFOANw) - 2025-09-19
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [The Elephant Stables Humpi Ruins Places to See Kia Sonet #humhairahi #travelvlog #travel #roadtrips](https://www.youtube.com/shorts/e-vjgy4v3Yc) - 2025-09-13
 
 [Underground Shiva Temple Humpi #humhairahi #kiasonet #travelvlog #roadtrips](https://www.youtube.com/shorts/FBki7xKQMcg) - 2025-09-11
-
-[Khatusyam Temple Asha Puran Devi Temple Bangalore #travel #humhairahi #kiasonet #nearbangalore](https://www.youtube.com/watch?v=Ni7pqOkI-qw) - 2025-09-09
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
