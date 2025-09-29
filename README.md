@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Vani Vilas Sagara Dam #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/AS3XMC3bXFE) - 2025-09-29
+
 [Bangalore to Mangalore Shridhi Ghat Full RoadCondition #kiasonet #roadtrips](https://www.youtube.com/watch?v=SjhIfH9aqeE) - 2025-09-23
 
 [Most Beautiful Dam of Karnataka #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/52DGoTIxfIg) - 2025-09-23
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Roadtrip to Mangalore Via Winmill Temple of Hassaan #roadtrip #kiasonet](https://www.youtube.com/watch?v=lOK-7J7AELg) - 2025-09-16
 
 [The Elephant Stables Humpi Ruins Places to See Kia Sonet #humhairahi #travelvlog #travel #roadtrips](https://www.youtube.com/shorts/e-vjgy4v3Yc) - 2025-09-13
-
-[Underground Shiva Temple Humpi #humhairahi #kiasonet #travelvlog #roadtrips](https://www.youtube.com/shorts/FBki7xKQMcg) - 2025-09-11
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
