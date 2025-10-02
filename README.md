@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Suratkal Beach #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/qbaqAds_Pi0) - 2025-10-02
+
 [Sayar Kar Duniya Ki #travel #roadtrip #shorts #humhairahi](https://www.youtube.com/shorts/B7-xlWHepQ4) - 2025-10-01
 
 [Vani Vilas Sagara Dam #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/AS3XMC3bXFE) - 2025-09-29
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Ride Through Jogmati Forest #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/zWgciGFOANw) - 2025-09-19
 
 [The Lotus Mahal Humpi Ruins Places to See Kia Sonet Roadtrip #humhairahi](https://www.youtube.com/shorts/lsdiYaEBD8Q) - 2025-09-17
-
-[Roadtrip to Mangalore Via Winmill Temple of Hassaan #roadtrip #kiasonet](https://www.youtube.com/watch?v=lOK-7J7AELg) - 2025-09-16
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
