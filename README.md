@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[The Best Dam That We Have Seen So Far in Karnataka #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/HFX1fzIlyWU) - 2025-10-05
+
 [Suratkal Beach #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/qbaqAds_Pi0) - 2025-10-02
 
 [Sayar Kar Duniya Ki #travel #roadtrip #shorts #humhairahi](https://www.youtube.com/shorts/B7-xlWHepQ4) - 2025-10-01
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Most Beautiful Dam of Karnataka #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/52DGoTIxfIg) - 2025-09-23
 
 [Ride Through Jogmati Forest #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/zWgciGFOANw) - 2025-09-19
-
-[The Lotus Mahal Humpi Ruins Places to See Kia Sonet Roadtrip #humhairahi](https://www.youtube.com/shorts/lsdiYaEBD8Q) - 2025-09-17
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
