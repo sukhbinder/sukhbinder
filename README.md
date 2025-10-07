@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Manjilo ki rahe Mein #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/pyi2tBge5VY) - 2025-10-07
+
 [The Best Dam That We Have Seen So Far in Karnataka #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/HFX1fzIlyWU) - 2025-10-05
 
 [Suratkal Beach #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/qbaqAds_Pi0) - 2025-10-02
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Bangalore to Mangalore Shridhi Ghat Full RoadCondition #kiasonet #roadtrips](https://www.youtube.com/watch?v=SjhIfH9aqeE) - 2025-09-23
 
 [Most Beautiful Dam of Karnataka #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/52DGoTIxfIg) - 2025-09-23
-
-[Ride Through Jogmati Forest #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/zWgciGFOANw) - 2025-09-19
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
