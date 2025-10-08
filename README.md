@@ -73,6 +73,10 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Chitradurga Fort Karnataka #kiasonet #humhairahi](https://www.youtube.com/shorts/i1z-qljFIbA) - 2025-10-08
+
+[Places to see in Mangalore Somnath Temple Somnath beach Mangladevi Temple Mangalore #mangalore #road](https://www.youtube.com/watch?v=Gt2tV3zjEwk) - 2025-10-07
+
 [Manjilo ki rahe Mein #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/pyi2tBge5VY) - 2025-10-07
 
 [The Best Dam That We Have Seen So Far in Karnataka #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/HFX1fzIlyWU) - 2025-10-05
@@ -82,10 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Sayar Kar Duniya Ki #travel #roadtrip #shorts #humhairahi](https://www.youtube.com/shorts/B7-xlWHepQ4) - 2025-10-01
 
 [Vani Vilas Sagara Dam #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/AS3XMC3bXFE) - 2025-09-29
-
-[Bangalore to Mangalore Shridhi Ghat Full RoadCondition #kiasonet #roadtrips](https://www.youtube.com/watch?v=SjhIfH9aqeE) - 2025-09-23
-
-[Most Beautiful Dam of Karnataka #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/52DGoTIxfIg) - 2025-09-23
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
