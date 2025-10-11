@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Manjil Ko Ki Raho mein Badta Ja Tu #shorts #travel #humhairahi #roadtrips](https://www.youtube.com/shorts/xpoCwcXGhWw) - 2025-10-11
+
 [Chitradurga Fort Karnataka #kiasonet #humhairahi](https://www.youtube.com/shorts/i1z-qljFIbA) - 2025-10-08
 
 [Places to see in Mangalore Somnath Temple Somnath beach Mangladevi Temple Mangalore #mangalore #road](https://www.youtube.com/watch?v=Gt2tV3zjEwk) - 2025-10-07
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Suratkal Beach #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/qbaqAds_Pi0) - 2025-10-02
 
 [Sayar Kar Duniya Ki #travel #roadtrip #shorts #humhairahi](https://www.youtube.com/shorts/B7-xlWHepQ4) - 2025-10-01
-
-[Vani Vilas Sagara Dam #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/AS3XMC3bXFE) - 2025-09-29
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
