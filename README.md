@@ -77,7 +77,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 [Chitradurga Fort Karnataka #kiasonet #humhairahi](https://www.youtube.com/shorts/i1z-qljFIbA) - 2025-10-08
 
-[Places to see in Mangalore Somnath Temple Somnath beach Mangladevi Temple Mangalore #mangalore #road](https://www.youtube.com/watch?v=Gt2tV3zjEwk) - 2025-10-07
+[Somnath Beach Somnath Temple Mangalore | Places to see in Mangalore Mangladevi Temple #mangalore](https://www.youtube.com/watch?v=Gt2tV3zjEwk) - 2025-10-07
 
 [Manjilo ki rahe Mein #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/pyi2tBge5VY) - 2025-10-07
 
