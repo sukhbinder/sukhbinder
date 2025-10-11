@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->147<!-- releases_count ends --> releases across <!-- project_count starts -->60<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->149<!-- releases_count ends --> releases across <!-- project_count starts -->61<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[outlook-meetings](https://github.com/sukhbinder/outlook-meetings)**: [v0.0.1](https://github.com/sukhbinder/outlook-meetings/releases/tag/v0.0.1) - 2025-10-11
+<br />Create outlook meetings using cli
+* **[winzy-outlook-meetings](https://github.com/sukhbinder/winzy-outlook-meetings)**: [v0.0.2](https://github.com/sukhbinder/winzy-outlook-meetings/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/winzy-outlook-meetings/releases)) - 2025-10-11
+<br />Get outlook calendar entries in commandline
 * **[vidtoolz-shorts](https://github.com/sukhbinder/vidtoolz-shorts)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-shorts/releases/tag/v0.0.3) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-shorts/releases)) - 2025-08-02
 <br />Create shorts from long form videos
 * **[vidtoolz-hum-hai-rahi](https://github.com/sukhbinder/vidtoolz-hum-hai-rahi)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-hum-hai-rahi/releases/tag/v0.0.3) - 2025-08-02
@@ -83,8 +87,6 @@ Listing <!-- releases_count starts -->147<!-- releases_count ends --> releases a
 <br />Show Notification in Mac and Windows
 * **[winzy-weather](https://github.com/sukhbinder/winzy-weather)**: [Release Notes](https://github.com/sukhbinder/winzy-weather/releases/tag/v0.0.1) - 2024-11-14
 <br />Weather using the excellent wttr.in
-* **[winzy-outlook-meetings](https://github.com/sukhbinder/winzy-outlook-meetings)**: [Release Notes](https://github.com/sukhbinder/winzy-outlook-meetings/releases/tag/v0.0.1) - 2024-11-13
-<br />Get outlook calendar entries in commandline
 * **[winzy-whitelist](https://github.com/sukhbinder/winzy-whitelist)**: [](https://github.com/sukhbinder/winzy-whitelist/releases/tag/v0.0.1) - 2024-11-13
 <br />Whitelist python created exe's to make them bat scripts
 * **[winzy-text-to-image](https://github.com/sukhbinder/winzy-text-to-image)**: [# Release Notes](https://github.com/sukhbinder/winzy-text-to-image/releases/tag/v0.4) - ([4 releases total](https://github.com/sukhbinder/winzy-text-to-image/releases)) - 2024-11-13

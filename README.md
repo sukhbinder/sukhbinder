@@ -19,6 +19,10 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[outlook-meetings v0.0.1](https://github.com/sukhbinder/outlook-meetings/releases/tag/v0.0.1) - 2025-10-11
+
+[winzy-outlook-meetings v0.0.2](https://github.com/sukhbinder/winzy-outlook-meetings/releases/tag/v0.0.2) - 2025-10-11
+
 [vidtoolz-shorts v0.0.3](https://github.com/sukhbinder/vidtoolz-shorts/releases/tag/v0.0.3) - 2025-08-02
 
 [vidtoolz-hum-hai-rahi v0.0.3](https://github.com/sukhbinder/vidtoolz-hum-hai-rahi/releases/tag/v0.0.3) - 2025-08-02
@@ -38,10 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [winzy-selected-file v0.1.0](https://github.com/sukhbinder/winzy-selected-file/releases/tag/v0.1.0) - 2025-06-28
 
 [vidtoolz-concat v0.0.3](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.3a) - 2025-06-27
-
-[tera-tera v0.1.1](https://github.com/sukhbinder/tera-tera/releases/tag/v0.1.1a) - 2025-06-12
-
-[vidtoolz-add-text v0.4.1](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.4.1) - 2025-06-10
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
