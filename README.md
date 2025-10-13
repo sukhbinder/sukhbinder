@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[सैर कर दुन ki Gafil #shorts #humhairahi #roadtrips](https://www.youtube.com/shorts/memELbN8m7I) - 2025-10-13
+
 [Manjil Ko Ki Raho mein Badta Ja Tu #shorts #travel #humhairahi #roadtrips](https://www.youtube.com/shorts/xpoCwcXGhWw) - 2025-10-11
 
 [Chitradurga Fort Karnataka #kiasonet #humhairahi](https://www.youtube.com/shorts/i1z-qljFIbA) - 2025-10-08
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [The Best Dam That We Have Seen So Far in Karnataka #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/HFX1fzIlyWU) - 2025-10-05
 
 [Suratkal Beach #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/qbaqAds_Pi0) - 2025-10-02
-
-[Sayar Kar Duniya Ki #travel #roadtrip #shorts #humhairahi](https://www.youtube.com/shorts/B7-xlWHepQ4) - 2025-10-01
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
