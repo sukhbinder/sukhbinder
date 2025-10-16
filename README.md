@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[The Elephant Stables Humpi Ruins Places to See #KiaSonet #roadtrips #humhairahi](https://www.youtube.com/shorts/zTD98yxr8DQ) - 2025-10-16
+
 [सैर कर दुन ki Gafil #shorts #humhairahi #roadtrips](https://www.youtube.com/shorts/memELbN8m7I) - 2025-10-13
 
 [Manjil Ko Ki Raho mein Badta Ja Tu #shorts #travel #humhairahi #roadtrips](https://www.youtube.com/shorts/xpoCwcXGhWw) - 2025-10-11
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Manjilo ki rahe Mein #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/pyi2tBge5VY) - 2025-10-07
 
 [The Best Dam That We Have Seen So Far in Karnataka #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/HFX1fzIlyWU) - 2025-10-05
-
-[Suratkal Beach #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/qbaqAds_Pi0) - 2025-10-02
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
