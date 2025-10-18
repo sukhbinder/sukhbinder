@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[The Lotus Mahal Humpi Ruins Places to See #KiaSonet #roadtrips #travel #humhairahi](https://www.youtube.com/shorts/tTPQHKRmHNs) - 2025-10-18
+
 [The Elephant Stables Humpi Ruins Places to See #KiaSonet #roadtrips #humhairahi](https://www.youtube.com/shorts/zTD98yxr8DQ) - 2025-10-16
 
 [सैर कर दुन ki Gafil #shorts #humhairahi #roadtrips](https://www.youtube.com/shorts/memELbN8m7I) - 2025-10-13
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Somnath Beach Somnath Temple Mangalore | Places to see in Mangalore Mangladevi Temple #mangalore](https://www.youtube.com/watch?v=Gt2tV3zjEwk) - 2025-10-07
 
 [Manjilo ki rahe Mein #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/pyi2tBge5VY) - 2025-10-07
-
-[The Best Dam That We Have Seen So Far in Karnataka #shorts #roadtrip #travel #humhairahi](https://www.youtube.com/shorts/HFX1fzIlyWU) - 2025-10-05
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
