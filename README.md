@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Underground Shiva Temple #shorts #humpi #roadtrips #humhairahi](https://www.youtube.com/shorts/cgIP83ykMtc) - 2025-10-22
+
 [Exploring Kadre temple in Mangalore #placestosee #mangalore](https://www.youtube.com/watch?v=WCWblA4uRnI) - 2025-10-21
 
 [The Lotus Mahal Humpi Ruins Places to See #KiaSonet #roadtrips #travel #humhairahi](https://www.youtube.com/shorts/tTPQHKRmHNs) - 2025-10-18
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Manjil Ko Ki Raho mein Badta Ja Tu #shorts #travel #humhairahi #roadtrips](https://www.youtube.com/shorts/xpoCwcXGhWw) - 2025-10-11
 
 [Chitradurga Fort Karnataka #kiasonet #humhairahi](https://www.youtube.com/shorts/i1z-qljFIbA) - 2025-10-08
-
-[Somnath Beach Somnath Temple Mangalore | Places to see in Mangalore Mangladevi Temple #mangalore](https://www.youtube.com/watch?v=Gt2tV3zjEwk) - 2025-10-07
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
