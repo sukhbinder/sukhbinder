@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Thanir Bhavi Beach Mangalore Gokarnatha Temple Pabbas Managalore Gurudwara sahib #places to see](https://www.youtube.com/watch?v=TfLvHMafXjI) - 2025-10-29
+
 [Exploring humpi in a day #humpi #roadtrips #travel #humhairahi](https://www.youtube.com/shorts/J8PeCtvnOE4) - 2025-10-28
 
 [Underground Shiva Temple #shorts #humpi #roadtrips #humhairahi](https://www.youtube.com/shorts/cgIP83ykMtc) - 2025-10-22
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [The Elephant Stables Humpi Ruins Places to See #KiaSonet #roadtrips #humhairahi](https://www.youtube.com/shorts/zTD98yxr8DQ) - 2025-10-16
 
 [सैर कर दुन ki Gafil #shorts #humhairahi #roadtrips](https://www.youtube.com/shorts/memELbN8m7I) - 2025-10-13
-
-[Manjil Ko Ki Raho mein Badta Ja Tu #shorts #travel #humhairahi #roadtrips](https://www.youtube.com/shorts/xpoCwcXGhWw) - 2025-10-11
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
