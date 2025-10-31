@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[The 5 Minute RCS tutorial](https://sukhbinder.wordpress.com/2025/10/31/the-5-minute-rcs-tutorial/) - Fri, 31 Oct 2025 14:25:56 +0000
+
 [Now use -h](https://sukhbinder.wordpress.com/2025/09/17/now-use-h/) - 
 
 [Something I am missing](https://sukhbinder.wordpress.com/2025/09/11/something-i-am-missing/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [How we learn](https://sukhbinder.wordpress.com/2025/07/24/how-we-learn/) - 
 
 [AI is Like a Refrigerator](https://sukhbinder.wordpress.com/2025/07/20/ai-is-like-a-refrigerator/) - Sun, 20 Jul 2025 03:31:51 +0000
-
-[Replacing Shovels with Bulldozers](https://sukhbinder.wordpress.com/2025/07/20/replacing-shovels-with-bulldozers/) - Sun, 20 Jul 2025 03:29:35 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
