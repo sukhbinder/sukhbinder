@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[We travel not to escape life, but for life not to escape us  #shorts #travel #humhairahi #roadtrips](https://www.youtube.com/shorts/Be7M_unft_w) - 2025-11-02
+
 [Shree Vijaya Vitthala Temple places to see in humpi #humhairahi #shorts](https://www.youtube.com/shorts/qTIYMJVuXEs) - 2025-11-01
 
 [Exploring Shree Vijaya Vithala Temple Humpi #humhairahi #shorts](https://www.youtube.com/shorts/TejvBL2CO1M) - 2025-10-31
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Exploring humpi in a day #humpi #roadtrips #travel #humhairahi](https://www.youtube.com/shorts/J8PeCtvnOE4) - 2025-10-28
 
 [Underground Shiva Temple #shorts #humpi #roadtrips #humhairahi](https://www.youtube.com/shorts/cgIP83ykMtc) - 2025-10-22
-
-[Exploring Kadre temple in Mangalore #placestosee #mangalore](https://www.youtube.com/watch?v=WCWblA4uRnI) - 2025-10-21
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
