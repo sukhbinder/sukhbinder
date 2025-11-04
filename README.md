@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Programming is…..](https://sukhbinder.wordpress.com/2025/11/04/programming-is/) - 
+
 [Quality of life in the age of AI](https://sukhbinder.wordpress.com/2025/11/02/quality-of-life-in-the-age-of-ai/) - Sun, 02 Nov 2025 10:33:50 +0000
 
 [It’s the sides of the mountain which sustain life, not the top](https://sukhbinder.wordpress.com/2025/11/01/its-the-sides-of-the-mountain-which-sustain-life-not-the-top/) - Sat, 01 Nov 2025 12:16:58 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Chess Symbols Using Python](https://sukhbinder.wordpress.com/2025/08/02/chess-symbols-using-python/) - Sat, 02 Aug 2025 08:22:36 +0000
 
 [Compromise](https://sukhbinder.wordpress.com/2025/07/30/compromise/) - Wed, 30 Jul 2025 07:03:41 +0000
-
-[The Conjurer, and the Scribe](https://sukhbinder.wordpress.com/2025/07/28/the-conjurer-and-the-scribe/) - Mon, 28 Jul 2025 09:55:58 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
