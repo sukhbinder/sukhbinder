@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Nitnem v.0.3.4 released](https://sukhbinder.wordpress.com/2025/11/05/nitnem-v-0-3-4-released/) - 
+
 [Programming is…..](https://sukhbinder.wordpress.com/2025/11/04/programming-is/) - 
 
 [Quality of life in the age of AI](https://sukhbinder.wordpress.com/2025/11/02/quality-of-life-in-the-age-of-ai/) - Sun, 02 Nov 2025 10:33:50 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Human Intelligence is Compositional](https://sukhbinder.wordpress.com/2025/08/12/human-intelligence-is-compositional/) - 
 
 [Chess Symbols Using Python](https://sukhbinder.wordpress.com/2025/08/02/chess-symbols-using-python/) - Sat, 02 Aug 2025 08:22:36 +0000
-
-[Compromise](https://sukhbinder.wordpress.com/2025/07/30/compromise/) - Wed, 30 Jul 2025 07:03:41 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
