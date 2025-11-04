@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[nitnem Nitnem v0.3.4](https://github.com/sukhbinder/nitnem/releases/tag/v0.3.4) - 2025-11-04
+
 [outlook-meetings v0.0.1](https://github.com/sukhbinder/outlook-meetings/releases/tag/v0.0.1) - 2025-10-11
 
 [winzy-outlook-meetings v0.0.2](https://github.com/sukhbinder/winzy-outlook-meetings/releases/tag/v0.0.2) - 2025-10-11
@@ -40,8 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [vidtoolz-intro ](https://github.com/sukhbinder/vidtoolz-intro/releases/tag/v0.1.1) - 2025-07-03
 
 [winzy-selected-file v0.1.0](https://github.com/sukhbinder/winzy-selected-file/releases/tag/v0.1.0) - 2025-06-28
-
-[vidtoolz-concat v0.0.3](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.3a) - 2025-06-27
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[सफर खूबसूरत है, मंज़िल से भी ज़्यादा। #shorts #roadtrips #travel #humhairahi](https://www.youtube.com/shorts/yC9H6f8aWr4) - 2025-11-04
+
 [We travel not to escape life, but for life not to escape us  #shorts #travel #humhairahi #roadtrips](https://www.youtube.com/shorts/Be7M_unft_w) - 2025-11-02
 
 [Shree Vijaya Vitthala Temple places to see in humpi #humhairahi #shorts](https://www.youtube.com/shorts/qTIYMJVuXEs) - 2025-11-01
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Thanir Bhavi Beach Mangalore Gokarnatha Temple Pabbas Managalore Gurudwara sahib #places to see](https://www.youtube.com/watch?v=TfLvHMafXjI) - 2025-10-29
 
 [Exploring humpi in a day #humpi #roadtrips #travel #humhairahi](https://www.youtube.com/shorts/J8PeCtvnOE4) - 2025-10-28
-
-[Underground Shiva Temple #shorts #humpi #roadtrips #humhairahi](https://www.youtube.com/shorts/cgIP83ykMtc) - 2025-10-22
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>

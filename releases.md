@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->149<!-- releases_count ends --> releases across <!-- project_count starts -->61<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->150<!-- releases_count ends --> releases across <!-- project_count starts -->61<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[nitnem](https://github.com/sukhbinder/nitnem)**: [Nitnem v0.3.4](https://github.com/sukhbinder/nitnem/releases/tag/v0.3.4) - ([7 releases total](https://github.com/sukhbinder/nitnem/releases)) - 2025-11-04
+<br />Nitnem using python for Mac and possibly windows latter
 * **[outlook-meetings](https://github.com/sukhbinder/outlook-meetings)**: [v0.0.1](https://github.com/sukhbinder/outlook-meetings/releases/tag/v0.0.1) - 2025-10-11
 <br />Create outlook meetings using cli
 * **[winzy-outlook-meetings](https://github.com/sukhbinder/winzy-outlook-meetings)**: [v0.0.2](https://github.com/sukhbinder/winzy-outlook-meetings/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/winzy-outlook-meetings/releases)) - 2025-10-11
@@ -75,8 +77,6 @@ Listing <!-- releases_count starts -->149<!-- releases_count ends --> releases a
 <br />Send message/videos/photos/docs using Telegram
 * **[winzy-screenshot](https://github.com/sukhbinder/winzy-screenshot)**: [](https://github.com/sukhbinder/winzy-screenshot/releases/tag/v0.0.4) - ([5 releases total](https://github.com/sukhbinder/winzy-screenshot/releases)) - 2024-12-04
 <br />Screenshot using python
-* **[nitnem](https://github.com/sukhbinder/nitnem)**: [Using afplay-win](https://github.com/sukhbinder/nitnem/releases/tag/v0.3.3a) - ([6 releases total](https://github.com/sukhbinder/nitnem/releases)) - 2024-11-27
-<br />Nitnem using python for Mac and possibly windows latter
 * **[afplay-win](https://github.com/sukhbinder/afplay-win)**: [](https://github.com/sukhbinder/afplay-win/releases/tag/v0.01) - 2024-11-27
 <br />Tiny utility that mimics 'afplay' in windows
 * **[winzy-create-gif](https://github.com/sukhbinder/winzy-create-gif)**: [](https://github.com/sukhbinder/winzy-create-gif/releases/tag/v0.0.1a) - ([2 releases total](https://github.com/sukhbinder/winzy-create-gif/releases)) - 2024-11-18
