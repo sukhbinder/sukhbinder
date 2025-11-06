@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Chitradurga Tunnel #nightdrive #shorts #roadtrips #humhairahi #kiasonet](https://www.youtube.com/shorts/UzaXOzV2Uzk) - 2025-11-06
+
 [Panambur Beach Mangalore #Arabian Sea #Places to see #Mangalore #Sunset #Beachsports #humhairahi](https://www.youtube.com/watch?v=P4UlXkevA1I) - 2025-11-05
 
 [सफर खूबसूरत है, मंज़िल से भी ज़्यादा। #shorts #roadtrips #travel #humhairahi](https://www.youtube.com/shorts/yC9H6f8aWr4) - 2025-11-04
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Exploring Shree Vijaya Vithala Temple Humpi #humhairahi #shorts](https://www.youtube.com/shorts/TejvBL2CO1M) - 2025-10-31
 
 [Sayar Kar Duniya Ki Gafil #shorts #travel #humhairahi #roadtrips](https://www.youtube.com/shorts/xivV6OiQcxE) - 2025-10-30
-
-[Thanir Bhavi Beach Mangalore Gokarnatha Temple Pabbas Managalore Gurudwara sahib #places to see](https://www.youtube.com/watch?v=TfLvHMafXjI) - 2025-10-29
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
