@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Marvels Of Humpi Statues #humhairahi #shorts #roadtrips #humpi](https://www.youtube.com/shorts/LH9XnbQAegI) - 2025-11-10
+
 [Chitradurga Tunnel #nightdrive #shorts #roadtrips #humhairahi #kiasonet](https://www.youtube.com/shorts/UzaXOzV2Uzk) - 2025-11-06
 
 [Panambur Beach Mangalore #Arabian Sea #Places to see #Mangalore #Sunset #Beachsports #humhairahi](https://www.youtube.com/watch?v=P4UlXkevA1I) - 2025-11-05
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Shree Vijaya Vitthala Temple places to see in humpi #humhairahi #shorts](https://www.youtube.com/shorts/qTIYMJVuXEs) - 2025-11-01
 
 [Exploring Shree Vijaya Vithala Temple Humpi #humhairahi #shorts](https://www.youtube.com/shorts/TejvBL2CO1M) - 2025-10-31
-
-[Sayar Kar Duniya Ki Gafil #shorts #travel #humhairahi #roadtrips](https://www.youtube.com/shorts/xivV6OiQcxE) - 2025-10-30
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
