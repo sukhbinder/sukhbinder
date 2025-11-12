@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Mangalore to Udupi Maple beach St Marys Boating point #Kiasonet #humhairahi](https://www.youtube.com/watch?v=3BQLEePcG1Y) - 2025-11-12
+
 [Marvels Of Humpi Statues #humhairahi #shorts #roadtrips #humpi](https://www.youtube.com/shorts/LH9XnbQAegI) - 2025-11-10
 
 [Chitradurga Tunnel #nightdrive #shorts #roadtrips #humhairahi #kiasonet](https://www.youtube.com/shorts/UzaXOzV2Uzk) - 2025-11-06
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [We travel not to escape life, but for life not to escape us  #shorts #travel #humhairahi #roadtrips](https://www.youtube.com/shorts/Be7M_unft_w) - 2025-11-02
 
 [Shree Vijaya Vitthala Temple places to see in humpi #humhairahi #shorts](https://www.youtube.com/shorts/qTIYMJVuXEs) - 2025-11-01
-
-[Exploring Shree Vijaya Vithala Temple Humpi #humhairahi #shorts](https://www.youtube.com/shorts/TejvBL2CO1M) - 2025-10-31
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
