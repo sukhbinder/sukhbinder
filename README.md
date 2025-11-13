@@ -81,7 +81,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 [Chitradurga Tunnel #nightdrive #shorts #roadtrips #humhairahi #kiasonet](https://www.youtube.com/shorts/UzaXOzV2Uzk) - 2025-11-06
 
-[Panambur Beach Mangalore #Arabian Sea #Places to see #Mangalore #Sunset #Beachsports #humhairahi](https://www.youtube.com/watch?v=P4UlXkevA1I) - 2025-11-05
+[Most Visited Beach Of Karnataka. #Arabian Sea #Places to see #Mangalore #Sunset #humhairahi](https://www.youtube.com/watch?v=P4UlXkevA1I) - 2025-11-05
 
 [सफर खूबसूरत है, मंज़िल से भी ज़्यादा। #shorts #roadtrips #travel #humhairahi](https://www.youtube.com/shorts/yC9H6f8aWr4) - 2025-11-04
 
