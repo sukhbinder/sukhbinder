@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Jogmati Forest Entry #shorts #travel #roadtrips #humhairahi](https://www.youtube.com/shorts/w9-lYDouxEQ) - 2025-11-16
+
 [Exploring Humpi #roadtrips #humhairahi #kiasonet](https://www.youtube.com/shorts/p-UTNzS5N3I) - 2025-11-12
 
 [Mangalore to Udupi Maple beach St Marys Boating point #Kiasonet #humhairahi](https://www.youtube.com/watch?v=3BQLEePcG1Y) - 2025-11-12
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Most Visited Beach Of Karnataka. #Arabian Sea #Places to see #Mangalore #Sunset #humhairahi](https://www.youtube.com/watch?v=P4UlXkevA1I) - 2025-11-05
 
 [सफर खूबसूरत है, मंज़िल से भी ज़्यादा। #shorts #roadtrips #travel #humhairahi](https://www.youtube.com/shorts/yC9H6f8aWr4) - 2025-11-04
-
-[We travel not to escape life, but for life not to escape us  #shorts #travel #humhairahi #roadtrips](https://www.youtube.com/shorts/Be7M_unft_w) - 2025-11-02
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
