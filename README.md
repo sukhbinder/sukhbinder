@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Why Investing is hard….](https://sukhbinder.wordpress.com/2025/11/17/why-investing-is-hard/) - Mon, 17 Nov 2025 16:35:55 +0000
+
 [I’m “going quiet.”](https://sukhbinder.wordpress.com/2025/11/11/im-going-quiet/) - 
 
 [Nitnem v.0.3.4 released](https://sukhbinder.wordpress.com/2025/11/05/nitnem-v-0-3-4-released/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Something I am missing](https://sukhbinder.wordpress.com/2025/09/11/something-i-am-missing/) - 
 
 [Vibe Coding](https://sukhbinder.wordpress.com/2025/08/17/vibe-coding/) - Sun, 17 Aug 2025 15:35:55 +0000
-
-[Human Intelligence is Compositional](https://sukhbinder.wordpress.com/2025/08/12/human-intelligence-is-compositional/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
