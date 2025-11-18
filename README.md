@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Roadtrip Namma Karnataka #shorts #travel #roadtrips #humhairahi](https://www.youtube.com/shorts/QNN9kG-Nvx0) - 2025-11-18
+
 [Jogmati Forest Entry #shorts #travel #roadtrips #humhairahi](https://www.youtube.com/shorts/w9-lYDouxEQ) - 2025-11-16
 
 [Exploring Humpi #roadtrips #humhairahi #kiasonet](https://www.youtube.com/shorts/p-UTNzS5N3I) - 2025-11-12
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Chitradurga Tunnel #nightdrive #shorts #roadtrips #humhairahi #kiasonet](https://www.youtube.com/shorts/UzaXOzV2Uzk) - 2025-11-06
 
 [Most Visited Beach Of Karnataka. #Arabian Sea #Places to see #Mangalore #Sunset #humhairahi](https://www.youtube.com/watch?v=P4UlXkevA1I) - 2025-11-05
-
-[सफर खूबसूरत है, मंज़िल से भी ज़्यादा। #shorts #roadtrips #travel #humhairahi](https://www.youtube.com/shorts/yC9H6f8aWr4) - 2025-11-04
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
