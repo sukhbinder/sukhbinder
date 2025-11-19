@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[St  Marys Island Coconut Island Karnataka #tourism #udupi #kiasonet](https://www.youtube.com/watch?v=ZAuUJO_4fYY) - 2025-11-19
+
 [Roadtrip Namma Karnataka #shorts #travel #roadtrips #humhairahi](https://www.youtube.com/shorts/QNN9kG-Nvx0) - 2025-11-18
 
 [Jogmati Forest Entry #shorts #travel #roadtrips #humhairahi](https://www.youtube.com/shorts/w9-lYDouxEQ) - 2025-11-16
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Marvels Of Humpi Statues #humhairahi #shorts #roadtrips #humpi](https://www.youtube.com/shorts/LH9XnbQAegI) - 2025-11-10
 
 [Chitradurga Tunnel #nightdrive #shorts #roadtrips #humhairahi #kiasonet](https://www.youtube.com/shorts/UzaXOzV2Uzk) - 2025-11-06
-
-[Most Visited Beach Of Karnataka. #Arabian Sea #Places to see #Mangalore #Sunset #humhairahi](https://www.youtube.com/watch?v=P4UlXkevA1I) - 2025-11-05
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
