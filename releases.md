@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->150<!-- releases_count ends --> releases across <!-- project_count starts -->61<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->151<!-- releases_count ends --> releases across <!-- project_count starts -->61<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[vidtoolz-add-sound](https://github.com/sukhbinder/vidtoolz-add-sound)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-add-sound/releases/tag/v0.0.3) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-add-sound/releases)) - 2025-11-26
+<br />Add sound to a video file
 * **[nitnem](https://github.com/sukhbinder/nitnem)**: [Nitnem v0.3.4](https://github.com/sukhbinder/nitnem/releases/tag/v0.3.4) - ([7 releases total](https://github.com/sukhbinder/nitnem/releases)) - 2025-11-04
 <br />Nitnem using python for Mac and possibly windows latter
 * **[outlook-meetings](https://github.com/sukhbinder/outlook-meetings)**: [v0.0.1](https://github.com/sukhbinder/outlook-meetings/releases/tag/v0.0.1) - 2025-10-11
@@ -55,8 +57,6 @@ Listing <!-- releases_count starts -->150<!-- releases_count ends --> releases a
 <br />Apply fadein-fadeout effects on videos
 * **[vidtoolz-apply-greenscreen](https://github.com/sukhbinder/vidtoolz-apply-greenscreen)**: [v0.0.1](https://github.com/sukhbinder/vidtoolz-apply-greenscreen/releases/tag/v0.0.1) - 2025-03-16
 <br />Apply greenscreen video on top of a video
-* **[vidtoolz-add-sound](https://github.com/sukhbinder/vidtoolz-add-sound)**: [](https://github.com/sukhbinder/vidtoolz-add-sound/releases/tag/v0.0.1) - 2025-03-14
-<br />Add sound to a video file
 * **[winzy-time-in-words](https://github.com/sukhbinder/winzy-time-in-words)**: [](https://github.com/sukhbinder/winzy-time-in-words/releases/tag/v0.0.1) - 2025-03-13
 <br />Simple program to say time in words
 * **[winzy-zenmode](https://github.com/sukhbinder/winzy-zenmode)**: [release v0.1.0](https://github.com/sukhbinder/winzy-zenmode/releases/tag/v0.1.0) - 2025-01-10

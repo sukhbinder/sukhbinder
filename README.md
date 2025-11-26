@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[vidtoolz-add-sound v0.0.3](https://github.com/sukhbinder/vidtoolz-add-sound/releases/tag/v0.0.3) - 2025-11-26
+
 [nitnem Nitnem v0.3.4](https://github.com/sukhbinder/nitnem/releases/tag/v0.3.4) - 2025-11-04
 
 [outlook-meetings v0.0.1](https://github.com/sukhbinder/outlook-meetings/releases/tag/v0.0.1) - 2025-10-11
@@ -40,8 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [crontab-win v0.0.2](https://github.com/sukhbinder/crontab-win/releases/tag/v0.0.2) - 2025-07-08
 
 [vidtoolz-intro ](https://github.com/sukhbinder/vidtoolz-intro/releases/tag/v0.1.1) - 2025-07-03
-
-[winzy-selected-file v0.1.0](https://github.com/sukhbinder/winzy-selected-file/releases/tag/v0.1.0) - 2025-06-28
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
