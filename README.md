@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[O Rahi    #shorts #travel #highway #roadtrips #humhairahi](https://www.youtube.com/shorts/Chtvj0XnIdQ) - 2025-11-28
+
 [Return From St Marys island Maple Sea Walk Arabian Sea #Dolphin](https://www.youtube.com/watch?v=zI80dzCjTk0) - 2025-11-26
 
 [Jogmatti Entrance #Shorts #humhairahi](https://www.youtube.com/shorts/wA9-I1QTQ28) - 2025-11-22
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Jogmati Forest Entry #shorts #travel #roadtrips #humhairahi](https://www.youtube.com/shorts/w9-lYDouxEQ) - 2025-11-16
 
 [Exploring Humpi #roadtrips #humhairahi #kiasonet](https://www.youtube.com/shorts/p-UTNzS5N3I) - 2025-11-12
-
-[Mangalore to Udupi Maple beach St Marys Boating point #Kiasonet #humhairahi](https://www.youtube.com/watch?v=3BQLEePcG1Y) - 2025-11-12
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
