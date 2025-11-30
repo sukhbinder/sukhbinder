@@ -75,7 +75,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 <!-- youtube starts -->
 [O Rahi    #shorts #travel #highway #roadtrips #humhairahi](https://www.youtube.com/shorts/Chtvj0XnIdQ) - 2025-11-28
 
-[Return From St Marys island Maple Sea Walk Arabian Sea #Dolphin](https://www.youtube.com/watch?v=zI80dzCjTk0) - 2025-11-26
+[Return From St Marys island Malpe Sea Walk Arabian Sea #Dolphin](https://www.youtube.com/watch?v=zI80dzCjTk0) - 2025-11-26
 
 [Jogmatti Entrance #Shorts #humhairahi](https://www.youtube.com/shorts/wA9-I1QTQ28) - 2025-11-22
 
