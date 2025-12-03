@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[LLMs are bullshitters](https://sukhbinder.wordpress.com/2025/12/03/llms-are-bullshitters/) - Wed, 03 Dec 2025 06:57:47 +0000
+
 [Why Investing is hard….](https://sukhbinder.wordpress.com/2025/11/17/why-investing-is-hard/) - Mon, 17 Nov 2025 16:35:55 +0000
 
 [I’m “going quiet.”](https://sukhbinder.wordpress.com/2025/11/11/im-going-quiet/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Now use -h](https://sukhbinder.wordpress.com/2025/09/17/now-use-h/) - 
 
 [Something I am missing](https://sukhbinder.wordpress.com/2025/09/11/something-i-am-missing/) - 
-
-[Vibe Coding](https://sukhbinder.wordpress.com/2025/08/17/vibe-coding/) - Sun, 17 Aug 2025 15:35:55 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
