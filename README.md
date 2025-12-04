@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Aye Rahi #shorts #humhairahi #kiasonet #travel #inbangalore](https://www.youtube.com/shorts/rcfUma28owI) - 2025-12-04
+
 [Jogmati Hill Viewpoint #shorts #travel #roadtrips #humhairahi](https://www.youtube.com/shorts/KS2WQi0Zu9Y) - 2025-12-01
 
 [Jogmatti Forest Safari #shorts #roadtrips #travel #humhairahi](https://www.youtube.com/shorts/vYTu1EDg9n0) - 2025-11-30
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Jogmatti Entrance #Shorts #humhairahi](https://www.youtube.com/shorts/wA9-I1QTQ28) - 2025-11-22
 
 [St  Marys Island Coconut Island Karnataka #tourism #udupi #kiasonet](https://www.youtube.com/watch?v=ZAuUJO_4fYY) - 2025-11-19
-
-[Roadtrip Namma Karnataka #shorts #travel #roadtrips #humhairahi](https://www.youtube.com/shorts/QNN9kG-Nvx0) - 2025-11-18
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
