@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Khatu syam temple Khatushyam Temple Bangalore #shorts #humhairahi #bangalore #kiasonet](https://www.youtube.com/shorts/dFIQyGjyLg4) - 2025-12-06
+
 [Aye Rahi #shorts #humhairahi #kiasonet #travel #inbangalore](https://www.youtube.com/shorts/rcfUma28owI) - 2025-12-04
 
 [Jogmati Hill Viewpoint #shorts #travel #roadtrips #humhairahi](https://www.youtube.com/shorts/KS2WQi0Zu9Y) - 2025-12-01
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Return From St Marys island Malpe Sea Walk Arabian Sea #Dolphin](https://www.youtube.com/watch?v=zI80dzCjTk0) - 2025-11-26
 
 [Jogmatti Entrance #Shorts #humhairahi](https://www.youtube.com/shorts/wA9-I1QTQ28) - 2025-11-22
-
-[St  Marys Island Coconut Island Karnataka #tourism #udupi #kiasonet](https://www.youtube.com/watch?v=ZAuUJO_4fYY) - 2025-11-19
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
