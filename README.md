@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Why Fighter Jets Ban 90% of C++ Features](https://sukhbinder.wordpress.com/2025/12/08/why-fighter-jets-ban-90-of-c-features/) - Mon, 08 Dec 2025 18:23:56 +0000
+
 [LLMs are bullshitters](https://sukhbinder.wordpress.com/2025/12/03/llms-are-bullshitters/) - Wed, 03 Dec 2025 06:57:47 +0000
 
 [Why Investing is hard….](https://sukhbinder.wordpress.com/2025/11/17/why-investing-is-hard/) - Mon, 17 Nov 2025 16:35:55 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [The 5 Minute RCS tutorial](https://sukhbinder.wordpress.com/2025/10/31/the-5-minute-rcs-tutorial/) - Fri, 31 Oct 2025 14:25:56 +0000
 
 [Now use -h](https://sukhbinder.wordpress.com/2025/09/17/now-use-h/) - 
-
-[Something I am missing](https://sukhbinder.wordpress.com/2025/09/11/something-i-am-missing/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
