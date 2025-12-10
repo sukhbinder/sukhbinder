@@ -19,7 +19,7 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
-[winzy v0.0.4](https://github.com/sukhbinder/winzy/releases/tag/v0.0.4) - 2025-12-10
+[winzy v0.0.5](https://github.com/sukhbinder/winzy/releases/tag/v0.0.5) - 2025-12-10
 
 [crontab-win v0.2.0](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.0) - 2025-12-10
 

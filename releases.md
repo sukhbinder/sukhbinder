@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->153<!-- releases_count ends --> releases across <!-- project_count starts -->61<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->154<!-- releases_count ends --> releases across <!-- project_count starts -->61<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[winzy](https://github.com/sukhbinder/winzy)**: [v0.0.4](https://github.com/sukhbinder/winzy/releases/tag/v0.0.4) - ([8 releases total](https://github.com/sukhbinder/winzy/releases)) - 2025-12-10
+* **[winzy](https://github.com/sukhbinder/winzy)**: [v0.0.5](https://github.com/sukhbinder/winzy/releases/tag/v0.0.5) - ([9 releases total](https://github.com/sukhbinder/winzy/releases)) - 2025-12-10
 <br />CLI tools for windows. A plugin based approach.
 * **[crontab-win](https://github.com/sukhbinder/crontab-win)**: [v0.2.0](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.0) - ([3 releases total](https://github.com/sukhbinder/crontab-win/releases)) - 2025-12-10
 <br />Crontab for windows
