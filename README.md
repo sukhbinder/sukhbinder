@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[winzy v0.0.4](https://github.com/sukhbinder/winzy/releases/tag/v0.0.4) - 2025-12-10
+
 [crontab-win v0.2.0](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.0) - 2025-12-10
 
 [vidtoolz-add-sound v0.0.3](https://github.com/sukhbinder/vidtoolz-add-sound/releases/tag/v0.0.3) - 2025-11-26
@@ -36,8 +38,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [winzy-pdf-to-text v0.1.1](https://github.com/sukhbinder/winzy-pdf-to-text/releases/tag/v0.1.1) - 2025-07-19
 
 [winzy-convert winzy convert v0.0.2](https://github.com/sukhbinder/winzy-convert/releases/tag/v0.0.2) - 2025-07-16
-
-[winzy v0.0.3](https://github.com/sukhbinder/winzy/releases/tag/v0.0.3) - 2025-07-13
 
 [vidtoolz v0.1.4](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.4) - 2025-07-12
 

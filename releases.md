@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->152<!-- releases_count ends --> releases across <!-- project_count starts -->61<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->153<!-- releases_count ends --> releases across <!-- project_count starts -->61<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[winzy](https://github.com/sukhbinder/winzy)**: [v0.0.4](https://github.com/sukhbinder/winzy/releases/tag/v0.0.4) - ([8 releases total](https://github.com/sukhbinder/winzy/releases)) - 2025-12-10
+<br />CLI tools for windows. A plugin based approach.
 * **[crontab-win](https://github.com/sukhbinder/crontab-win)**: [v0.2.0](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.0) - ([3 releases total](https://github.com/sukhbinder/crontab-win/releases)) - 2025-12-10
 <br />Crontab for windows
 * **[vidtoolz-add-sound](https://github.com/sukhbinder/vidtoolz-add-sound)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-add-sound/releases/tag/v0.0.3) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-add-sound/releases)) - 2025-11-26
@@ -21,8 +23,6 @@ Listing <!-- releases_count starts -->152<!-- releases_count ends --> releases a
 <br />Extract text from a given pdf
 * **[winzy-convert](https://github.com/sukhbinder/winzy-convert)**: [winzy convert v0.0.2](https://github.com/sukhbinder/winzy-convert/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/winzy-convert/releases)) - 2025-07-16
 <br />Mimic's convert to convert images to pdf, ppt etc.
-* **[winzy](https://github.com/sukhbinder/winzy)**: [v0.0.3](https://github.com/sukhbinder/winzy/releases/tag/v0.0.3) - ([7 releases total](https://github.com/sukhbinder/winzy/releases)) - 2025-07-13
-<br />CLI tools for windows. A plugin based approach.
 * **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [v0.1.4](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.4) - ([5 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2025-07-12
 <br />CLI tools for editing videos in python. A plugin based approach.
 * **[vidtoolz-intro](https://github.com/sukhbinder/vidtoolz-intro)**: [](https://github.com/sukhbinder/vidtoolz-intro/releases/tag/v0.1.1) - 2025-07-03
