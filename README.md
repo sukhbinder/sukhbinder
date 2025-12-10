@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[crontab-win v0.2.0](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.0) - 2025-12-10
+
 [vidtoolz-add-sound v0.0.3](https://github.com/sukhbinder/vidtoolz-add-sound/releases/tag/v0.0.3) - 2025-11-26
 
 [nitnem Nitnem v0.3.4](https://github.com/sukhbinder/nitnem/releases/tag/v0.3.4) - 2025-11-04
@@ -38,8 +40,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [winzy v0.0.3](https://github.com/sukhbinder/winzy/releases/tag/v0.0.3) - 2025-07-13
 
 [vidtoolz v0.1.4](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.4) - 2025-07-12
-
-[crontab-win v0.0.2](https://github.com/sukhbinder/crontab-win/releases/tag/v0.0.2) - 2025-07-08
 
 [vidtoolz-intro ](https://github.com/sukhbinder/vidtoolz-intro/releases/tag/v0.1.1) - 2025-07-03
 <!-- recent_releases ends -->
@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Shree Asha Puran Devi Mandir Bangalore #shorts #humhairahi #kiasonet #bangalore](https://www.youtube.com/shorts/a2z_hOvwRMI) - 2025-12-10
+
 [Malpe Beach Places to see in Mangalore Meenakshi Temple #NH66 #travel #mangalore](https://www.youtube.com/watch?v=7vBtRE6ZSEg) - 2025-12-10
 
 [Khatu syam temple Khatushyam Temple Bangalore #shorts #humhairahi #bangalore #kiasonet](https://www.youtube.com/shorts/dFIQyGjyLg4) - 2025-12-06
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Jogmatti Forest Safari #shorts #roadtrips #travel #humhairahi](https://www.youtube.com/shorts/vYTu1EDg9n0) - 2025-11-30
 
 [O Rahi    #shorts #travel #highway #roadtrips #humhairahi](https://www.youtube.com/shorts/Chtvj0XnIdQ) - 2025-11-28
-
-[Return From St Marys island Malpe Sea Walk Arabian Sea #Dolphin](https://www.youtube.com/watch?v=zI80dzCjTk0) - 2025-11-26
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
