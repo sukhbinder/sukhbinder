@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Khatu syam temple Khatushyam Temple Bangalore #shorts #humhairahi #bangalore #kiasonet](https://www.youtube.com/shorts/fyhgX979tnk) - 2025-12-12
+
 [Shree Asha Puran Devi Mandir Bangalore #shorts #humhairahi #kiasonet #bangalore](https://www.youtube.com/shorts/a2z_hOvwRMI) - 2025-12-10
 
 [Malpe Beach Places to see in Mangalore Meenakshi Temple #NH66 #travel #mangalore](https://www.youtube.com/watch?v=7vBtRE6ZSEg) - 2025-12-10
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Jogmati Hill Viewpoint #shorts #travel #roadtrips #humhairahi](https://www.youtube.com/shorts/KS2WQi0Zu9Y) - 2025-12-01
 
 [Jogmatti Forest Safari #shorts #roadtrips #travel #humhairahi](https://www.youtube.com/shorts/vYTu1EDg9n0) - 2025-11-30
-
-[O Rahi    #shorts #travel #highway #roadtrips #humhairahi](https://www.youtube.com/shorts/Chtvj0XnIdQ) - 2025-11-28
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
