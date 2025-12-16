@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[The junior bet has gotten better.](https://sukhbinder.wordpress.com/2025/12/16/the-junior-bet-has-gotten-better/) - 
+
 [Has Software Development Cost Dropped by 90%?](https://sukhbinder.wordpress.com/2025/12/10/has-software-development-cost-dropped-by-90/) - Wed, 10 Dec 2025 07:28:32 +0000
 
 [Why Fighter Jets Ban 90% of C++ Features](https://sukhbinder.wordpress.com/2025/12/08/why-fighter-jets-ban-90-of-c-features/) - Mon, 08 Dec 2025 18:23:56 +0000
@@ -65,14 +67,14 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Quality of life in the age of AI](https://sukhbinder.wordpress.com/2025/11/02/quality-of-life-in-the-age-of-ai/) - Sun, 02 Nov 2025 10:33:50 +0000
 
 [It’s the sides of the mountain which sustain life, not the top](https://sukhbinder.wordpress.com/2025/11/01/its-the-sides-of-the-mountain-which-sustain-life-not-the-top/) - Sat, 01 Nov 2025 12:16:58 +0000
-
-[The 5 Minute RCS tutorial](https://sukhbinder.wordpress.com/2025/10/31/the-5-minute-rcs-tutorial/) - Fri, 31 Oct 2025 14:25:56 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
+[Shree Asha Puran Devi Mandir Bangalore #shorts #humhairahi #kiasonet #bangalore #shorts](https://www.youtube.com/shorts/1rFgaCdTqsg) - 2025-12-16
+
 [Khatu syam temple Khatushyam Temple Bangalore #shorts #humhairahi #bangalore #kiasonet](https://www.youtube.com/shorts/fyhgX979tnk) - 2025-12-12
 
 [Shree Asha Puran Devi Mandir Bangalore #shorts #humhairahi #kiasonet #bangalore](https://www.youtube.com/shorts/a2z_hOvwRMI) - 2025-12-10
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Aye Rahi #shorts #humhairahi #kiasonet #travel #inbangalore](https://www.youtube.com/shorts/rcfUma28owI) - 2025-12-04
 
 [Jogmati Hill Viewpoint #shorts #travel #roadtrips #humhairahi](https://www.youtube.com/shorts/KS2WQi0Zu9Y) - 2025-12-01
-
-[Jogmatti Forest Safari #shorts #roadtrips #travel #humhairahi](https://www.youtube.com/shorts/vYTu1EDg9n0) - 2025-11-30
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
