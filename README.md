@@ -48,6 +48,10 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[crontab-win v0.2.0 released](https://sukhbinder.wordpress.com/2025/12/21/crontab-win-v0-2-0-released-2/) - Sat, 20 Dec 2025 21:10:06 +0000
+
+[crontab-win v0.2.0 released](https://sukhbinder.wordpress.com/2025/12/21/crontab-win-v0-2-0-released/) - Sat, 20 Dec 2025 21:09:25 +0000
+
 [Visual essay on how LLM works](https://sukhbinder.wordpress.com/2025/12/20/visual-essay-on-how-llm-works/) - Sat, 20 Dec 2025 13:13:38 +0000
 
 [The junior bet has gotten better.](https://sukhbinder.wordpress.com/2025/12/16/the-junior-bet-has-gotten-better/) - 
@@ -63,10 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [I’m “going quiet.”](https://sukhbinder.wordpress.com/2025/11/11/im-going-quiet/) - 
 
 [Nitnem v.0.3.4 released](https://sukhbinder.wordpress.com/2025/11/05/nitnem-v-0-3-4-released/) - 
-
-[Programming is…..](https://sukhbinder.wordpress.com/2025/11/04/programming-is/) - 
-
-[Quality of life in the age of AI](https://sukhbinder.wordpress.com/2025/11/02/quality-of-life-in-the-age-of-ai/) - Sun, 02 Nov 2025 10:33:50 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
