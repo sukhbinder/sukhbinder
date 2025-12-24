@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Suratkal Beach lighthouse beach Mangalore #beachesofMangalore #roadtrips normalize](https://www.youtube.com/watch?v=JeGv0zsCYnA) - 2025-12-24
+
 [O Rahi    #shorts #travel #highway #roadtrips #humhairahi](https://www.youtube.com/shorts/xl3eymKD80U) - 2025-12-22
 
 [Sasihithlu Beach |Full Route  | Turtle beach Mangalore #beachesofMangalore #roadtrips](https://www.youtube.com/watch?v=364rrCWL8AY) - 2025-12-17
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Shree Asha Puran Devi Mandir Bangalore #shorts #humhairahi #kiasonet #bangalore](https://www.youtube.com/shorts/a2z_hOvwRMI) - 2025-12-10
 
 [Malpe Beach Places to see in Mangalore Meenakshi Temple #NH66 #travel #mangalore](https://www.youtube.com/watch?v=7vBtRE6ZSEg) - 2025-12-10
-
-[Khatu syam temple Khatushyam Temple Bangalore #shorts #humhairahi #bangalore #kiasonet](https://www.youtube.com/shorts/dFIQyGjyLg4) - 2025-12-06
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
