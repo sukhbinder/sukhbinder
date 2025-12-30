@@ -19,13 +19,13 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[nitnem v0.3.5](https://github.com/sukhbinder/nitnem/releases/tag/v0.3.5) - 2025-12-30
+
 [winzy v0.0.5](https://github.com/sukhbinder/winzy/releases/tag/v0.0.5) - 2025-12-10
 
 [crontab-win v0.2.0](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.0) - 2025-12-10
 
 [vidtoolz-add-sound v0.0.3](https://github.com/sukhbinder/vidtoolz-add-sound/releases/tag/v0.0.3) - 2025-11-26
-
-[nitnem Nitnem v0.3.4](https://github.com/sukhbinder/nitnem/releases/tag/v0.3.4) - 2025-11-04
 
 [outlook-meetings v0.0.1](https://github.com/sukhbinder/outlook-meetings/releases/tag/v0.0.1) - 2025-10-11
 
@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Year of Travel 2025 | Happy New Year. | Wishes from #humhairahi](https://www.youtube.com/watch?v=jx0ss0Y34MU) - 2025-12-30
+
 [Bangalore Manalore Roadtrip Via NH75 #shorts #kiasonet #roadtrips](https://www.youtube.com/shorts/U87eiIZhvbg) - 2025-12-29
 
 [Suratkal Beach lighthouse beach Mangalore #beachesofMangalore #roadtrips normalize](https://www.youtube.com/watch?v=JeGv0zsCYnA) - 2025-12-24
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Shree Asha Puran Devi Mandir Bangalore #shorts #humhairahi #kiasonet #bangalore #shorts](https://www.youtube.com/shorts/1rFgaCdTqsg) - 2025-12-16
 
 [Khatu syam temple Khatushyam Temple Bangalore #shorts #humhairahi #bangalore #kiasonet](https://www.youtube.com/shorts/fyhgX979tnk) - 2025-12-12
-
-[Shree Asha Puran Devi Mandir Bangalore #shorts #humhairahi #kiasonet #bangalore](https://www.youtube.com/shorts/a2z_hOvwRMI) - 2025-12-10
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>

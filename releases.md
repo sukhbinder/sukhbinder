@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->154<!-- releases_count ends --> releases across <!-- project_count starts -->61<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->155<!-- releases_count ends --> releases across <!-- project_count starts -->61<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[nitnem](https://github.com/sukhbinder/nitnem)**: [v0.3.5](https://github.com/sukhbinder/nitnem/releases/tag/v0.3.5) - ([8 releases total](https://github.com/sukhbinder/nitnem/releases)) - 2025-12-30
+<br />Nitnem using python for Mac and possibly windows latter
 * **[winzy](https://github.com/sukhbinder/winzy)**: [v0.0.5](https://github.com/sukhbinder/winzy/releases/tag/v0.0.5) - ([9 releases total](https://github.com/sukhbinder/winzy/releases)) - 2025-12-10
 <br />CLI tools for windows. A plugin based approach.
 * **[crontab-win](https://github.com/sukhbinder/crontab-win)**: [v0.2.0](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.0) - ([3 releases total](https://github.com/sukhbinder/crontab-win/releases)) - 2025-12-10
 <br />Crontab for windows
 * **[vidtoolz-add-sound](https://github.com/sukhbinder/vidtoolz-add-sound)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-add-sound/releases/tag/v0.0.3) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-add-sound/releases)) - 2025-11-26
 <br />Add sound to a video file
-* **[nitnem](https://github.com/sukhbinder/nitnem)**: [Nitnem v0.3.4](https://github.com/sukhbinder/nitnem/releases/tag/v0.3.4) - ([7 releases total](https://github.com/sukhbinder/nitnem/releases)) - 2025-11-04
-<br />Nitnem using python for Mac and possibly windows latter
 * **[outlook-meetings](https://github.com/sukhbinder/outlook-meetings)**: [v0.0.1](https://github.com/sukhbinder/outlook-meetings/releases/tag/v0.0.1) - 2025-10-11
 <br />Create outlook meetings using cli
 * **[winzy-outlook-meetings](https://github.com/sukhbinder/winzy-outlook-meetings)**: [v0.0.2](https://github.com/sukhbinder/winzy-outlook-meetings/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/winzy-outlook-meetings/releases)) - 2025-10-11
