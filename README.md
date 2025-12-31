@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Someshwara Beach in #Ullal #Karnataka #Mangalore #shorts](https://www.youtube.com/shorts/G6b2QdDlY4E) - 2025-12-31
 
-[Year of Travel 2025 | Happy New Year. | Wishes from #humhairahi](https://www.youtube.com/watch?v=jx0ss0Y34MU) - 2025-12-30
-
-[Bangalore Manalore Roadtrip Via NH75 #shorts #kiasonet #roadtrips](https://www.youtube.com/shorts/U87eiIZhvbg) - 2025-12-29
-
-[Suratkal Beach lighthouse beach Mangalore #beachesofMangalore #roadtrips normalize](https://www.youtube.com/watch?v=JeGv0zsCYnA) - 2025-12-24
-
-[O Rahi    #shorts #travel #highway #roadtrips #humhairahi](https://www.youtube.com/shorts/xl3eymKD80U) - 2025-12-22
-
-[Sasihithlu Beach |Full Route  | Turtle beach Mangalore #beachesofMangalore #roadtrips](https://www.youtube.com/watch?v=364rrCWL8AY) - 2025-12-17
-
-[Shree Asha Puran Devi Mandir Bangalore #shorts #humhairahi #kiasonet #bangalore #shorts](https://www.youtube.com/shorts/1rFgaCdTqsg) - 2025-12-16
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
