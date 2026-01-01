@@ -73,9 +73,9 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Someshwara Beach in #Ullal #Karnataka #Mangalore #shorts](https://www.youtube.com/shorts/G6b2QdDlY4E) - 2025-12-31
+[Year of Travel 2025 | Happy New Year. | Wishes from #humhairahi](https://www.youtube.com/watch?v=jx0ss0Y34MU) - 2025-12-31
 
-[Year of Travel 2025 | Happy New Year. | Wishes from #humhairahi](https://www.youtube.com/watch?v=jx0ss0Y34MU) - 2025-12-30
+[Someshwara Beach in #Ullal #Karnataka #Mangalore #shorts](https://www.youtube.com/shorts/G6b2QdDlY4E) - 2025-12-31
 
 [Bangalore Manalore Roadtrip Via NH75 #shorts #kiasonet #roadtrips](https://www.youtube.com/shorts/U87eiIZhvbg) - 2025-12-29
 
