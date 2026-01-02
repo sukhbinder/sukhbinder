@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Beautiful views Huge Hill Top Temples Malleswara Temple Hassana Windmills #shorts #kiasonet](https://www.youtube.com/shorts/12bjTgdYWUc) - 2026-01-02
+
 [Year of Travel 2025 | Happy New Year. | Wishes from #humhairahi](https://www.youtube.com/watch?v=jx0ss0Y34MU) - 2025-12-31
 
 [Someshwara Beach in #Ullal #Karnataka #Mangalore #shorts](https://www.youtube.com/shorts/G6b2QdDlY4E) - 2025-12-31
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [O Rahi    #shorts #travel #highway #roadtrips #humhairahi](https://www.youtube.com/shorts/xl3eymKD80U) - 2025-12-22
 
 [Sasihithlu Beach |Full Route  | Turtle beach Mangalore #beachesofMangalore #roadtrips](https://www.youtube.com/watch?v=364rrCWL8AY) - 2025-12-17
-
-[Shree Asha Puran Devi Mandir Bangalore #shorts #humhairahi #kiasonet #bangalore #shorts](https://www.youtube.com/shorts/1rFgaCdTqsg) - 2025-12-16
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
