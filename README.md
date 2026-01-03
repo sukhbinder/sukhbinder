@@ -73,6 +73,10 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Mahatobhara Sri Mangaladevi Temple #Mangalore #Placestosee #mangaloreroadtrip #shorts](https://www.youtube.com/shorts/sXSJ9b2NHtg) - 2026-01-03
+
+[Mangalore to Kushalnagar roadtrip returning kiasonet via coorg to bangalore](https://www.youtube.com/watch?v=RwxrVd8c2gI) - 2026-01-03
+
 [Beautiful views Huge Hill Top Temples Malleswara Temple Hassana Windmills #shorts #kiasonet](https://www.youtube.com/shorts/12bjTgdYWUc) - 2026-01-02
 
 [Year of Travel 2025 | Happy New Year. | Wishes from #humhairahi](https://www.youtube.com/watch?v=jx0ss0Y34MU) - 2025-12-31
@@ -82,10 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Bangalore Manalore Roadtrip Via NH75 #shorts #kiasonet #roadtrips](https://www.youtube.com/shorts/U87eiIZhvbg) - 2025-12-29
 
 [Suratkal Beach lighthouse beach Mangalore #beachesofMangalore #roadtrips normalize](https://www.youtube.com/watch?v=JeGv0zsCYnA) - 2025-12-24
-
-[O Rahi    #shorts #travel #highway #roadtrips #humhairahi](https://www.youtube.com/shorts/xl3eymKD80U) - 2025-12-22
-
-[Sasihithlu Beach |Full Route  | Turtle beach Mangalore #beachesofMangalore #roadtrips](https://www.youtube.com/watch?v=364rrCWL8AY) - 2025-12-17
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
