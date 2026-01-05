@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Beautiful views Huge Hill Top Temples Malleswara Temple Hassana Windmills #shorts](https://www.youtube.com/shorts/J1mY8g8T9E8) - 2026-01-05
+
 [Mahatobhara Sri Mangaladevi Temple #Mangalore #Placestosee #mangaloreroadtrip #shorts](https://www.youtube.com/shorts/sXSJ9b2NHtg) - 2026-01-03
 
 [Mangalore to Kushalnagar roadtrip returning kiasonet via coorg to bangalore](https://www.youtube.com/watch?v=RwxrVd8c2gI) - 2026-01-03
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Someshwara Beach in #Ullal #Karnataka #Mangalore #shorts](https://www.youtube.com/shorts/G6b2QdDlY4E) - 2025-12-31
 
 [Bangalore Manalore Roadtrip Via NH75 #shorts #kiasonet #roadtrips](https://www.youtube.com/shorts/U87eiIZhvbg) - 2025-12-29
-
-[Suratkal Beach lighthouse beach Mangalore #beachesofMangalore #roadtrips normalize](https://www.youtube.com/watch?v=JeGv0zsCYnA) - 2025-12-24
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
