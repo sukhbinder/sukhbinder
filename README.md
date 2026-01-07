@@ -73,6 +73,10 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Namdroling Monastery Golden Temple Coorg to Bangalore #roadtrip #humhairahi sound enhance](https://www.youtube.com/watch?v=lXbAwywBM_s) - 2026-01-07
+
+[Windmill Temple of Hassan! #WindmillTemple #Hassan #ExploreHassan #TempleAdventures #DivineJourney #](https://www.youtube.com/shorts/dZ2KgLoAizA) - 2026-01-07
+
 [Beautiful views Huge Hill Top Temples Malleswara Temple Hassana Windmills #shorts](https://www.youtube.com/shorts/J1mY8g8T9E8) - 2026-01-05
 
 [Mahatobhara Sri Mangaladevi Temple #Mangalore #Placestosee #mangaloreroadtrip #shorts](https://www.youtube.com/shorts/sXSJ9b2NHtg) - 2026-01-03
@@ -82,10 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Beautiful views Huge Hill Top Temples Malleswara Temple Hassana Windmills #shorts #kiasonet](https://www.youtube.com/shorts/12bjTgdYWUc) - 2026-01-02
 
 [Year of Travel 2025 | Happy New Year. | Wishes from #humhairahi](https://www.youtube.com/watch?v=jx0ss0Y34MU) - 2025-12-31
-
-[Someshwara Beach in #Ullal #Karnataka #Mangalore #shorts](https://www.youtube.com/shorts/G6b2QdDlY4E) - 2025-12-31
-
-[Bangalore Manalore Roadtrip Via NH75 #shorts #kiasonet #roadtrips](https://www.youtube.com/shorts/U87eiIZhvbg) - 2025-12-29
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
