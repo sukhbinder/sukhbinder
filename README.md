@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[GenAI is Kind of Acid Rain](https://sukhbinder.wordpress.com/2026/01/09/genai-is-kind-of-acid-rain/) - Fri, 09 Jan 2026 07:43:40 +0000
+
 [Jevons paradox is coming to knowledge work](https://sukhbinder.wordpress.com/2025/12/30/jevons-paradox-is-coming-to-knowledge-work/) - Mon, 29 Dec 2025 21:48:49 +0000
 
 [crontab-win v0.2.0 released](https://sukhbinder.wordpress.com/2025/12/21/crontab-win-v0-2-0-released-2/) - Sat, 20 Dec 2025 21:10:06 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [LLMs are bullshitters](https://sukhbinder.wordpress.com/2025/12/03/llms-are-bullshitters/) - Wed, 03 Dec 2025 06:57:47 +0000
 
 [Why Investing is hard….](https://sukhbinder.wordpress.com/2025/11/17/why-investing-is-hard/) - Mon, 17 Nov 2025 16:35:55 +0000
-
-[I’m “going quiet.”](https://sukhbinder.wordpress.com/2025/11/11/im-going-quiet/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
