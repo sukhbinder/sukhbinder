@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Roadside food Highways Roadtrip Travel #shorts](https://www.youtube.com/shorts/GixdBKQnaUE) - 2026-01-11
+
 [Roadtrip From mangalore to Bangalore #humhairahi](https://www.youtube.com/shorts/6J61FWs87kM) - 2026-01-10
 
 [Namdroling Monastery Golden Temple Coorg to Bangalore #roadtrip #humhairahi sound enhance](https://www.youtube.com/watch?v=lXbAwywBM_s) - 2026-01-07
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Mahatobhara Sri Mangaladevi Temple #Mangalore #Placestosee #mangaloreroadtrip #shorts](https://www.youtube.com/shorts/sXSJ9b2NHtg) - 2026-01-03
 
 [Mangalore to Kushalnagar roadtrip returning kiasonet via coorg to bangalore](https://www.youtube.com/watch?v=RwxrVd8c2gI) - 2026-01-03
-
-[Beautiful views Huge Hill Top Temples Malleswara Temple Hassana Windmills #shorts #kiasonet](https://www.youtube.com/shorts/12bjTgdYWUc) - 2026-01-02
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
