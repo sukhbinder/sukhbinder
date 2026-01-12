@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Digital Deskilling.](https://sukhbinder.wordpress.com/2026/01/13/digital-deskilling/) - Mon, 12 Jan 2026 20:21:34 +0000
+
 [Moved to ZED from vscode](https://sukhbinder.wordpress.com/2026/01/10/moved-to-zed-from-vscode/) - Sat, 10 Jan 2026 11:53:47 +0000
 
 [GenAI is Kind of Acid Rain](https://sukhbinder.wordpress.com/2026/01/09/genai-is-kind-of-acid-rain/) - Fri, 09 Jan 2026 07:43:40 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Has Software Development Cost Dropped by 90%?](https://sukhbinder.wordpress.com/2025/12/10/has-software-development-cost-dropped-by-90/) - Wed, 10 Dec 2025 07:28:32 +0000
 
 [Why Fighter Jets Ban 90% of C++ Features](https://sukhbinder.wordpress.com/2025/12/08/why-fighter-jets-ban-90-of-c-features/) - Mon, 08 Dec 2025 18:23:56 +0000
-
-[LLMs are bullshitters](https://sukhbinder.wordpress.com/2025/12/03/llms-are-bullshitters/) - Wed, 03 Dec 2025 06:57:47 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
