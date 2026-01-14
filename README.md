@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[vidtoolz-colored-textclip v0.0.2](https://github.com/sukhbinder/vidtoolz-colored-textclip/releases/tag/v0.0.2) - 2026-01-14
+
 [nitnem v0.3.5](https://github.com/sukhbinder/nitnem/releases/tag/v0.3.5) - 2025-12-30
 
 [winzy v0.0.5](https://github.com/sukhbinder/winzy/releases/tag/v0.0.5) - 2025-12-10
@@ -40,8 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [winzy-convert winzy convert v0.0.2](https://github.com/sukhbinder/winzy-convert/releases/tag/v0.0.2) - 2025-07-16
 
 [vidtoolz v0.1.4](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.4) - 2025-07-12
-
-[vidtoolz-intro ](https://github.com/sukhbinder/vidtoolz-intro/releases/tag/v0.1.1) - 2025-07-03
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">

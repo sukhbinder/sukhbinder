@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->155<!-- releases_count ends --> releases across <!-- project_count starts -->61<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->156<!-- releases_count ends --> releases across <!-- project_count starts -->62<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[vidtoolz-colored-textclip](https://github.com/sukhbinder/vidtoolz-colored-textclip)**: [v0.0.2](https://github.com/sukhbinder/vidtoolz-colored-textclip/releases/tag/v0.0.2) - 2026-01-14
+<br />Create a color clip with overlaid text
 * **[nitnem](https://github.com/sukhbinder/nitnem)**: [v0.3.5](https://github.com/sukhbinder/nitnem/releases/tag/v0.3.5) - ([8 releases total](https://github.com/sukhbinder/nitnem/releases)) - 2025-12-30
 <br />Nitnem using python for Mac and possibly windows latter
 * **[winzy](https://github.com/sukhbinder/winzy)**: [v0.0.5](https://github.com/sukhbinder/winzy/releases/tag/v0.0.5) - ([9 releases total](https://github.com/sukhbinder/winzy/releases)) - 2025-12-10
