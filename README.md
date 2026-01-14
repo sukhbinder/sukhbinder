@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Mental Model for Git](https://sukhbinder.wordpress.com/2026/01/14/mental-model-for-git/) - Wed, 14 Jan 2026 01:29:00 +0000
+
 [Digital Deskilling.](https://sukhbinder.wordpress.com/2026/01/13/digital-deskilling/) - Mon, 12 Jan 2026 20:21:34 +0000
 
 [Moved to ZED from vscode](https://sukhbinder.wordpress.com/2026/01/10/moved-to-zed-from-vscode/) - Sat, 10 Jan 2026 11:53:47 +0000
@@ -65,14 +67,14 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [The junior bet has gotten better.](https://sukhbinder.wordpress.com/2025/12/16/the-junior-bet-has-gotten-better/) - 
 
 [Has Software Development Cost Dropped by 90%?](https://sukhbinder.wordpress.com/2025/12/10/has-software-development-cost-dropped-by-90/) - Wed, 10 Dec 2025 07:28:32 +0000
-
-[Why Fighter Jets Ban 90% of C++ Features](https://sukhbinder.wordpress.com/2025/12/08/why-fighter-jets-ban-90-of-c-features/) - Mon, 08 Dec 2025 18:23:56 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
+[Payana Car Museum Roadtrip to Mysore #humhairahi #mysoretrip](https://www.youtube.com/watch?v=L4lvT8TRXiA) - 2026-01-14
+
 [Early Morning Drive Roadtrip Sunrise on road #shorts](https://www.youtube.com/shorts/hnyJO0k5wrk) - 2026-01-13
 
 [Roadside food Highways Roadtrip Travel #shorts](https://www.youtube.com/shorts/GixdBKQnaUE) - 2026-01-11
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Windmill Temple of Hassan! #WindmillTemple #Hassan #ExploreHassan #TempleAdventures #DivineJourney #](https://www.youtube.com/shorts/dZ2KgLoAizA) - 2026-01-07
 
 [Beautiful views Huge Hill Top Temples Malleswara Temple Hassana Windmills #shorts](https://www.youtube.com/shorts/J1mY8g8T9E8) - 2026-01-05
-
-[Mahatobhara Sri Mangaladevi Temple #Mangalore #Placestosee #mangaloreroadtrip #shorts](https://www.youtube.com/shorts/sXSJ9b2NHtg) - 2026-01-03
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
