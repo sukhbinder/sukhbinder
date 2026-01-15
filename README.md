@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Code is Cheap But Software is Expensive](https://sukhbinder.wordpress.com/2026/01/15/code-is-cheap-but-software-is-expensive/) - 
+
 [Mental Model for Git](https://sukhbinder.wordpress.com/2026/01/14/mental-model-for-git/) - Wed, 14 Jan 2026 01:29:00 +0000
 
 [Digital Deskilling.](https://sukhbinder.wordpress.com/2026/01/13/digital-deskilling/) - Mon, 12 Jan 2026 20:21:34 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Visual essay on how LLM works](https://sukhbinder.wordpress.com/2025/12/20/visual-essay-on-how-llm-works/) - Sat, 20 Dec 2025 13:13:38 +0000
 
 [The junior bet has gotten better.](https://sukhbinder.wordpress.com/2025/12/16/the-junior-bet-has-gotten-better/) - 
-
-[Has Software Development Cost Dropped by 90%?](https://sukhbinder.wordpress.com/2025/12/10/has-software-development-cost-dropped-by-90/) - Wed, 10 Dec 2025 07:28:32 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
