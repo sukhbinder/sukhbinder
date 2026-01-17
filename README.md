@@ -73,6 +73,10 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[NH75 #Roadtrip #Travel #shorts](https://www.youtube.com/shorts/H0VAdCvoI7s) - 2026-01-17
+
+[Roadtrips Rural India Namma Karnataka #shorts](https://www.youtube.com/shorts/AXnrrmWeEYw) - 2026-01-17
+
 [Payana Car Museum Roadtrip to Mysore #humhairahi #mysoretrip](https://www.youtube.com/watch?v=L4lvT8TRXiA) - 2026-01-14
 
 [Early Morning Drive Roadtrip Sunrise on road #shorts](https://www.youtube.com/shorts/hnyJO0k5wrk) - 2026-01-13
@@ -82,10 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Roadtrip From mangalore to Bangalore #humhairahi](https://www.youtube.com/shorts/6J61FWs87kM) - 2026-01-10
 
 [Namdroling Monastery Golden Temple Coorg to Bangalore #roadtrip #humhairahi sound enhance](https://www.youtube.com/watch?v=lXbAwywBM_s) - 2026-01-07
-
-[Windmill Temple of Hassan! #WindmillTemple #Hassan #ExploreHassan #TempleAdventures #DivineJourney #](https://www.youtube.com/shorts/dZ2KgLoAizA) - 2026-01-07
-
-[Beautiful views Huge Hill Top Temples Malleswara Temple Hassana Windmills #shorts](https://www.youtube.com/shorts/J1mY8g8T9E8) - 2026-01-05
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
