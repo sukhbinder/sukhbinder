@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Shree Somnath Temple Mangalore Ancient Temple Vast and beautiful Close to Somnath Beach #shorts](https://www.youtube.com/shorts/yIEP5uIpTQI) - 2026-01-19
+
 [NH75 #Roadtrip #Travel #shorts](https://www.youtube.com/shorts/H0VAdCvoI7s) - 2026-01-17
 
 [Roadtrips Rural India Namma Karnataka #shorts](https://www.youtube.com/shorts/AXnrrmWeEYw) - 2026-01-17
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Roadside food Highways Roadtrip Travel #shorts](https://www.youtube.com/shorts/GixdBKQnaUE) - 2026-01-11
 
 [Roadtrip From mangalore to Bangalore #humhairahi](https://www.youtube.com/shorts/6J61FWs87kM) - 2026-01-10
-
-[Namdroling Monastery Golden Temple Coorg to Bangalore #roadtrip #humhairahi sound enhance](https://www.youtube.com/watch?v=lXbAwywBM_s) - 2026-01-07
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
