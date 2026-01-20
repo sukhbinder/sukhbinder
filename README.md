@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Payana Car Museum #shorts](https://www.youtube.com/shorts/N4UM7WyvkqM) - 2026-01-20
+
 [Shree Somnath Temple Mangalore Ancient Temple Vast and beautiful Close to Somnath Beach #shorts](https://www.youtube.com/shorts/yIEP5uIpTQI) - 2026-01-19
 
 [NH75 #Roadtrip #Travel #shorts](https://www.youtube.com/shorts/H0VAdCvoI7s) - 2026-01-17
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Early Morning Drive Roadtrip Sunrise on road #shorts](https://www.youtube.com/shorts/hnyJO0k5wrk) - 2026-01-13
 
 [Roadside food Highways Roadtrip Travel #shorts](https://www.youtube.com/shorts/GixdBKQnaUE) - 2026-01-11
-
-[Roadtrip From mangalore to Bangalore #humhairahi](https://www.youtube.com/shorts/6J61FWs87kM) - 2026-01-10
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
