@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[winzy-get-the-file v0.0.1](https://github.com/sukhbinder/winzy-get-the-file/releases/tag/v0.0.1) - 2026-01-20
+
 [llm-embed-ollama v0.1.3](https://github.com/sukhbinder/llm-embed-ollama/releases/tag/v0.1.3) - 2026-01-20
 
 [vidtoolz-colored-textclip v0.0.2](https://github.com/sukhbinder/vidtoolz-colored-textclip/releases/tag/v0.0.2) - 2026-01-14
@@ -40,8 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [vidtoolz-hum-hai-rahi v0.0.3](https://github.com/sukhbinder/vidtoolz-hum-hai-rahi/releases/tag/v0.0.3) - 2025-08-02
 
 [winzy-pdf-to-text v0.1.1](https://github.com/sukhbinder/winzy-pdf-to-text/releases/tag/v0.1.1) - 2025-07-19
-
-[winzy-convert winzy convert v0.0.2](https://github.com/sukhbinder/winzy-convert/releases/tag/v0.0.2) - 2025-07-16
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
