@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->156<!-- releases_count ends --> releases across <!-- project_count starts -->62<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->157<!-- releases_count ends --> releases across <!-- project_count starts -->62<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-embed-ollama](https://github.com/sukhbinder/llm-embed-ollama)**: [v0.1.3](https://github.com/sukhbinder/llm-embed-ollama/releases/tag/v0.1.3) - ([6 releases total](https://github.com/sukhbinder/llm-embed-ollama/releases)) - 2026-01-20
+<br />Ollama provides Few embedding models. This plugin enables the usage of those models using Ollama.
 * **[vidtoolz-colored-textclip](https://github.com/sukhbinder/vidtoolz-colored-textclip)**: [v0.0.2](https://github.com/sukhbinder/vidtoolz-colored-textclip/releases/tag/v0.0.2) - 2026-01-14
 <br />Create a color clip with overlaid text
 * **[nitnem](https://github.com/sukhbinder/nitnem)**: [v0.3.5](https://github.com/sukhbinder/nitnem/releases/tag/v0.3.5) - ([8 releases total](https://github.com/sukhbinder/nitnem/releases)) - 2025-12-30
@@ -119,8 +121,6 @@ Listing <!-- releases_count starts -->156<!-- releases_count ends --> releases a
 <br />Calendar in windows commandline
 * **[sendmail-outlook](https://github.com/sukhbinder/sendmail-outlook)**: [First release](https://github.com/sukhbinder/sendmail-outlook/releases/tag/v0.0.1) - 2024-08-20
 <br />Send email using outlook application 
-* **[llm-embed-ollama](https://github.com/sukhbinder/llm-embed-ollama)**: [Added bge embedding models](https://github.com/sukhbinder/llm-embed-ollama/releases/tag/v0.1.2) - ([5 releases total](https://github.com/sukhbinder/llm-embed-ollama/releases)) - 2024-08-08
-<br />Ollama provides Few embedding models. This plugin enables the usage of those models using Ollama.
 * **[pbpaste-win](https://github.com/sukhbinder/pbpaste-win)**: [](https://github.com/sukhbinder/pbpaste-win/releases/tag/v0.1.2) - ([4 releases total](https://github.com/sukhbinder/pbpaste-win/releases)) - 2024-08-02
 <br />A tiny cli app to mimic `pbpaste` in windows 
 * **[winlog](https://github.com/sukhbinder/winlog)**: [](https://github.com/sukhbinder/winlog/releases/tag/v0.0.1) - 2024-08-02

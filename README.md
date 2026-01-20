@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-embed-ollama v0.1.3](https://github.com/sukhbinder/llm-embed-ollama/releases/tag/v0.1.3) - 2026-01-20
+
 [vidtoolz-colored-textclip v0.0.2](https://github.com/sukhbinder/vidtoolz-colored-textclip/releases/tag/v0.0.2) - 2026-01-14
 
 [nitnem v0.3.5](https://github.com/sukhbinder/nitnem/releases/tag/v0.3.5) - 2025-12-30
@@ -40,8 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [winzy-pdf-to-text v0.1.1](https://github.com/sukhbinder/winzy-pdf-to-text/releases/tag/v0.1.1) - 2025-07-19
 
 [winzy-convert winzy convert v0.0.2](https://github.com/sukhbinder/winzy-convert/releases/tag/v0.0.2) - 2025-07-16
-
-[vidtoolz v0.1.4](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.4) - 2025-07-12
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Payana Car Museum #shorts](https://www.youtube.com/shorts/N4UM7WyvkqM) - 2026-01-20
 
-[Shree Somnath Temple Mangalore Ancient Temple Vast and beautiful Close to Somnath Beach #shorts](https://www.youtube.com/shorts/yIEP5uIpTQI) - 2026-01-19
-
-[NH75 #Roadtrip #Travel #shorts](https://www.youtube.com/shorts/H0VAdCvoI7s) - 2026-01-17
-
-[Roadtrips Rural India Namma Karnataka #shorts](https://www.youtube.com/shorts/AXnrrmWeEYw) - 2026-01-17
-
-[Payana Car Museum Roadtrip to Mysore #humhairahi #mysoretrip](https://www.youtube.com/watch?v=L4lvT8TRXiA) - 2026-01-14
-
-[Early Morning Drive Roadtrip Sunrise on road #shorts](https://www.youtube.com/shorts/hnyJO0k5wrk) - 2026-01-13
-
-[Roadside food Highways Roadtrip Travel #shorts](https://www.youtube.com/shorts/GixdBKQnaUE) - 2026-01-11
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
