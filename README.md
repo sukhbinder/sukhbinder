@@ -73,7 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Lokaranjan Aqua World GRS Up Down Museum #Mysore #humhairahi #kiasonet #thingstodo](https://www.youtube.com/watch?v=_rlAn26lHrU) - 2026-01-21
+[Up Down Museum | Lokaranjan Aqua World #Mysore #humhairahi #kiasonet #thingstodo](https://www.youtube.com/watch?v=_rlAn26lHrU) - 2026-01-21
 
 [Payana Car Museum #shorts](https://www.youtube.com/shorts/N4UM7WyvkqM) - 2026-01-20
 
