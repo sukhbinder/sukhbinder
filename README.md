@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[pyschtasks v0.1.1](https://github.com/sukhbinder/pyschtasks/releases/tag/v0.1.1) - 2026-01-22
+
 [winzy-get-the-file v0.0.1](https://github.com/sukhbinder/winzy-get-the-file/releases/tag/v0.0.1) - 2026-01-20
 
 [llm-embed-ollama v0.1.3](https://github.com/sukhbinder/llm-embed-ollama/releases/tag/v0.1.3) - 2026-01-20
@@ -40,14 +42,14 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [vidtoolz-shorts v0.0.3](https://github.com/sukhbinder/vidtoolz-shorts/releases/tag/v0.0.3) - 2025-08-02
 
 [vidtoolz-hum-hai-rahi v0.0.3](https://github.com/sukhbinder/vidtoolz-hum-hai-rahi/releases/tag/v0.0.3) - 2025-08-02
-
-[winzy-pdf-to-text v0.1.1](https://github.com/sukhbinder/winzy-pdf-to-text/releases/tag/v0.1.1) - 2025-07-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[Books Read in 2025](https://sukhbinder.wordpress.com/2026/01/23/books-read-in-2025/) - 
+
 [Second order effects of coding agents](https://sukhbinder.wordpress.com/2026/01/20/second-order-effects-of-coding-agents/) - Mon, 19 Jan 2026 19:02:00 +0000
 
 [Conductor and LLM](https://sukhbinder.wordpress.com/2026/01/16/conductor-and-llm/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Jevons paradox is coming to knowledge work](https://sukhbinder.wordpress.com/2025/12/30/jevons-paradox-is-coming-to-knowledge-work/) - Mon, 29 Dec 2025 21:48:49 +0000
 
 [crontab-win v0.2.0 released](https://sukhbinder.wordpress.com/2025/12/21/crontab-win-v0-2-0-released-2/) - Sat, 20 Dec 2025 21:10:06 +0000
-
-[crontab-win v0.2.0 released](https://sukhbinder.wordpress.com/2025/12/21/crontab-win-v0-2-0-released/) - Sat, 20 Dec 2025 21:09:25 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">

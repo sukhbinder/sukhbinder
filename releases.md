@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->158<!-- releases_count ends --> releases across <!-- project_count starts -->63<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->160<!-- releases_count ends --> releases across <!-- project_count starts -->64<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[pyschtasks](https://github.com/sukhbinder/pyschtasks)**: [v0.1.1](https://github.com/sukhbinder/pyschtasks/releases/tag/v0.1.1) - ([2 releases total](https://github.com/sukhbinder/pyschtasks/releases)) - 2026-01-22
+<br />Python driver for Windows Schtasks
 * **[winzy-get-the-file](https://github.com/sukhbinder/winzy-get-the-file)**: [v0.0.1](https://github.com/sukhbinder/winzy-get-the-file/releases/tag/v0.0.1) - 2026-01-20
 <br />Get files from a folder
 * **[llm-embed-ollama](https://github.com/sukhbinder/llm-embed-ollama)**: [v0.1.3](https://github.com/sukhbinder/llm-embed-ollama/releases/tag/v0.1.3) - ([6 releases total](https://github.com/sukhbinder/llm-embed-ollama/releases)) - 2026-01-20
