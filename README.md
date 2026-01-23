@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[AI is a horse](https://sukhbinder.wordpress.com/2026/01/23/ai-is-a-horse/) - Fri, 23 Jan 2026 13:03:20 +0000
+
 [Books Read in 2025](https://sukhbinder.wordpress.com/2026/01/23/books-read-in-2025/) - 
 
 [Second order effects of coding agents](https://sukhbinder.wordpress.com/2026/01/20/second-order-effects-of-coding-agents/) - Mon, 19 Jan 2026 19:02:00 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [GenAI is Kind of Acid Rain](https://sukhbinder.wordpress.com/2026/01/09/genai-is-kind-of-acid-rain/) - Fri, 09 Jan 2026 07:43:40 +0000
 
 [Jevons paradox is coming to knowledge work](https://sukhbinder.wordpress.com/2025/12/30/jevons-paradox-is-coming-to-knowledge-work/) - Mon, 29 Dec 2025 21:48:49 +0000
-
-[crontab-win v0.2.0 released](https://sukhbinder.wordpress.com/2025/12/21/crontab-win-v0-2-0-released-2/) - Sat, 20 Dec 2025 21:10:06 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
