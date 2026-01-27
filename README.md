@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Close to Someshwara Beach Mangalore Shree Somnath Temple Mangalore #shorts](https://www.youtube.com/shorts/_mIDZ2WwEk0) - 2026-01-23
 
-[Up Down Museum | Lokaranjan Aqua World #Mysore #humhairahi #kiasonet #thingstodo](https://www.youtube.com/watch?v=_rlAn26lHrU) - 2026-01-21
-
-[Payana Car Museum #shorts](https://www.youtube.com/shorts/N4UM7WyvkqM) - 2026-01-20
-
-[Shree Somnath Temple Mangalore Ancient Temple Vast and beautiful Close to Somnath Beach #shorts](https://www.youtube.com/shorts/yIEP5uIpTQI) - 2026-01-19
-
-[NH75 #Roadtrip #Travel #shorts](https://www.youtube.com/shorts/H0VAdCvoI7s) - 2026-01-17
-
-[Roadtrips Rural India Namma Karnataka #shorts](https://www.youtube.com/shorts/AXnrrmWeEYw) - 2026-01-17
-
-[Payana Car Museum Roadtrip to Mysore #humhairahi #mysoretrip](https://www.youtube.com/watch?v=L4lvT8TRXiA) - 2026-01-14
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
