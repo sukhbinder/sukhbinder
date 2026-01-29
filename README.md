@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Somnath Beach Mangalore Close to Somnata Temple #shorts](https://www.youtube.com/shorts/xC9vcM_JVYc) - 2026-01-29
+
 [Mysore zoo | Infosys mysore campus | #things2do #kiasonet #roadtrip](https://www.youtube.com/watch?v=IhVMn6sJeTQ) - 2026-01-28
 
 [Close to Someshwara Beach Mangalore Shree Somnath Temple Mangalore #shorts](https://www.youtube.com/shorts/_mIDZ2WwEk0) - 2026-01-23
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Shree Somnath Temple Mangalore Ancient Temple Vast and beautiful Close to Somnath Beach #shorts](https://www.youtube.com/shorts/yIEP5uIpTQI) - 2026-01-19
 
 [NH75 #Roadtrip #Travel #shorts](https://www.youtube.com/shorts/H0VAdCvoI7s) - 2026-01-17
-
-[Roadtrips Rural India Namma Karnataka #shorts](https://www.youtube.com/shorts/AXnrrmWeEYw) - 2026-01-17
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
