@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[audiobook-player v0.0.1](https://github.com/sukhbinder/audiobook-player/releases/tag/v0.0.1) - 2026-01-31
+
 [pyschtasks v0.1.1](https://github.com/sukhbinder/pyschtasks/releases/tag/v0.1.1) - 2026-01-22
 
 [winzy-get-the-file v0.0.1](https://github.com/sukhbinder/winzy-get-the-file/releases/tag/v0.0.1) - 2026-01-20
@@ -40,8 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [winzy-outlook-meetings v0.0.2](https://github.com/sukhbinder/winzy-outlook-meetings/releases/tag/v0.0.2) - 2025-10-11
 
 [vidtoolz-shorts v0.0.3](https://github.com/sukhbinder/vidtoolz-shorts/releases/tag/v0.0.3) - 2025-08-02
-
-[vidtoolz-hum-hai-rahi v0.0.3](https://github.com/sukhbinder/vidtoolz-hum-hai-rahi/releases/tag/v0.0.3) - 2025-08-02
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">

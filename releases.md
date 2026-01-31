@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->160<!-- releases_count ends --> releases across <!-- project_count starts -->64<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->161<!-- releases_count ends --> releases across <!-- project_count starts -->65<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[audiobook-player](https://github.com/sukhbinder/audiobook-player)**: [v0.0.1](https://github.com/sukhbinder/audiobook-player/releases/tag/v0.0.1) - 2026-01-31
+<br />Simple audiobook player
 * **[pyschtasks](https://github.com/sukhbinder/pyschtasks)**: [v0.1.1](https://github.com/sukhbinder/pyschtasks/releases/tag/v0.1.1) - ([2 releases total](https://github.com/sukhbinder/pyschtasks/releases)) - 2026-01-22
 <br />Python driver for Windows Schtasks
 * **[winzy-get-the-file](https://github.com/sukhbinder/winzy-get-the-file)**: [v0.0.1](https://github.com/sukhbinder/winzy-get-the-file/releases/tag/v0.0.1) - 2026-01-20
