@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->161<!-- releases_count ends --> releases across <!-- project_count starts -->65<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->162<!-- releases_count ends --> releases across <!-- project_count starts -->65<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[afplay-win](https://github.com/sukhbinder/afplay-win)**: [v0.0.2](https://github.com/sukhbinder/afplay-win/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/afplay-win/releases)) - 2026-02-03
+<br />Tiny utility that mimics 'afplay' in windows
 * **[audiobook-player](https://github.com/sukhbinder/audiobook-player)**: [v0.0.1](https://github.com/sukhbinder/audiobook-player/releases/tag/v0.0.1) - 2026-01-31
 <br />Simple audiobook player
 * **[pyschtasks](https://github.com/sukhbinder/pyschtasks)**: [v0.1.1](https://github.com/sukhbinder/pyschtasks/releases/tag/v0.1.1) - ([2 releases total](https://github.com/sukhbinder/pyschtasks/releases)) - 2026-01-22
@@ -87,8 +89,6 @@ Listing <!-- releases_count starts -->161<!-- releases_count ends --> releases a
 <br />Send message/videos/photos/docs using Telegram
 * **[winzy-screenshot](https://github.com/sukhbinder/winzy-screenshot)**: [](https://github.com/sukhbinder/winzy-screenshot/releases/tag/v0.0.4) - ([5 releases total](https://github.com/sukhbinder/winzy-screenshot/releases)) - 2024-12-04
 <br />Screenshot using python
-* **[afplay-win](https://github.com/sukhbinder/afplay-win)**: [](https://github.com/sukhbinder/afplay-win/releases/tag/v0.01) - 2024-11-27
-<br />Tiny utility that mimics 'afplay' in windows
 * **[winzy-create-gif](https://github.com/sukhbinder/winzy-create-gif)**: [](https://github.com/sukhbinder/winzy-create-gif/releases/tag/v0.0.1a) - ([2 releases total](https://github.com/sukhbinder/winzy-create-gif/releases)) - 2024-11-18
 <br />Create gifs from files in a folder.
 * **[winzy-win-geometry](https://github.com/sukhbinder/winzy-win-geometry)**: [Latest release with light dependencies](https://github.com/sukhbinder/winzy-win-geometry/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/winzy-win-geometry/releases)) - 2024-11-18
