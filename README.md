@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Snow City Mysore Infosys campus ECC Places2See #humhairahi](https://www.youtube.com/watch?v=nWTBQQ4QV3o) - 2026-02-04
+
 [Shree Somnath Temple Mangalore #shorts](https://www.youtube.com/shorts/trrCi7EEuLA) - 2026-02-03
 
 [Someshwara Beach Mangalore #shorts](https://www.youtube.com/shorts/81xL3qne5o8) - 2026-02-02
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Mysore zoo | Infosys mysore campus | #things2do #kiasonet #roadtrip](https://www.youtube.com/watch?v=IhVMn6sJeTQ) - 2026-01-28
 
 [Close to Someshwara Beach Mangalore Shree Somnath Temple Mangalore #shorts](https://www.youtube.com/shorts/_mIDZ2WwEk0) - 2026-01-23
-
-[Up Down Museum | Lokaranjan Aqua World #Mysore #humhairahi #kiasonet #thingstodo](https://www.youtube.com/watch?v=_rlAn26lHrU) - 2026-01-21
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
