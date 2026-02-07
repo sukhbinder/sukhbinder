@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Beautiful Thanibhavi Beach Mangalore #shorts](https://www.youtube.com/shorts/NEJ6tjkJ8Ko) - 2026-02-07
+
 [Tanir Babi Beach Mangalore #shorts](https://www.youtube.com/shorts/5tsLf7Xyr9A) - 2026-02-05
 
 [Snow City Mysore Infosys campus ECC Places2See #humhairahi](https://www.youtube.com/watch?v=nWTBQQ4QV3o) - 2026-02-04
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Shree Someshwara Temple Mangalore #shorts](https://www.youtube.com/shorts/6omLg1xIRaE) - 2026-01-31
 
 [Somnath Beach Mangalore Close to Somnata Temple #shorts](https://www.youtube.com/shorts/xC9vcM_JVYc) - 2026-01-29
-
-[Mysore zoo | Infosys mysore campus | #things2do #kiasonet #roadtrip](https://www.youtube.com/watch?v=IhVMn6sJeTQ) - 2026-01-28
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
