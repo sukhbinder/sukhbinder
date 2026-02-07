@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[CLI audiobook player](https://sukhbinder.wordpress.com/2026/02/07/cli-audiobook-player/) - Sat, 07 Feb 2026 12:32:52 +0000
+
 [AI assistance and your Skills](https://sukhbinder.wordpress.com/2026/01/30/ai-assistance-and-your-skills/) - Fri, 30 Jan 2026 13:14:23 +0000
 
 [Asking for Faster Horses ….](https://sukhbinder.wordpress.com/2026/01/25/asking-for-faster-horses/) - Sun, 25 Jan 2026 09:41:32 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Mental Model for Git](https://sukhbinder.wordpress.com/2026/01/14/mental-model-for-git/) - Wed, 14 Jan 2026 01:29:00 +0000
 
 [Digital Deskilling.](https://sukhbinder.wordpress.com/2026/01/13/digital-deskilling/) - Mon, 12 Jan 2026 20:21:34 +0000
-
-[Moved to ZED from vscode](https://sukhbinder.wordpress.com/2026/01/10/moved-to-zed-from-vscode/) - Sat, 10 Jan 2026 11:53:47 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
