@@ -73,6 +73,10 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Vibe of Tanir Bhabi Beach Mangalore #shorts](https://www.youtube.com/shorts/pJa8QMwYysY) - 2026-02-11
+
+[Mysore to Bangalore Via Srirangapatna | Tipu Sultan Summer Palace | Mysore Gurudwara #Humhairahi](https://www.youtube.com/watch?v=sCznjdMZTkM) - 2026-02-11
+
 [Beautiful Thanibhavi Beach Mangalore #shorts](https://www.youtube.com/shorts/NEJ6tjkJ8Ko) - 2026-02-07
 
 [Tanir Babi Beach Mangalore #shorts](https://www.youtube.com/shorts/5tsLf7Xyr9A) - 2026-02-05
@@ -82,10 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Shree Somnath Temple Mangalore #shorts](https://www.youtube.com/shorts/trrCi7EEuLA) - 2026-02-03
 
 [Someshwara Beach Mangalore #shorts](https://www.youtube.com/shorts/81xL3qne5o8) - 2026-02-02
-
-[Shree Someshwara Temple Mangalore #shorts](https://www.youtube.com/shorts/6omLg1xIRaE) - 2026-01-31
-
-[Somnath Beach Mangalore Close to Somnata Temple #shorts](https://www.youtube.com/shorts/xC9vcM_JVYc) - 2026-01-29
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
