@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://sukhbinder.wordpress.com/2026/02/12/ai-agent-opens-a-pr-write-a-blogpost-to-shames-the-maintainer-who-closes-it/) - 
+
 [The Hello World That Could Not….](https://sukhbinder.wordpress.com/2026/02/10/the-hello-world-that-could-not/) - Mon, 09 Feb 2026 20:27:15 +0000
 
 [CLI audiobook player](https://sukhbinder.wordpress.com/2026/02/07/cli-audiobook-player/) - Sat, 07 Feb 2026 12:32:52 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Conductor and LLM](https://sukhbinder.wordpress.com/2026/01/16/conductor-and-llm/) - 
 
 [Code is Cheap But Software is Expensive](https://sukhbinder.wordpress.com/2026/01/15/code-is-cheap-but-software-is-expensive/) - 
-
-[Mental Model for Git](https://sukhbinder.wordpress.com/2026/01/14/mental-model-for-git/) - Wed, 14 Jan 2026 01:29:00 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
