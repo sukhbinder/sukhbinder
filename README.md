@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[View from Sultan Battery Mangalore #shorts](https://www.youtube.com/shorts/MUuFTVeym_Q) - 2026-02-13
+
 [Vibe of Tanir Bhabi Beach Mangalore #shorts](https://www.youtube.com/shorts/pJa8QMwYysY) - 2026-02-11
 
 [Mysore to Bangalore Via Srirangapatna | Tipu Sultan Summer Palace | Mysore Gurudwara #Humhairahi](https://www.youtube.com/watch?v=sCznjdMZTkM) - 2026-02-11
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Snow City Mysore Infosys campus ECC Places2See #humhairahi](https://www.youtube.com/watch?v=nWTBQQ4QV3o) - 2026-02-04
 
 [Shree Somnath Temple Mangalore #shorts](https://www.youtube.com/shorts/trrCi7EEuLA) - 2026-02-03
-
-[Someshwara Beach Mangalore #shorts](https://www.youtube.com/shorts/81xL3qne5o8) - 2026-02-02
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
