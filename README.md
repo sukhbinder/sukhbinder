@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Monolith or Microservices](https://sukhbinder.wordpress.com/2026/02/14/monolith-or-microservices/) - Sat, 14 Feb 2026 08:03:49 +0000
+
 [AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://sukhbinder.wordpress.com/2026/02/12/ai-agent-opens-a-pr-write-a-blogpost-to-shames-the-maintainer-who-closes-it/) - 
 
 [The Hello World That Could Not….](https://sukhbinder.wordpress.com/2026/02/10/the-hello-world-that-could-not/) - Mon, 09 Feb 2026 20:27:15 +0000
@@ -65,15 +67,25 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Second order effects of coding agents](https://sukhbinder.wordpress.com/2026/01/20/second-order-effects-of-coding-agents/) - Mon, 19 Jan 2026 19:02:00 +0000
 
 [Conductor and LLM](https://sukhbinder.wordpress.com/2026/01/16/conductor-and-llm/) - 
-
-[Code is Cheap But Software is Expensive](https://sukhbinder.wordpress.com/2026/01/15/code-is-cheap-but-software-is-expensive/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
+[View from Sultan Battery Mangalore #shorts](https://www.youtube.com/shorts/MUuFTVeym_Q) - 2026-02-13
 
+[Vibe of Tanir Bhabi Beach Mangalore #shorts](https://www.youtube.com/shorts/pJa8QMwYysY) - 2026-02-11
+
+[Mysore to Bangalore Via Srirangapatna | Tipu Sultan Summer Palace | Mysore Gurudwara #Humhairahi](https://www.youtube.com/watch?v=sCznjdMZTkM) - 2026-02-11
+
+[Beautiful Thanibhavi Beach Mangalore #shorts](https://www.youtube.com/shorts/NEJ6tjkJ8Ko) - 2026-02-07
+
+[Tanir Babi Beach Mangalore #shorts](https://www.youtube.com/shorts/5tsLf7Xyr9A) - 2026-02-05
+
+[Snow City Mysore Infosys campus ECC Places2See #humhairahi](https://www.youtube.com/watch?v=nWTBQQ4QV3o) - 2026-02-04
+
+[Shree Somnath Temple Mangalore #shorts](https://www.youtube.com/shorts/trrCi7EEuLA) - 2026-02-03
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
