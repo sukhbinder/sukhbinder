@@ -73,7 +73,19 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Bangalore to Yercaud | All Ghat Road | 20 Hairpin Bends | NH44 #humhairahi #shorttrip normalize](https://www.youtube.com/watch?v=p8RWr7R87p4) - 2026-02-18
 
+[Gokarnatha Temple Managalore #shorts](https://www.youtube.com/shorts/d8nSpgsHhYo) - 2026-02-17
+
+[View from Sultan Battery Mangalore #shorts](https://www.youtube.com/shorts/MUuFTVeym_Q) - 2026-02-13
+
+[Vibe of Tanir Bhabi Beach Mangalore #shorts](https://www.youtube.com/shorts/pJa8QMwYysY) - 2026-02-11
+
+[Mysore to Bangalore Via Srirangapatna | Tipu Sultan Summer Palace | Mysore Gurudwara #Humhairahi](https://www.youtube.com/watch?v=sCznjdMZTkM) - 2026-02-11
+
+[Beautiful Thanibhavi Beach Mangalore #shorts](https://www.youtube.com/shorts/NEJ6tjkJ8Ko) - 2026-02-07
+
+[Tanir Babi Beach Mangalore #shorts](https://www.youtube.com/shorts/5tsLf7Xyr9A) - 2026-02-05
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
