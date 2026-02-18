@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Here’s the other side of the coin](https://sukhbinder.wordpress.com/2026/02/18/heres-the-other-side-of-the-coin/) - Wed, 18 Feb 2026 03:40:00 +0000
+
 [The distance between a question and a first answer just got very small.](https://sukhbinder.wordpress.com/2026/02/17/the-distance-between-a-question-and-a-first-answer-just-got-very-small/) - 
 
 [Oh my pi with llamacpp](https://sukhbinder.wordpress.com/2026/02/15/oh-my-pi-with-llamacpp/) - Sun, 15 Feb 2026 12:00:36 +0000
@@ -65,27 +67,13 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Asking for Faster Horses ….](https://sukhbinder.wordpress.com/2026/01/25/asking-for-faster-horses/) - Sun, 25 Jan 2026 09:41:32 +0000
 
 [AI is a horse](https://sukhbinder.wordpress.com/2026/01/23/ai-is-a-horse/) - Fri, 23 Jan 2026 13:03:20 +0000
-
-[Books Read in 2025](https://sukhbinder.wordpress.com/2026/01/23/books-read-in-2025/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
-[Bangalore to Yercaud | All Ghat Road | 20 Hairpin Bends | NH44 #humhairahi #shorttrip normalize](https://www.youtube.com/watch?v=p8RWr7R87p4) - 2026-02-18
 
-[Gokarnatha Temple Managalore #shorts](https://www.youtube.com/shorts/d8nSpgsHhYo) - 2026-02-17
-
-[View from Sultan Battery Mangalore #shorts](https://www.youtube.com/shorts/MUuFTVeym_Q) - 2026-02-13
-
-[Vibe of Tanir Bhabi Beach Mangalore #shorts](https://www.youtube.com/shorts/pJa8QMwYysY) - 2026-02-11
-
-[Mysore to Bangalore Via Srirangapatna | Tipu Sultan Summer Palace | Mysore Gurudwara #Humhairahi](https://www.youtube.com/watch?v=sCznjdMZTkM) - 2026-02-11
-
-[Beautiful Thanibhavi Beach Mangalore #shorts](https://www.youtube.com/shorts/NEJ6tjkJ8Ko) - 2026-02-07
-
-[Tanir Babi Beach Mangalore #shorts](https://www.youtube.com/shorts/5tsLf7Xyr9A) - 2026-02-05
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
