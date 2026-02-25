@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Yercaud Eco Park | Home stay | HK Grand Inn #placestosee #yercaud #humhairahi normalize](https://www.youtube.com/watch?v=X1-DbPeUkNs) - 2026-02-25
+
 [Sultan Battery Mangalore #shorts](https://www.youtube.com/shorts/dqeWmkjHcHY) - 2026-02-23
 
 [Gurudwara Sahib, Mangalore #shorts](https://www.youtube.com/shorts/hV9u2zZn6v0) - 2026-02-19
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [View from Sultan Battery Mangalore #shorts](https://www.youtube.com/shorts/MUuFTVeym_Q) - 2026-02-13
 
 [Vibe of Tanir Bhabi Beach Mangalore #shorts](https://www.youtube.com/shorts/pJa8QMwYysY) - 2026-02-11
-
-[Mysore to Bangalore Via Srirangapatna | Tipu Sultan Summer Palace | Mysore Gurudwara #Humhairahi](https://www.youtube.com/watch?v=sCznjdMZTkM) - 2026-02-11
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
