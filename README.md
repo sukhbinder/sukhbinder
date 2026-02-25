@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[The Missing Semester](https://sukhbinder.wordpress.com/2026/02/25/the-missing-semester/) - Wed, 25 Feb 2026 10:38:00 +0000
+
 [How to read more books…](https://sukhbinder.wordpress.com/2026/02/24/how-to-read-more-books/) - 
 
 [Here’s the other side of the coin](https://sukhbinder.wordpress.com/2026/02/18/heres-the-other-side-of-the-coin/) - Wed, 18 Feb 2026 03:40:00 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [CLI audiobook player](https://sukhbinder.wordpress.com/2026/02/07/cli-audiobook-player/) - Sat, 07 Feb 2026 12:32:52 +0000
 
 [AI assistance and your Skills](https://sukhbinder.wordpress.com/2026/01/30/ai-assistance-and-your-skills/) - Fri, 30 Jan 2026 13:14:23 +0000
-
-[Asking for Faster Horses ….](https://sukhbinder.wordpress.com/2026/01/25/asking-for-faster-horses/) - Sun, 25 Jan 2026 09:41:32 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
