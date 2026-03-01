@@ -73,7 +73,19 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[When will we learn? #shorts](https://www.youtube.com/shorts/AHYWvGHoTIQ) - 2026-03-01
 
+[Yercaud Eco Park | Home stay | HK Grand Inn #placestosee #yercaud #humhairahi normalize](https://www.youtube.com/watch?v=X1-DbPeUkNs) - 2026-02-25
+
+[Sultan Battery Mangalore #shorts](https://www.youtube.com/shorts/dqeWmkjHcHY) - 2026-02-23
+
+[Gurudwara Sahib, Mangalore #shorts](https://www.youtube.com/shorts/hV9u2zZn6v0) - 2026-02-19
+
+[Bangalore to Yercaud | All Ghat Road | 20 Hairpin Bends | NH44 #humhairahi #shorttrip normalize](https://www.youtube.com/watch?v=p8RWr7R87p4) - 2026-02-18
+
+[Gokarnatha Temple Managalore #shorts](https://www.youtube.com/shorts/d8nSpgsHhYo) - 2026-02-17
+
+[View from Sultan Battery Mangalore #shorts](https://www.youtube.com/shorts/MUuFTVeym_Q) - 2026-02-13
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
