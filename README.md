@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Mangalore Gurdwara Sahib #placestosee #gurudwara #mangalore](https://www.youtube.com/shorts/bWfQjpZ7wis) - 2026-03-03
+
 [Temple of Mangalore #shorts](https://www.youtube.com/shorts/3uNWLjhukVE) - 2026-03-02
 
 [When will we learn? #shorts](https://www.youtube.com/shorts/AHYWvGHoTIQ) - 2026-03-01
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Gurudwara Sahib, Mangalore #shorts](https://www.youtube.com/shorts/hV9u2zZn6v0) - 2026-02-19
 
 [Bangalore to Yercaud | All Ghat Road | 20 Hairpin Bends | NH44 #humhairahi #shorttrip normalize](https://www.youtube.com/watch?v=p8RWr7R87p4) - 2026-02-18
-
-[Gokarnatha Temple Managalore #shorts](https://www.youtube.com/shorts/d8nSpgsHhYo) - 2026-02-17
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
