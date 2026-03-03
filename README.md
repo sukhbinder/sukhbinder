@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[More fun programming than I ever have…](https://sukhbinder.wordpress.com/2026/03/04/more-fun-programming-than-i-ever-have/) - 
+
 [It’s Finally Happening](https://sukhbinder.wordpress.com/2026/03/03/its-finally-happening/) - 
 
 [747s and coding agents….](https://sukhbinder.wordpress.com/2026/03/01/747s-and-coding-agents/) - Sat, 28 Feb 2026 20:45:11 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Monolith or Microservices](https://sukhbinder.wordpress.com/2026/02/14/monolith-or-microservices/) - Sat, 14 Feb 2026 08:03:49 +0000
 
 [AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://sukhbinder.wordpress.com/2026/02/12/ai-agent-opens-a-pr-write-a-blogpost-to-shames-the-maintainer-who-closes-it/) - 
-
-[The Hello World That Could Not….](https://sukhbinder.wordpress.com/2026/02/10/the-hello-world-that-could-not/) - Mon, 09 Feb 2026 20:27:15 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
