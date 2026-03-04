@@ -48,7 +48,7 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
-[More fun programming than I ever have…](https://sukhbinder.wordpress.com/2026/03/04/more-fun-programming-than-i-ever-have/) - 
+[Why I am using local llms…](https://sukhbinder.wordpress.com/2026/03/04/more-fun-programming-than-i-ever-have/) - 
 
 [It’s Finally Happening](https://sukhbinder.wordpress.com/2026/03/03/its-finally-happening/) - 
 
