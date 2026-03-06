@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Generational Leap](https://sukhbinder.wordpress.com/2026/03/06/generational-leap/) - Fri, 06 Mar 2026 14:32:40 +0000
+
 [Why I am using local llms…](https://sukhbinder.wordpress.com/2026/03/04/more-fun-programming-than-i-ever-have/) - 
 
 [It’s Finally Happening](https://sukhbinder.wordpress.com/2026/03/03/its-finally-happening/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Oh my pi with llamacpp](https://sukhbinder.wordpress.com/2026/02/15/oh-my-pi-with-llamacpp/) - Sun, 15 Feb 2026 12:00:36 +0000
 
 [Monolith or Microservices](https://sukhbinder.wordpress.com/2026/02/14/monolith-or-microservices/) - Sat, 14 Feb 2026 08:03:49 +0000
-
-[AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://sukhbinder.wordpress.com/2026/02/12/ai-agent-opens-a-pr-write-a-blogpost-to-shames-the-maintainer-who-closes-it/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
