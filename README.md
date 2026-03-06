@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Explore Sultan Battery #SultanBattery #Mangalore #HistoryBuff #HiddenGems #FreeThingsToDo #India](https://www.youtube.com/shorts/VR3ltDqOfH4) - 2026-03-05
 
-[Yercaud Places 2 see Karadiyur view point Manjakuttai Viewpoint Servarayankovil Temple Saravanabhava](https://www.youtube.com/watch?v=mqdW3o05rs8) - 2026-03-04
-
-[Mangalore Gurdwara Sahib #placestosee #gurudwara #mangalore](https://www.youtube.com/shorts/bWfQjpZ7wis) - 2026-03-03
-
-[Temple of Mangalore #shorts](https://www.youtube.com/shorts/3uNWLjhukVE) - 2026-03-02
-
-[When will we learn? #shorts](https://www.youtube.com/shorts/AHYWvGHoTIQ) - 2026-03-01
-
-[Yercaud Eco Park | Home stay | HK Grand Inn #placestosee #yercaud #humhairahi normalize](https://www.youtube.com/watch?v=X1-DbPeUkNs) - 2026-02-25
-
-[Sultan Battery Mangalore #shorts](https://www.youtube.com/shorts/dqeWmkjHcHY) - 2026-02-23
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
