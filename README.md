@@ -73,6 +73,10 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Viewpoints of Yercaud | Lady's Seat | Pagoda Sunrise Point |  #humhairahi #yercaud #places2see](https://www.youtube.com/watch?v=y8AgkAif1SE) - 2026-03-11
+
+[Tannirbhavi Beach #placestosee #mangalore #thingstodo #beach](https://www.youtube.com/shorts/j708fr3ajtU) - 2026-03-11
+
 [#GokarneshwaraTemple #Mangalore #TempleRun #DivineIndia #TwinGopurams #SouthIndianArchitecture](https://www.youtube.com/shorts/CuouXMgxRW4) - 2026-03-07
 
 [Explore Sultan Battery #SultanBattery #Mangalore #HistoryBuff #HiddenGems #FreeThingsToDo #India](https://www.youtube.com/shorts/VR3ltDqOfH4) - 2026-03-05
@@ -82,10 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Mangalore Gurdwara Sahib #placestosee #gurudwara #mangalore](https://www.youtube.com/shorts/bWfQjpZ7wis) - 2026-03-03
 
 [Temple of Mangalore #shorts](https://www.youtube.com/shorts/3uNWLjhukVE) - 2026-03-02
-
-[When will we learn? #shorts](https://www.youtube.com/shorts/AHYWvGHoTIQ) - 2026-03-01
-
-[Yercaud Eco Park | Home stay | HK Grand Inn #placestosee #yercaud #humhairahi normalize](https://www.youtube.com/watch?v=X1-DbPeUkNs) - 2026-02-25
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
