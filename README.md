@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Go Create Value](https://sukhbinder.wordpress.com/2026/03/12/go-create-value/) - 
+
 [TIL: Secret ssh menu](https://sukhbinder.wordpress.com/2026/03/12/til-secret-ssh-menu/) - Wed, 11 Mar 2026 22:10:36 +0000
 
 [Generational Leap](https://sukhbinder.wordpress.com/2026/03/06/generational-leap/) - Fri, 06 Mar 2026 14:32:40 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Here’s the other side of the coin](https://sukhbinder.wordpress.com/2026/02/18/heres-the-other-side-of-the-coin/) - Wed, 18 Feb 2026 03:40:00 +0000
 
 [The distance between a question and a first answer just got very small.](https://sukhbinder.wordpress.com/2026/02/17/the-distance-between-a-question-and-a-first-answer-just-got-very-small/) - 
-
-[Oh my pi with llamacpp](https://sukhbinder.wordpress.com/2026/02/15/oh-my-pi-with-llamacpp/) - Sun, 15 Feb 2026 12:00:36 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
