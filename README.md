@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Progression of llm to coding agent](https://sukhbinder.wordpress.com/2026/03/13/progression-of-llm-to-coding-agent/) - Fri, 13 Mar 2026 08:54:00 +0000
+
 [Go Create Value](https://sukhbinder.wordpress.com/2026/03/12/go-create-value/) - 
 
 [TIL: Secret ssh menu](https://sukhbinder.wordpress.com/2026/03/12/til-secret-ssh-menu/) - Wed, 11 Mar 2026 22:10:36 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [How to read more books…](https://sukhbinder.wordpress.com/2026/02/24/how-to-read-more-books/) - 
 
 [Here’s the other side of the coin](https://sukhbinder.wordpress.com/2026/02/18/heres-the-other-side-of-the-coin/) - Wed, 18 Feb 2026 03:40:00 +0000
-
-[The distance between a question and a first answer just got very small.](https://sukhbinder.wordpress.com/2026/02/17/the-distance-between-a-question-and-a-first-answer-just-got-very-small/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
