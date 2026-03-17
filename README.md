@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[How to Build Good Software](https://sukhbinder.wordpress.com/2026/03/17/how-to-build-good-software/) - 
+
 [Progression of llm to coding agent](https://sukhbinder.wordpress.com/2026/03/13/progression-of-llm-to-coding-agent/) - Fri, 13 Mar 2026 08:54:00 +0000
 
 [Go Create Value](https://sukhbinder.wordpress.com/2026/03/12/go-create-value/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [The Missing Semester](https://sukhbinder.wordpress.com/2026/02/25/the-missing-semester/) - Wed, 25 Feb 2026 10:38:00 +0000
 
 [How to read more books…](https://sukhbinder.wordpress.com/2026/02/24/how-to-read-more-books/) - 
-
-[Here’s the other side of the coin](https://sukhbinder.wordpress.com/2026/02/18/heres-the-other-side-of-the-coin/) - Wed, 18 Feb 2026 03:40:00 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
