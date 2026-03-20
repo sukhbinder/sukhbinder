@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Read Less, Steer More, and Test More](https://sukhbinder.wordpress.com/2026/03/20/read-less-steer-more-and-test-more/) - Fri, 20 Mar 2026 07:02:58 +0000
+
 [How to Build Good Software](https://sukhbinder.wordpress.com/2026/03/17/how-to-build-good-software/) - 
 
 [Progression of llm to coding agent](https://sukhbinder.wordpress.com/2026/03/13/progression-of-llm-to-coding-agent/) - Fri, 13 Mar 2026 08:54:00 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [747s and coding agents….](https://sukhbinder.wordpress.com/2026/03/01/747s-and-coding-agents/) - Sat, 28 Feb 2026 20:45:11 +0000
 
 [The Missing Semester](https://sukhbinder.wordpress.com/2026/02/25/the-missing-semester/) - Wed, 25 Feb 2026 10:38:00 +0000
-
-[How to read more books…](https://sukhbinder.wordpress.com/2026/02/24/how-to-read-more-books/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
