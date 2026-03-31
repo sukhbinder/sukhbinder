@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Someshwara Beach Mangalore #shorts](https://www.youtube.com/shorts/Fqz66sfOIr8) - 2026-03-30
+
 [Shree Somnath Temple Mangalore #shorts](https://www.youtube.com/shorts/1lXJPy4SgVE) - 2026-03-29
 
 [Roadtrip Bangalore to Bidar | Gurudawara Nanak Jheera Sahib #Humhairahi #kiasonet  #travel #roadtrip](https://www.youtube.com/watch?v=_iYXLDrwcu0) - 2026-03-25
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Yercaud Emerald Lake Boating | Roadtrip Yercaud to Bangalore  | #kiasonet #humhairahi #travel](https://www.youtube.com/watch?v=GZaHd_6ZEDY) - 2026-03-18
 
 [Kadri Manjunatheshwara Temple Shiv Temple #placestoseeinMangalore #mangalore #temple](https://www.youtube.com/shorts/EVHc_EaL-2Y) - 2026-03-17
-
-[Kadri Manjunatheshwara Temple #placestoseeinMangalore #mangalore #temple](https://www.youtube.com/shorts/JVhS_vWJXhU) - 2026-03-13
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
