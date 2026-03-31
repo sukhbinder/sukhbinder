@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[How spreadsheet reshaped the world.](https://sukhbinder.wordpress.com/2026/03/31/how-spreadsheet-reshaped-the-world/) - 
+
 [Read Less, Steer More, and Test More](https://sukhbinder.wordpress.com/2026/03/20/read-less-steer-more-and-test-more/) - Fri, 20 Mar 2026 07:02:58 +0000
 
 [How to Build Good Software](https://sukhbinder.wordpress.com/2026/03/17/how-to-build-good-software/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [It’s Finally Happening](https://sukhbinder.wordpress.com/2026/03/03/its-finally-happening/) - 
 
 [747s and coding agents….](https://sukhbinder.wordpress.com/2026/03/01/747s-and-coding-agents/) - Sat, 28 Feb 2026 20:45:11 +0000
-
-[The Missing Semester](https://sukhbinder.wordpress.com/2026/02/25/the-missing-semester/) - Wed, 25 Feb 2026 10:38:00 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
