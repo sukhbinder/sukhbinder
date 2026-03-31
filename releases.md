@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->162<!-- releases_count ends --> releases across <!-- project_count starts -->65<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->163<!-- releases_count ends --> releases across <!-- project_count starts -->66<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[vidtoolz-rnnn](https://github.com/sukhbinder/vidtoolz-rnnn)**: [v0.1.0](https://github.com/sukhbinder/vidtoolz-rnnn/releases/tag/v0.1.0) - 2026-03-31
+<br />Noise reduction using ffmpeg rnnn model
 * **[afplay-win](https://github.com/sukhbinder/afplay-win)**: [v0.0.2](https://github.com/sukhbinder/afplay-win/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/afplay-win/releases)) - 2026-02-03
 <br />Tiny utility that mimics 'afplay' in windows
 * **[audiobook-player](https://github.com/sukhbinder/audiobook-player)**: [v0.0.1](https://github.com/sukhbinder/audiobook-player/releases/tag/v0.0.1) - 2026-01-31
