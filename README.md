@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Hyderabad to Bidar | Gurudwara Nanak Jhira Sahib | Yatri Niwas | Roadtrips #Humhairahi](https://www.youtube.com/watch?v=u1gO9vzWUU4) - 2026-04-01
+
 [NH44 Roadtrip #shorts](https://www.youtube.com/shorts/at8HDySvCxM) - 2026-03-31
 
 [Someshwara Beach Mangalore #shorts](https://www.youtube.com/shorts/Fqz66sfOIr8) - 2026-03-30
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Shree Someshwara Temple Mangalore #shorts](https://www.youtube.com/shorts/_fqyjfAdLuI) - 2026-03-23
 
 [Tannirbhavi Beach #placestosee #mangalore #thingstodo](https://www.youtube.com/shorts/yrmL3wwR6wM) - 2026-03-19
-
-[Yercaud Emerald Lake Boating | Roadtrip Yercaud to Bangalore  | #kiasonet #humhairahi #travel](https://www.youtube.com/watch?v=GZaHd_6ZEDY) - 2026-03-18
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
