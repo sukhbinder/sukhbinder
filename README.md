@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Local llm setup](https://sukhbinder.wordpress.com/2026/04/01/local-llm-setup/) - Wed, 01 Apr 2026 08:31:00 +0000
+
 [How spreadsheet reshaped the world.](https://sukhbinder.wordpress.com/2026/03/31/how-spreadsheet-reshaped-the-world/) - 
 
 [Read Less, Steer More, and Test More](https://sukhbinder.wordpress.com/2026/03/20/read-less-steer-more-and-test-more/) - Fri, 20 Mar 2026 07:02:58 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Why I am using local llms…](https://sukhbinder.wordpress.com/2026/03/04/more-fun-programming-than-i-ever-have/) - 
 
 [It’s Finally Happening](https://sukhbinder.wordpress.com/2026/03/03/its-finally-happening/) - 
-
-[747s and coding agents….](https://sukhbinder.wordpress.com/2026/03/01/747s-and-coding-agents/) - Sat, 28 Feb 2026 20:45:11 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
