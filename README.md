@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Don’t let LLM write for you..](https://sukhbinder.wordpress.com/2026/04/02/dont-let-llm-write-for-you/) - 
+
 [Local llm setup](https://sukhbinder.wordpress.com/2026/04/01/local-llm-setup/) - Wed, 01 Apr 2026 08:31:00 +0000
 
 [How spreadsheet reshaped the world.](https://sukhbinder.wordpress.com/2026/03/31/how-spreadsheet-reshaped-the-world/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Generational Leap](https://sukhbinder.wordpress.com/2026/03/06/generational-leap/) - Fri, 06 Mar 2026 14:32:40 +0000
 
 [Why I am using local llms…](https://sukhbinder.wordpress.com/2026/03/04/more-fun-programming-than-i-ever-have/) - 
-
-[It’s Finally Happening](https://sukhbinder.wordpress.com/2026/03/03/its-finally-happening/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
