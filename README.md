@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Gemma 4 is Quite Lazy.](https://sukhbinder.wordpress.com/2026/04/04/gemma-4-is-quite-lazy/) - Sat, 04 Apr 2026 04:01:00 +0000
+
 [Quantisation from ground up](https://sukhbinder.wordpress.com/2026/04/03/quantisation-from-ground-up/) - 
 
 [Don’t let LLM write for you..](https://sukhbinder.wordpress.com/2026/04/02/dont-let-llm-write-for-you/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Go Create Value](https://sukhbinder.wordpress.com/2026/03/12/go-create-value/) - 
 
 [TIL: Secret ssh menu](https://sukhbinder.wordpress.com/2026/03/12/til-secret-ssh-menu/) - Wed, 11 Mar 2026 22:10:36 +0000
-
-[Generational Leap](https://sukhbinder.wordpress.com/2026/03/06/generational-leap/) - Fri, 06 Mar 2026 14:32:40 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
