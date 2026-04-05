@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-llamacpp-plugin v0.1.0](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.1.0) - 2026-04-05
+
 [vidtoolz-rnnn v0.1.0](https://github.com/sukhbinder/vidtoolz-rnnn/releases/tag/v0.1.0) - 2026-03-31
 
 [afplay-win v0.0.2](https://github.com/sukhbinder/afplay-win/releases/tag/v0.0.2) - 2026-02-03
@@ -40,8 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [crontab-win v0.2.0](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.0) - 2025-12-10
 
 [vidtoolz-add-sound v0.0.3](https://github.com/sukhbinder/vidtoolz-add-sound/releases/tag/v0.0.3) - 2025-11-26
-
-[outlook-meetings v0.0.1](https://github.com/sukhbinder/outlook-meetings/releases/tag/v0.0.1) - 2025-10-11
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
