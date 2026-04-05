@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Going towards Sasihithlu Beach #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/a_aXtuxWIbw) - 2026-04-04
 
-[St Mary's Island Exploration Shorts Beautiful Beach and Island](https://www.youtube.com/shorts/S2X2s7W8E6U) - 2026-04-02
-
-[Exploring St Marys Island Shorts Arabian Sea Ancient Rocks](https://www.youtube.com/shorts/qnWaQ1wOzzo) - 2026-04-01
-
-[Hyderabad to Bidar | Gurudwara Nanak Jhira Sahib | Yatri Niwas | Roadtrips #Humhairahi](https://www.youtube.com/watch?v=u1gO9vzWUU4) - 2026-04-01
-
-[NH44 Roadtrip #shorts](https://www.youtube.com/shorts/at8HDySvCxM) - 2026-03-31
-
-[Someshwara Beach Mangalore #shorts](https://www.youtube.com/shorts/Fqz66sfOIr8) - 2026-03-30
-
-[Shree Somnath Temple Mangalore #shorts](https://www.youtube.com/shorts/1lXJPy4SgVE) - 2026-03-29
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
