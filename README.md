@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[winzy-screenshot v0.0.6](https://github.com/sukhbinder/winzy-screenshot/releases/tag/v0.0.6) - 2026-04-09
+
 [llm-llamacpp-plugin v0.1.0](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.1.0) - 2026-04-05
 
 [vidtoolz-rnnn v0.1.0](https://github.com/sukhbinder/vidtoolz-rnnn/releases/tag/v0.1.0) - 2026-03-31
@@ -40,8 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [winzy v0.0.5](https://github.com/sukhbinder/winzy/releases/tag/v0.0.5) - 2025-12-10
 
 [crontab-win v0.2.0](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.0) - 2025-12-10
-
-[vidtoolz-add-sound v0.0.3](https://github.com/sukhbinder/vidtoolz-add-sound/releases/tag/v0.0.3) - 2025-11-26
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">

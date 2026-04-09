@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->164<!-- releases_count ends --> releases across <!-- project_count starts -->67<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->165<!-- releases_count ends --> releases across <!-- project_count starts -->67<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[winzy-screenshot](https://github.com/sukhbinder/winzy-screenshot)**: [v0.0.6](https://github.com/sukhbinder/winzy-screenshot/releases/tag/v0.0.6) - ([6 releases total](https://github.com/sukhbinder/winzy-screenshot/releases)) - 2026-04-09
+<br />Screenshot using python
 * **[llm-llamacpp-plugin](https://github.com/sukhbinder/llm-llamacpp-plugin)**: [v0.1.0](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.1.0) - 2026-04-05
 <br />A plugin for LLM providing access to models running on a llama.cpp
 * **[vidtoolz-rnnn](https://github.com/sukhbinder/vidtoolz-rnnn)**: [v0.1.0](https://github.com/sukhbinder/vidtoolz-rnnn/releases/tag/v0.1.0) - 2026-03-31
@@ -91,8 +93,6 @@ Listing <!-- releases_count starts -->164<!-- releases_count ends --> releases a
 <br />Get daily Horoscope using https://horoscope-app-api.vercel.app
 * **[send-telegram-cli](https://github.com/sukhbinder/send-telegram-cli)**: [](https://github.com/sukhbinder/send-telegram-cli/releases/tag/v0.0.1) - 2024-12-05
 <br />Send message/videos/photos/docs using Telegram
-* **[winzy-screenshot](https://github.com/sukhbinder/winzy-screenshot)**: [](https://github.com/sukhbinder/winzy-screenshot/releases/tag/v0.0.4) - ([5 releases total](https://github.com/sukhbinder/winzy-screenshot/releases)) - 2024-12-04
-<br />Screenshot using python
 * **[winzy-create-gif](https://github.com/sukhbinder/winzy-create-gif)**: [](https://github.com/sukhbinder/winzy-create-gif/releases/tag/v0.0.1a) - ([2 releases total](https://github.com/sukhbinder/winzy-create-gif/releases)) - 2024-11-18
 <br />Create gifs from files in a folder.
 * **[winzy-win-geometry](https://github.com/sukhbinder/winzy-win-geometry)**: [Latest release with light dependencies](https://github.com/sukhbinder/winzy-win-geometry/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/winzy-win-geometry/releases)) - 2024-11-18
