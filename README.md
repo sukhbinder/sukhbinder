@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Project Hail Mary](https://sukhbinder.wordpress.com/2026/04/10/project-hail-mary/) - 
+
 [Average is Now Abundant…](https://sukhbinder.wordpress.com/2026/04/09/average-is-now-abundant/) - Wed, 08 Apr 2026 21:11:01 +0000
 
 [Gemma 4 is Quite Lazy.](https://sukhbinder.wordpress.com/2026/04/04/gemma-4-is-quite-lazy/) - Sat, 04 Apr 2026 04:01:00 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [How to Build Good Software](https://sukhbinder.wordpress.com/2026/03/17/how-to-build-good-software/) - 
 
 [Progression of llm to coding agent](https://sukhbinder.wordpress.com/2026/03/13/progression-of-llm-to-coding-agent/) - Fri, 13 Mar 2026 08:54:00 +0000
-
-[Go Create Value](https://sukhbinder.wordpress.com/2026/03/12/go-create-value/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
