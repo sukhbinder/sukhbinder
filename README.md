@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Roadside food Roadtrip #shorts](https://www.youtube.com/shorts/tkwiBAiiO6A) - 2026-04-09
+
 [Historical Gurudawaras of Bidar | Gurudawara Bhai sahib | Gurudawra Mata Bhago ji | Nanak Jheera](https://www.youtube.com/watch?v=3vrgTAq2G3E) - 2026-04-08
 
 [Suratkal Beach #mangalore #kiasonet #roadtrip #humhairahi](https://www.youtube.com/shorts/9PzhUWZoxRM) - 2026-04-06
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Exploring St Marys Island Shorts Arabian Sea Ancient Rocks](https://www.youtube.com/shorts/qnWaQ1wOzzo) - 2026-04-01
 
 [Hyderabad to Bidar | Gurudwara Nanak Jhira Sahib | Yatri Niwas | Roadtrips #Humhairahi](https://www.youtube.com/watch?v=u1gO9vzWUU4) - 2026-04-01
-
-[NH44 Roadtrip #shorts](https://www.youtube.com/shorts/at8HDySvCxM) - 2026-03-31
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
