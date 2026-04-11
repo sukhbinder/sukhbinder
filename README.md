@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Kon a minimal coding harness in python](https://sukhbinder.wordpress.com/2026/04/11/kon-a-minimal-coding-harness-in-python/) - Sat, 11 Apr 2026 17:43:10 +0000
+
 [Project Hail Mary](https://sukhbinder.wordpress.com/2026/04/10/project-hail-mary/) - 
 
 [Average is Now Abundant…](https://sukhbinder.wordpress.com/2026/04/09/average-is-now-abundant/) - Wed, 08 Apr 2026 21:11:01 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Read Less, Steer More, and Test More](https://sukhbinder.wordpress.com/2026/03/20/read-less-steer-more-and-test-more/) - Fri, 20 Mar 2026 07:02:58 +0000
 
 [How to Build Good Software](https://sukhbinder.wordpress.com/2026/03/17/how-to-build-good-software/) - 
-
-[Progression of llm to coding agent](https://sukhbinder.wordpress.com/2026/03/13/progression-of-llm-to-coding-agent/) - Fri, 13 Mar 2026 08:54:00 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
