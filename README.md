@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Sasihithlu Beach #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/ifAnR-ipmWE) - 2026-04-12
+
 [Roadtrip to Nanak Jhira Sahib ji #shorts](https://www.youtube.com/shorts/nV0qm62fdoc) - 2026-04-11
 
 [Suratkal Beach #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/X87XcVpMYfs) - 2026-04-10
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Suratkal Beach #mangalore #kiasonet #roadtrip #humhairahi](https://www.youtube.com/shorts/9PzhUWZoxRM) - 2026-04-06
 
 [Going towards Sasihithlu Beach #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/a_aXtuxWIbw) - 2026-04-04
-
-[St Mary's Island Exploration Shorts Beautiful Beach and Island](https://www.youtube.com/shorts/S2X2s7W8E6U) - 2026-04-02
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
