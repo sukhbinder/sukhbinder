@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->166<!-- releases_count ends --> releases across <!-- project_count starts -->67<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->168<!-- releases_count ends --> releases across <!-- project_count starts -->67<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[winzy-whitelist](https://github.com/sukhbinder/winzy-whitelist)**: [v0.1.0](https://github.com/sukhbinder/winzy-whitelist/releases/tag/v0.1.0) - ([2 releases total](https://github.com/sukhbinder/winzy-whitelist/releases)) - 2026-04-16
+* **[winzy-whitelist](https://github.com/sukhbinder/winzy-whitelist)**: [v0.1.0](https://github.com/sukhbinder/winzy-whitelist/releases/tag/v0.1.0b) - ([4 releases total](https://github.com/sukhbinder/winzy-whitelist/releases)) - 2026-04-18
 <br />Whitelist python created exe's to make them bat scripts
 * **[winzy-screenshot](https://github.com/sukhbinder/winzy-screenshot)**: [v0.0.6](https://github.com/sukhbinder/winzy-screenshot/releases/tag/v0.0.6) - ([6 releases total](https://github.com/sukhbinder/winzy-screenshot/releases)) - 2026-04-09
 <br />Screenshot using python

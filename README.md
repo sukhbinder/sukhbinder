@@ -19,7 +19,7 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
-[winzy-whitelist v0.1.0](https://github.com/sukhbinder/winzy-whitelist/releases/tag/v0.1.0) - 2026-04-16
+[winzy-whitelist v0.1.0](https://github.com/sukhbinder/winzy-whitelist/releases/tag/v0.1.0b) - 2026-04-18
 
 [winzy-screenshot v0.0.6](https://github.com/sukhbinder/winzy-screenshot/releases/tag/v0.0.6) - 2026-04-09
 
@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[winzy whitelist v.0.1.0 released](https://sukhbinder.wordpress.com/2026/04/18/winzy-whitelist-v-0-1-0-released/) - Sat, 18 Apr 2026 08:20:59 +0000
+
 [Kon a minimal coding harness in python](https://sukhbinder.wordpress.com/2026/04/11/kon-a-minimal-coding-harness-in-python/) - Sat, 11 Apr 2026 17:43:10 +0000
 
 [Project Hail Mary](https://sukhbinder.wordpress.com/2026/04/10/project-hail-mary/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [How spreadsheet reshaped the world.](https://sukhbinder.wordpress.com/2026/03/31/how-spreadsheet-reshaped-the-world/) - 
 
 [Read Less, Steer More, and Test More](https://sukhbinder.wordpress.com/2026/03/20/read-less-steer-more-and-test-more/) - Fri, 20 Mar 2026 07:02:58 +0000
-
-[How to Build Good Software](https://sukhbinder.wordpress.com/2026/03/17/how-to-build-good-software/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
