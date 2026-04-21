@@ -73,7 +73,19 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Saint Mary's island Satinder Sartaj Intro](https://www.youtube.com/shorts/TVl5SZZh5QI) - 2026-04-18
 
+[Boat Ride In Arabian Sea | Fisherman Resque | St Mary's Island](https://www.youtube.com/shorts/-AS2tObTvK0) - 2026-04-16
+
+[Shri Kshetra Jharni Narasimha Cave Temple | Bidar Fort | Places2SeeinBidar #Humhairahi](https://www.youtube.com/watch?v=LqusT0OhtmM) - 2026-04-15
+
+[Somnath Beach Mangalore Close to Somnata Temple #shorts](https://www.youtube.com/shorts/gUCaXRLAZGU) - 2026-04-13
+
+[Sasihithlu Beach #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/ifAnR-ipmWE) - 2026-04-12
+
+[Roadtrip to Nanak Jhira Sahib ji #shorts](https://www.youtube.com/shorts/nV0qm62fdoc) - 2026-04-11
+
+[Suratkal Beach #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/X87XcVpMYfs) - 2026-04-10
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
