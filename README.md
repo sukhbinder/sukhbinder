@@ -19,13 +19,37 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[winzy-whitelist v0.1.0](https://github.com/sukhbinder/winzy-whitelist/releases/tag/v0.1.0b) - 2026-04-18
 
+[winzy-screenshot v0.0.6](https://github.com/sukhbinder/winzy-screenshot/releases/tag/v0.0.6) - 2026-04-09
+
+[llm-llamacpp-plugin v0.1.0](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.1.0) - 2026-04-05
+
+[vidtoolz-rnnn v0.1.0](https://github.com/sukhbinder/vidtoolz-rnnn/releases/tag/v0.1.0) - 2026-03-31
+
+[afplay-win v0.0.2](https://github.com/sukhbinder/afplay-win/releases/tag/v0.0.2) - 2026-02-03
+
+[audiobook-player v0.0.1](https://github.com/sukhbinder/audiobook-player/releases/tag/v0.0.1) - 2026-01-31
+
+[pyschtasks v0.1.1](https://github.com/sukhbinder/pyschtasks/releases/tag/v0.1.1) - 2026-01-22
+
+[winzy-get-the-file v0.0.1](https://github.com/sukhbinder/winzy-get-the-file/releases/tag/v0.0.1) - 2026-01-20
+
+[llm-embed-ollama v0.1.3](https://github.com/sukhbinder/llm-embed-ollama/releases/tag/v0.1.3) - 2026-01-20
+
+[vidtoolz-colored-textclip v0.0.2](https://github.com/sukhbinder/vidtoolz-colored-textclip/releases/tag/v0.0.2) - 2026-01-14
+
+[nitnem v0.3.5](https://github.com/sukhbinder/nitnem/releases/tag/v0.3.5) - 2025-12-30
+
+[winzy v0.0.5](https://github.com/sukhbinder/winzy/releases/tag/v0.0.5) - 2025-12-10
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[How to Correctly use AI](https://sukhbinder.wordpress.com/2026/04/27/how-to-correctly-use-ai/) - Mon, 27 Apr 2026 17:51:44 +0000
+
 [winzy whitelist v.0.1.0 released](https://sukhbinder.wordpress.com/2026/04/18/winzy-whitelist-v-0-1-0-released/) - Sat, 18 Apr 2026 08:20:59 +0000
 
 [Kon a minimal coding harness in python](https://sukhbinder.wordpress.com/2026/04/11/kon-a-minimal-coding-harness-in-python/) - Sat, 11 Apr 2026 17:43:10 +0000
@@ -43,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Local llm setup](https://sukhbinder.wordpress.com/2026/04/01/local-llm-setup/) - Wed, 01 Apr 2026 08:31:00 +0000
 
 [How spreadsheet reshaped the world.](https://sukhbinder.wordpress.com/2026/03/31/how-spreadsheet-reshaped-the-world/) - 
-
-[Read Less, Steer More, and Test More](https://sukhbinder.wordpress.com/2026/03/20/read-less-steer-more-and-test-more/) - Fri, 20 Mar 2026 07:02:58 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
