@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Joining the Nehru Ring Road #shorts](https://www.youtube.com/shorts/S4AD-Qatktc) - 2026-04-27
 
-[Suratkal Beach Lighthouse #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/vRqN2Rntslo) - 2026-04-22
-
-[Bidar to Hyderabad  Roadtrip  Heavy rain zero visibility | kia roadtrip #humhairahi](https://www.youtube.com/watch?v=KEwyeS-HK_A) - 2026-04-22
-
-[Saint Mary's island Satinder Sartaj Intro](https://www.youtube.com/shorts/TVl5SZZh5QI) - 2026-04-18
-
-[Boat Ride In Arabian Sea | Fisherman Resque | St Mary's Island](https://www.youtube.com/shorts/-AS2tObTvK0) - 2026-04-16
-
-[Shri Kshetra Jharni Narasimha Cave Temple | Bidar Fort | Places2SeeinBidar #Humhairahi](https://www.youtube.com/watch?v=LqusT0OhtmM) - 2026-04-15
-
-[Somnath Beach Mangalore Close to Somnata Temple #shorts](https://www.youtube.com/shorts/gUCaXRLAZGU) - 2026-04-13
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
