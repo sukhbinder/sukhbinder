@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Malpe Boat Ride to St Mary's Island Shorts Arabian Sea](https://www.youtube.com/shorts/xcw7_y8WbvI) - 2026-04-28
+
 [Joining the Nehru Ring Road #shorts](https://www.youtube.com/shorts/S4AD-Qatktc) - 2026-04-27
 
 [Suratkal Beach Lighthouse #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/vRqN2Rntslo) - 2026-04-22
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Boat Ride In Arabian Sea | Fisherman Resque | St Mary's Island](https://www.youtube.com/shorts/-AS2tObTvK0) - 2026-04-16
 
 [Shri Kshetra Jharni Narasimha Cave Temple | Bidar Fort | Places2SeeinBidar #Humhairahi](https://www.youtube.com/watch?v=LqusT0OhtmM) - 2026-04-15
-
-[Somnath Beach Mangalore Close to Somnata Temple #shorts](https://www.youtube.com/shorts/gUCaXRLAZGU) - 2026-04-13
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
