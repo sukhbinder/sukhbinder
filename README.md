@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Sunset Point  near Servarayankovil Temple](https://www.youtube.com/shorts/gA2XS6gBixo) - 2026-04-29
+
 [Golconda Fort | Hyderabad Infosys campus |JAGADAMBA MAHAKALI TEMPLE TARAMATI MOSQUE #Humhairahi](https://www.youtube.com/watch?v=2MCXKqFYSG4) - 2026-04-29
 
 [Malpe Boat Ride to St Mary's Island Shorts Arabian Sea](https://www.youtube.com/shorts/xcw7_y8WbvI) - 2026-04-28
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Bidar to Hyderabad  Roadtrip  Heavy rain zero visibility | kia roadtrip #humhairahi](https://www.youtube.com/watch?v=KEwyeS-HK_A) - 2026-04-22
 
 [Saint Mary's island Satinder Sartaj Intro](https://www.youtube.com/shorts/TVl5SZZh5QI) - 2026-04-18
-
-[Boat Ride In Arabian Sea | Fisherman Resque | St Mary's Island](https://www.youtube.com/shorts/-AS2tObTvK0) - 2026-04-16
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
