@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Udupi to mangalore | Mahalakshmi Temple | NH66 | Roadtrip](https://www.youtube.com/shorts/m77jeJx_cv4) - 2026-04-30
+
 [Sunset Point  near Servarayankovil Temple](https://www.youtube.com/shorts/gA2XS6gBixo) - 2026-04-29
 
 [Golconda Fort | Hyderabad Infosys campus |JAGADAMBA MAHAKALI TEMPLE TARAMATI MOSQUE #Humhairahi](https://www.youtube.com/watch?v=2MCXKqFYSG4) - 2026-04-29
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Suratkal Beach Lighthouse #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/vRqN2Rntslo) - 2026-04-22
 
 [Bidar to Hyderabad  Roadtrip  Heavy rain zero visibility | kia roadtrip #humhairahi](https://www.youtube.com/watch?v=KEwyeS-HK_A) - 2026-04-22
-
-[Saint Mary's island Satinder Sartaj Intro](https://www.youtube.com/shorts/TVl5SZZh5QI) - 2026-04-18
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
