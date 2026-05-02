@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Malpe Beach Mangalore Dolphins Beach View](https://www.youtube.com/shorts/ZjUmALq1IQY) - 2026-05-01
 
-[Udupi to mangalore | Mahalakshmi Temple | NH66 | Roadtrip](https://www.youtube.com/shorts/m77jeJx_cv4) - 2026-04-30
-
-[Sunset Point  near Servarayankovil Temple](https://www.youtube.com/shorts/gA2XS6gBixo) - 2026-04-29
-
-[Golconda Fort | Hyderabad Infosys campus |JAGADAMBA MAHAKALI TEMPLE TARAMATI MOSQUE #Humhairahi](https://www.youtube.com/watch?v=2MCXKqFYSG4) - 2026-04-29
-
-[Malpe Boat Ride to St Mary's Island Shorts Arabian Sea](https://www.youtube.com/shorts/xcw7_y8WbvI) - 2026-04-28
-
-[Joining the Nehru Ring Road #shorts](https://www.youtube.com/shorts/S4AD-Qatktc) - 2026-04-27
-
-[Suratkal Beach Lighthouse #mangalore #kiasonet #roadtrip #humhairahi #haryanivi](https://www.youtube.com/shorts/vRqN2Rntslo) - 2026-04-22
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
