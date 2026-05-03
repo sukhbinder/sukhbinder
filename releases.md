@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->168<!-- releases_count ends --> releases across <!-- project_count starts -->67<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->169<!-- releases_count ends --> releases across <!-- project_count starts -->67<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[winzy-create-gif](https://github.com/sukhbinder/winzy-create-gif)**: [v0.0.2](https://github.com/sukhbinder/winzy-create-gif/releases/tag/v0.0.2) - ([3 releases total](https://github.com/sukhbinder/winzy-create-gif/releases)) - 2026-05-03
+<br />Create gifs from files in a folder.
 * **[winzy-whitelist](https://github.com/sukhbinder/winzy-whitelist)**: [v0.1.0](https://github.com/sukhbinder/winzy-whitelist/releases/tag/v0.1.0b) - ([4 releases total](https://github.com/sukhbinder/winzy-whitelist/releases)) - 2026-04-18
 <br />Whitelist python created exe's to make them bat scripts
 * **[winzy-screenshot](https://github.com/sukhbinder/winzy-screenshot)**: [v0.0.6](https://github.com/sukhbinder/winzy-screenshot/releases/tag/v0.0.6) - ([6 releases total](https://github.com/sukhbinder/winzy-screenshot/releases)) - 2026-04-09
@@ -95,8 +97,6 @@ Listing <!-- releases_count starts -->168<!-- releases_count ends --> releases a
 <br />Get daily Horoscope using https://horoscope-app-api.vercel.app
 * **[send-telegram-cli](https://github.com/sukhbinder/send-telegram-cli)**: [](https://github.com/sukhbinder/send-telegram-cli/releases/tag/v0.0.1) - 2024-12-05
 <br />Send message/videos/photos/docs using Telegram
-* **[winzy-create-gif](https://github.com/sukhbinder/winzy-create-gif)**: [](https://github.com/sukhbinder/winzy-create-gif/releases/tag/v0.0.1a) - ([2 releases total](https://github.com/sukhbinder/winzy-create-gif/releases)) - 2024-11-18
-<br />Create gifs from files in a folder.
 * **[winzy-win-geometry](https://github.com/sukhbinder/winzy-win-geometry)**: [Latest release with light dependencies](https://github.com/sukhbinder/winzy-win-geometry/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/winzy-win-geometry/releases)) - 2024-11-18
 <br />Get window geometry as a percentage of screen size.
 * **[winzy-notify](https://github.com/sukhbinder/winzy-notify)**: [Release Notes for  v0.0.1](https://github.com/sukhbinder/winzy-notify/releases/tag/v0.0.1) - 2024-11-15
