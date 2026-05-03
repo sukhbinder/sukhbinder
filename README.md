@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[A Better Minimal Coding Agent for me](https://sukhbinder.wordpress.com/2026/05/03/a-better-minimal-coding-agent-for-me/) - Sun, 03 May 2026 09:21:00 +0000
+
 [How to Correctly use AI](https://sukhbinder.wordpress.com/2026/04/27/how-to-correctly-use-ai/) - Mon, 27 Apr 2026 17:51:44 +0000
 
 [winzy whitelist v.0.1.0 released](https://sukhbinder.wordpress.com/2026/04/18/winzy-whitelist-v-0-1-0-released/) - Sat, 18 Apr 2026 08:20:59 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Don’t let LLM write for you..](https://sukhbinder.wordpress.com/2026/04/02/dont-let-llm-write-for-you/) - 
 
 [Local llm setup](https://sukhbinder.wordpress.com/2026/04/01/local-llm-setup/) - Wed, 01 Apr 2026 08:31:00 +0000
-
-[How spreadsheet reshaped the world.](https://sukhbinder.wordpress.com/2026/03/31/how-spreadsheet-reshaped-the-world/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
