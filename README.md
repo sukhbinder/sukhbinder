@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Boat Ride on Arabian Sea to st Mary's Island Shorts](https://www.youtube.com/shorts/jQa76SNx0h0) - 2026-05-04
+
 [Malpe Beach Sea Walk Shorts](https://www.youtube.com/shorts/Bq_9QlXXOA8) - 2026-05-02
 
 [Malpe Beach Mangalore Dolphins Beach View](https://www.youtube.com/shorts/ZjUmALq1IQY) - 2026-05-01
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Golconda Fort | Hyderabad Infosys campus |JAGADAMBA MAHAKALI TEMPLE TARAMATI MOSQUE #Humhairahi](https://www.youtube.com/watch?v=2MCXKqFYSG4) - 2026-04-29
 
 [Malpe Boat Ride to St Mary's Island Shorts Arabian Sea](https://www.youtube.com/shorts/xcw7_y8WbvI) - 2026-04-28
-
-[Joining the Nehru Ring Road #shorts](https://www.youtube.com/shorts/S4AD-Qatktc) - 2026-04-27
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
