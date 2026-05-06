@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[#Roadtrip #Bangalore #shorts #humhairahi](https://www.youtube.com/shorts/I2d8zZP7g1E) - 2026-05-06
+
 [Charminar | Hyderabad city Traffic | Munawar Faruqui |  #Humhairahi](https://www.youtube.com/watch?v=qbs3irWZZso) - 2026-05-06
 
 [Roadtrip Talakadu Kaveri Beach Rural Karnataka kia sonet](https://www.youtube.com/shorts/UTaVOn0NMxw) - 2026-05-05
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Malpe Beach Mangalore Dolphins Beach View](https://www.youtube.com/shorts/ZjUmALq1IQY) - 2026-05-01
 
 [Udupi to mangalore | Mahalakshmi Temple | NH66 | Roadtrip](https://www.youtube.com/shorts/m77jeJx_cv4) - 2026-04-30
-
-[Sunset Point  near Servarayankovil Temple](https://www.youtube.com/shorts/gA2XS6gBixo) - 2026-04-29
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
