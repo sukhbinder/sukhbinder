@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[10 Lessons for Agentic Coding.](https://sukhbinder.wordpress.com/2026/05/06/10-lessons-for-agentic-coding/) - Wed, 06 May 2026 12:48:00 +0000
+
 [Using Gemma-4 locally with kon](https://sukhbinder.wordpress.com/2026/05/04/using-gemma-4-locally-with-kon/) - Mon, 04 May 2026 11:33:00 +0000
 
 [A Better Minimal Coding Agent for me](https://sukhbinder.wordpress.com/2026/05/03/a-better-minimal-coding-agent-for-me/) - Sun, 03 May 2026 09:21:00 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Gemma 4 is Quite Lazy.](https://sukhbinder.wordpress.com/2026/04/04/gemma-4-is-quite-lazy/) - Sat, 04 Apr 2026 04:01:00 +0000
 
 [Quantisation from ground up](https://sukhbinder.wordpress.com/2026/04/03/quantisation-from-ground-up/) - 
-
-[Don’t let LLM write for you..](https://sukhbinder.wordpress.com/2026/04/02/dont-let-llm-write-for-you/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
