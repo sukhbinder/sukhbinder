@@ -4,7 +4,7 @@ Listing <!-- releases_count starts -->170<!-- releases_count ends --> releases a
 
 <!-- recent_releases starts -->
 * **[llm-llamacpp-plugin](https://github.com/sukhbinder/llm-llamacpp-plugin)**: [v0.1.1](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.1.1) - ([2 releases total](https://github.com/sukhbinder/llm-llamacpp-plugin/releases)) - 2026-05-09
-<br />A plugin for LLM providing access to models running on a llama.cpp
+<br />A plugin for LLM providing access to models running on a llama.cpp server
 * **[winzy-create-gif](https://github.com/sukhbinder/winzy-create-gif)**: [v0.0.2](https://github.com/sukhbinder/winzy-create-gif/releases/tag/v0.0.2) - ([3 releases total](https://github.com/sukhbinder/winzy-create-gif/releases)) - 2026-05-03
 <br />Create gifs from files in a folder.
 * **[winzy-whitelist](https://github.com/sukhbinder/winzy-whitelist)**: [v0.1.0](https://github.com/sukhbinder/winzy-whitelist/releases/tag/v0.1.0b) - ([4 releases total](https://github.com/sukhbinder/winzy-whitelist/releases)) - 2026-04-18
