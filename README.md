@@ -19,13 +19,13 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-llamacpp-plugin v0.1.1](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.1.1) - 2026-05-09
+
 [winzy-create-gif v0.0.2](https://github.com/sukhbinder/winzy-create-gif/releases/tag/v0.0.2) - 2026-05-03
 
 [winzy-whitelist v0.1.0](https://github.com/sukhbinder/winzy-whitelist/releases/tag/v0.1.0b) - 2026-04-18
 
 [winzy-screenshot v0.0.6](https://github.com/sukhbinder/winzy-screenshot/releases/tag/v0.0.6) - 2026-04-09
-
-[llm-llamacpp-plugin v0.1.0](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.1.0) - 2026-04-05
 
 [vidtoolz-rnnn v0.1.0](https://github.com/sukhbinder/vidtoolz-rnnn/releases/tag/v0.1.0) - 2026-03-31
 
