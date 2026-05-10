@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->170<!-- releases_count ends --> releases across <!-- project_count starts -->67<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->171<!-- releases_count ends --> releases across <!-- project_count starts -->67<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-llamacpp-plugin](https://github.com/sukhbinder/llm-llamacpp-plugin)**: [v0.1.1](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.1.1) - ([2 releases total](https://github.com/sukhbinder/llm-llamacpp-plugin/releases)) - 2026-05-09
+* **[llm-llamacpp-plugin](https://github.com/sukhbinder/llm-llamacpp-plugin)**: [v0.1.2](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.1.2) - ([3 releases total](https://github.com/sukhbinder/llm-llamacpp-plugin/releases)) - 2026-05-10
 <br />A plugin for LLM providing access to models running on a llama.cpp server
 * **[winzy-create-gif](https://github.com/sukhbinder/winzy-create-gif)**: [v0.0.2](https://github.com/sukhbinder/winzy-create-gif/releases/tag/v0.0.2) - ([3 releases total](https://github.com/sukhbinder/winzy-create-gif/releases)) - 2026-05-03
 <br />Create gifs from files in a folder.

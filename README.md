@@ -19,7 +19,7 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-llamacpp-plugin v0.1.1](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.1.1) - 2026-05-09
+[llm-llamacpp-plugin v0.1.2](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.1.2) - 2026-05-10
 
 [winzy-create-gif v0.0.2](https://github.com/sukhbinder/winzy-create-gif/releases/tag/v0.0.2) - 2026-05-03
 
