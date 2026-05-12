@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[COORG #roadtrips #shorts #places2go #humhairahi](https://www.youtube.com/shorts/FeHF9i_EXwc) - 2026-05-10
 
-[JHARNI NARASIMHA CAVE TEMPLE | Bidar | Places to see in Bidar #shorts](https://www.youtube.com/shorts/izDG7bXxK0U) - 2026-05-10
-
-[Yercaud Places to See #shorts](https://www.youtube.com/shorts/-tpgeuS2f8w) - 2026-05-09
-
-[#Roadtrip #Bangalore #shorts #humhairahi](https://www.youtube.com/shorts/I2d8zZP7g1E) - 2026-05-06
-
-[Charminar | Hyderabad city Traffic | Munawar Faruqui |  #Humhairahi](https://www.youtube.com/watch?v=qbs3irWZZso) - 2026-05-06
-
-[Roadtrip Talakadu Kaveri Beach Rural Karnataka kia sonet](https://www.youtube.com/shorts/UTaVOn0NMxw) - 2026-05-05
-
-[Boat Ride on Arabian Sea to st Mary's Island Shorts](https://www.youtube.com/shorts/jQa76SNx0h0) - 2026-05-04
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
