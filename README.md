@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[llm-llamacpp-plugin](https://sukhbinder.wordpress.com/2026/05/14/llm-llamacpp-plugin/) - 
+
 [10 Lessons for Agentic Coding.](https://sukhbinder.wordpress.com/2026/05/06/10-lessons-for-agentic-coding/) - Wed, 06 May 2026 12:48:00 +0000
 
 [Using Gemma-4 locally with kon](https://sukhbinder.wordpress.com/2026/05/04/using-gemma-4-locally-with-kon/) - Mon, 04 May 2026 11:33:00 +0000
@@ -65,15 +67,25 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Average is Now Abundant…](https://sukhbinder.wordpress.com/2026/04/09/average-is-now-abundant/) - Wed, 08 Apr 2026 21:11:01 +0000
 
 [Gemma 4 is Quite Lazy.](https://sukhbinder.wordpress.com/2026/04/04/gemma-4-is-quite-lazy/) - Sat, 04 Apr 2026 04:01:00 +0000
-
-[Quantisation from ground up](https://sukhbinder.wordpress.com/2026/04/03/quantisation-from-ground-up/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
+[Hussain Sagar Lake| Budhaa Statue | Famous Paradise Biryani Restaurant PCX #humhairahi](https://www.youtube.com/watch?v=kaYYdXb5EE8) - 2026-05-13
 
+[Monastery #shorts #kiasonet #humhairahi](https://www.youtube.com/shorts/J21qZss7-bc) - 2026-05-12
+
+[COORG #roadtrips #shorts #places2go #humhairahi](https://www.youtube.com/shorts/FeHF9i_EXwc) - 2026-05-10
+
+[JHARNI NARASIMHA CAVE TEMPLE | Bidar | Places to see in Bidar #shorts](https://www.youtube.com/shorts/izDG7bXxK0U) - 2026-05-10
+
+[Yercaud Places to See #shorts](https://www.youtube.com/shorts/-tpgeuS2f8w) - 2026-05-09
+
+[#Roadtrip #Bangalore #shorts #humhairahi](https://www.youtube.com/shorts/I2d8zZP7g1E) - 2026-05-06
+
+[Charminar | Hyderabad city Traffic | Munawar Faruqui |  #Humhairahi](https://www.youtube.com/watch?v=qbs3irWZZso) - 2026-05-06
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
