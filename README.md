@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[The Unreasonable Effectiveness of Qwen3.5 4B](https://sukhbinder.wordpress.com/2026/05/16/the-unreasonable-effectiveness-of-qwen3-5-4b/) - Fri, 15 May 2026 19:43:07 +0000
+
 [llm-llamacpp-plugin](https://sukhbinder.wordpress.com/2026/05/14/llm-llamacpp-plugin/) - 
 
 [10 Lessons for Agentic Coding.](https://sukhbinder.wordpress.com/2026/05/06/10-lessons-for-agentic-coding/) - Wed, 06 May 2026 12:48:00 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Project Hail Mary](https://sukhbinder.wordpress.com/2026/04/10/project-hail-mary/) - 
 
 [Average is Now Abundant…](https://sukhbinder.wordpress.com/2026/04/09/average-is-now-abundant/) - Wed, 08 Apr 2026 21:11:01 +0000
-
-[Gemma 4 is Quite Lazy.](https://sukhbinder.wordpress.com/2026/04/04/gemma-4-is-quite-lazy/) - Sat, 04 Apr 2026 04:01:00 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
