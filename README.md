@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[KiaSonet #Roadtrip #NammaKarnataka #placestogo #shorts](https://www.youtube.com/shorts/OxXtgnfGebE) - 2026-05-16
+
 [Hussain Sagar Lake| Budhaa Statue | Famous Paradise Biryani Restaurant PCX #humhairahi](https://www.youtube.com/watch?v=kaYYdXb5EE8) - 2026-05-13
 
 [Monastery #shorts #kiasonet #humhairahi](https://www.youtube.com/shorts/J21qZss7-bc) - 2026-05-12
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Yercaud Places to See #shorts](https://www.youtube.com/shorts/-tpgeuS2f8w) - 2026-05-09
 
 [#Roadtrip #Bangalore #shorts #humhairahi](https://www.youtube.com/shorts/I2d8zZP7g1E) - 2026-05-06
-
-[Charminar | Hyderabad city Traffic | Munawar Faruqui |  #Humhairahi](https://www.youtube.com/watch?v=qbs3irWZZso) - 2026-05-06
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
