@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->172<!-- releases_count ends --> releases across <!-- project_count starts -->68<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->173<!-- releases_count ends --> releases across <!-- project_count starts -->68<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[afrecord-win](https://github.com/sukhbinder/afrecord-win)**: [v0.1.0](https://github.com/sukhbinder/afrecord-win/releases/tag/v0.1.0) - 2026-05-15
+* **[afrecord-win](https://github.com/sukhbinder/afrecord-win)**: [v0.1.1](https://github.com/sukhbinder/afrecord-win/releases/tag/v0.1.1) - ([2 releases total](https://github.com/sukhbinder/afrecord-win/releases)) - 2026-05-17
 <br />Record sound in cli in windows
 * **[llm-llamacpp-plugin](https://github.com/sukhbinder/llm-llamacpp-plugin)**: [v0.1.2](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.1.2) - ([3 releases total](https://github.com/sukhbinder/llm-llamacpp-plugin/releases)) - 2026-05-10
 <br />A plugin for LLM providing access to models running on a llama.cpp server

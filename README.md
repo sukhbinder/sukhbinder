@@ -19,7 +19,7 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
-[afrecord-win v0.1.0](https://github.com/sukhbinder/afrecord-win/releases/tag/v0.1.0) - 2026-05-15
+[afrecord-win v0.1.1](https://github.com/sukhbinder/afrecord-win/releases/tag/v0.1.1) - 2026-05-17
 
 [llm-llamacpp-plugin v0.1.2](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.1.2) - 2026-05-10
 
@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Easy is Overrated](https://sukhbinder.wordpress.com/2026/05/17/easy-is-overrated/) - Sun, 17 May 2026 08:12:42 +0000
+
 [The Unreasonable Effectiveness of Qwen3.5 4B](https://sukhbinder.wordpress.com/2026/05/16/the-unreasonable-effectiveness-of-qwen3-5-4b/) - Fri, 15 May 2026 19:43:07 +0000
 
 [llm-llamacpp-plugin](https://sukhbinder.wordpress.com/2026/05/14/llm-llamacpp-plugin/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Kon a minimal coding harness in python](https://sukhbinder.wordpress.com/2026/04/11/kon-a-minimal-coding-harness-in-python/) - Sat, 11 Apr 2026 17:43:10 +0000
 
 [Project Hail Mary](https://sukhbinder.wordpress.com/2026/04/10/project-hail-mary/) - 
-
-[Average is Now Abundant…](https://sukhbinder.wordpress.com/2026/04/09/average-is-now-abundant/) - Wed, 08 Apr 2026 21:11:01 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
