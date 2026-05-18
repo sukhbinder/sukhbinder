@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[ChatGPT Made me Do it](https://sukhbinder.wordpress.com/2026/05/19/chatgpt-made-me-do-it/) - Mon, 18 May 2026 20:38:17 +0000
+
 [Easy is Overrated](https://sukhbinder.wordpress.com/2026/05/17/easy-is-overrated/) - Sun, 17 May 2026 08:12:42 +0000
 
 [The Unreasonable Effectiveness of Qwen3.5 4B](https://sukhbinder.wordpress.com/2026/05/16/the-unreasonable-effectiveness-of-qwen3-5-4b/) - Fri, 15 May 2026 19:43:07 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [winzy whitelist v.0.1.0 released](https://sukhbinder.wordpress.com/2026/04/18/winzy-whitelist-v-0-1-0-released/) - Sat, 18 Apr 2026 08:20:59 +0000
 
 [Kon a minimal coding harness in python](https://sukhbinder.wordpress.com/2026/04/11/kon-a-minimal-coding-harness-in-python/) - Sat, 11 Apr 2026 17:43:10 +0000
-
-[Project Hail Mary](https://sukhbinder.wordpress.com/2026/04/10/project-hail-mary/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
