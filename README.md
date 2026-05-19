@@ -73,6 +73,12 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[The Vast Ruins of Bidar Fort #shorts](https://www.youtube.com/shorts/tWB6vEgY64o) - 2026-05-19
+
+[Roadtrip India #shorts](https://www.youtube.com/shorts/_oR--0PVuMo) - 2026-05-19
+
+[Openroads Sartaaj's songs Bliss #shorts](https://www.youtube.com/shorts/Wl74MCyZzsQ) - 2026-05-19
+
 [Namdroling Monastery  Kushalnagar kKarnatak#NamdrolingMonastery #shorts](https://www.youtube.com/shorts/Mxh-mu8FBJ8) - 2026-05-18
 
 [KiaSonet #Roadtrip #NammaKarnataka #placestogo #shorts](https://www.youtube.com/shorts/OxXtgnfGebE) - 2026-05-16
@@ -80,12 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Hussain Sagar Lake| Budhaa Statue | Famous Paradise Biryani Restaurant PCX #humhairahi](https://www.youtube.com/watch?v=kaYYdXb5EE8) - 2026-05-13
 
 [Monastery #shorts #kiasonet #humhairahi](https://www.youtube.com/shorts/J21qZss7-bc) - 2026-05-12
-
-[COORG #roadtrips #shorts #places2go #humhairahi](https://www.youtube.com/shorts/FeHF9i_EXwc) - 2026-05-10
-
-[JHARNI NARASIMHA CAVE TEMPLE | Bidar | Places to see in Bidar #shorts](https://www.youtube.com/shorts/izDG7bXxK0U) - 2026-05-10
-
-[Yercaud Places to See #shorts](https://www.youtube.com/shorts/-tpgeuS2f8w) - 2026-05-09
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
