@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[How Fast is 10 Token per Second Really?](https://sukhbinder.wordpress.com/2026/05/21/how-fast-is-10-token-per-second-really/) - 
+
 [ChatGPT Made me Do it](https://sukhbinder.wordpress.com/2026/05/19/chatgpt-made-me-do-it/) - Mon, 18 May 2026 20:38:17 +0000
 
 [Easy is Overrated](https://sukhbinder.wordpress.com/2026/05/17/easy-is-overrated/) - Sun, 17 May 2026 08:12:42 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [How to Correctly use AI](https://sukhbinder.wordpress.com/2026/04/27/how-to-correctly-use-ai/) - Mon, 27 Apr 2026 17:51:44 +0000
 
 [winzy whitelist v.0.1.0 released](https://sukhbinder.wordpress.com/2026/04/18/winzy-whitelist-v-0-1-0-released/) - Sat, 18 Apr 2026 08:20:59 +0000
-
-[Kon a minimal coding harness in python](https://sukhbinder.wordpress.com/2026/04/11/kon-a-minimal-coding-harness-in-python/) - Sat, 11 Apr 2026 17:43:10 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
