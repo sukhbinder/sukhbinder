@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Hyderabad to Bangalore Road trip |Simar punjabi dhaba | Iskon temple | Korean food | #humhairahi](https://www.youtube.com/watch?v=qUch6jnCyVE) - 2026-05-20
 
-[The Vast Ruins of Bidar Fort #shorts](https://www.youtube.com/shorts/tWB6vEgY64o) - 2026-05-19
-
-[Roadtrip India #shorts](https://www.youtube.com/shorts/_oR--0PVuMo) - 2026-05-19
-
-[Openroads Sartaaj's songs Bliss #shorts](https://www.youtube.com/shorts/Wl74MCyZzsQ) - 2026-05-19
-
-[Namdroling Monastery  Kushalnagar kKarnatak#NamdrolingMonastery #shorts](https://www.youtube.com/shorts/Mxh-mu8FBJ8) - 2026-05-18
-
-[KiaSonet #Roadtrip #NammaKarnataka #placestogo #shorts](https://www.youtube.com/shorts/OxXtgnfGebE) - 2026-05-16
-
-[Hussain Sagar Lake| Budhaa Statue | Famous Paradise Biryani Restaurant PCX #humhairahi](https://www.youtube.com/watch?v=kaYYdXb5EE8) - 2026-05-13
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
