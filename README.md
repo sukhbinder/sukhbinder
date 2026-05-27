@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Bangalore to Thalassery Road trip Coorg Gate restuarant PWD Guest house Thalassery #Humhairahi](https://www.youtube.com/watch?v=p1YXnz3mWYM) - 2026-05-27
+
 [Roadtrip from coorg to Bangalore  #shorts #humhairahi # places2go](https://www.youtube.com/shorts/lW3t3l1bONw) - 2026-05-22
 
 [Hyderabad to Bangalore Road trip |Simar punjabi dhaba | Iskon temple | Korean food | #humhairahi](https://www.youtube.com/watch?v=qUch6jnCyVE) - 2026-05-20
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Openroads Sartaaj's songs Bliss #shorts](https://www.youtube.com/shorts/Wl74MCyZzsQ) - 2026-05-19
 
 [Namdroling Monastery  Kushalnagar kKarnatak#NamdrolingMonastery #shorts](https://www.youtube.com/shorts/Mxh-mu8FBJ8) - 2026-05-18
-
-[KiaSonet #Roadtrip #NammaKarnataka #placestogo #shorts](https://www.youtube.com/shorts/OxXtgnfGebE) - 2026-05-16
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
