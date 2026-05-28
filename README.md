@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Breakfast Stop Pakshala Mysore Bangalore Expressway #shorts](https://www.youtube.com/shorts/3TJVtIyVYUQ) - 2026-05-28
+
 [Bangalore to Thalassery Road trip Coorg Gate restuarant PWD Guest house Thalassery #Humhairahi](https://www.youtube.com/watch?v=p1YXnz3mWYM) - 2026-05-27
 
 [Roadtrip from coorg to Bangalore  #shorts #humhairahi # places2go](https://www.youtube.com/shorts/lW3t3l1bONw) - 2026-05-22
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Roadtrip India #shorts](https://www.youtube.com/shorts/_oR--0PVuMo) - 2026-05-19
 
 [Openroads Sartaaj's songs Bliss #shorts](https://www.youtube.com/shorts/Wl74MCyZzsQ) - 2026-05-19
-
-[Namdroling Monastery  Kushalnagar kKarnatak#NamdrolingMonastery #shorts](https://www.youtube.com/shorts/Mxh-mu8FBJ8) - 2026-05-18
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
