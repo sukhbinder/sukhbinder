@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Please Use AI](https://sukhbinder.wordpress.com/2026/05/29/please-use-ai/) - Fri, 29 May 2026 18:14:10 +0000
+
 [Embrace Boredom](https://sukhbinder.wordpress.com/2026/05/25/embrace-boredom/) - Mon, 25 May 2026 10:15:22 +0000
 
 [How Fast is 10 Token per Second Really?](https://sukhbinder.wordpress.com/2026/05/21/how-fast-is-10-token-per-second-really/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Using Gemma-4 locally with kon](https://sukhbinder.wordpress.com/2026/05/04/using-gemma-4-locally-with-kon/) - Mon, 04 May 2026 11:33:00 +0000
 
 [A Better Minimal Coding Agent for me](https://sukhbinder.wordpress.com/2026/05/03/a-better-minimal-coding-agent-for-me/) - Sun, 03 May 2026 09:21:00 +0000
-
-[How to Correctly use AI](https://sukhbinder.wordpress.com/2026/04/27/how-to-correctly-use-ai/) - Mon, 27 Apr 2026 17:51:44 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
