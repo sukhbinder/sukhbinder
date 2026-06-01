@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Payana Car Museum Heritage Cars #shorts](https://www.youtube.com/shorts/XIm8It1hP74) - 2026-06-01
+
 [NH44 Roadtrip #shorts](https://www.youtube.com/shorts/rS5_riiCfU8) - 2026-06-01
 
 [Roadtrip Payana Car Museum #shorts](https://www.youtube.com/shorts/w56tb0nBaPs) - 2026-05-30
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Roadtrip from coorg to Bangalore  #shorts #humhairahi # places2go](https://www.youtube.com/shorts/lW3t3l1bONw) - 2026-05-22
 
 [Hyderabad to Bangalore Road trip |Simar punjabi dhaba | Iskon temple | Korean food | #humhairahi](https://www.youtube.com/watch?v=qUch6jnCyVE) - 2026-05-20
-
-[The Vast Ruins of Bidar Fort #shorts](https://www.youtube.com/shorts/tWB6vEgY64o) - 2026-05-19
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
