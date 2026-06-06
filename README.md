@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[TIL: Fixing error: external filter ‘git-lfs filter-process’ failed](https://sukhbinder.wordpress.com/2026/06/06/til-fixing-error-external-filter-git-lfs-filter-process-failed/) - Sat, 06 Jun 2026 07:41:27 +0000
+
 [The Speed of Prototyping in the Age of AI](https://sukhbinder.wordpress.com/2026/06/02/the-speed-of-prototyping-in-the-age-of-ai/) - Mon, 01 Jun 2026 21:38:47 +0000
 
 [Please Use AI](https://sukhbinder.wordpress.com/2026/05/29/please-use-ai/) - Fri, 29 May 2026 18:14:10 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [llm-llamacpp-plugin](https://sukhbinder.wordpress.com/2026/05/14/llm-llamacpp-plugin/) - 
 
 [10 Lessons for Agentic Coding.](https://sukhbinder.wordpress.com/2026/05/06/10-lessons-for-agentic-coding/) - Wed, 06 May 2026 12:48:00 +0000
-
-[Using Gemma-4 locally with kon](https://sukhbinder.wordpress.com/2026/05/04/using-gemma-4-locally-with-kon/) - Mon, 04 May 2026 11:33:00 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
