@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://sukhbinder.wordpress.com/2026/06/07/ai-enthusiasts-are-in-a-race-against-time-ai-skeptics-are-in-a-race-against-entropy/) - Sun, 07 Jun 2026 07:42:05 +0000
+
 [TIL: Fixing error: external filter ‘git-lfs filter-process’ failed](https://sukhbinder.wordpress.com/2026/06/06/til-fixing-error-external-filter-git-lfs-filter-process-failed/) - Sat, 06 Jun 2026 07:41:27 +0000
 
 [The Speed of Prototyping in the Age of AI](https://sukhbinder.wordpress.com/2026/06/02/the-speed-of-prototyping-in-the-age-of-ai/) - Mon, 01 Jun 2026 21:38:47 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [The Unreasonable Effectiveness of Qwen3.5 4B](https://sukhbinder.wordpress.com/2026/05/16/the-unreasonable-effectiveness-of-qwen3-5-4b/) - Fri, 15 May 2026 19:43:07 +0000
 
 [llm-llamacpp-plugin](https://sukhbinder.wordpress.com/2026/05/14/llm-llamacpp-plugin/) - 
-
-[10 Lessons for Agentic Coding.](https://sukhbinder.wordpress.com/2026/05/06/10-lessons-for-agentic-coding/) - Wed, 06 May 2026 12:48:00 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
