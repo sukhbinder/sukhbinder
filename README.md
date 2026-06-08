@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Learn Once, Use it for 30 years](https://sukhbinder.wordpress.com/2026/06/08/learn-once-use-it-for-30-years/) - Mon, 08 Jun 2026 07:44:39 +0000
+
 [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://sukhbinder.wordpress.com/2026/06/07/ai-enthusiasts-are-in-a-race-against-time-ai-skeptics-are-in-a-race-against-entropy/) - Sun, 07 Jun 2026 07:42:05 +0000
 
 [TIL: Fixing error: external filter ‘git-lfs filter-process’ failed](https://sukhbinder.wordpress.com/2026/06/06/til-fixing-error-external-filter-git-lfs-filter-process-failed/) - Sat, 06 Jun 2026 07:41:27 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Easy is Overrated](https://sukhbinder.wordpress.com/2026/05/17/easy-is-overrated/) - Sun, 17 May 2026 08:12:42 +0000
 
 [The Unreasonable Effectiveness of Qwen3.5 4B](https://sukhbinder.wordpress.com/2026/05/16/the-unreasonable-effectiveness-of-qwen3-5-4b/) - Fri, 15 May 2026 19:43:07 +0000
-
-[llm-llamacpp-plugin](https://sukhbinder.wordpress.com/2026/05/14/llm-llamacpp-plugin/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
