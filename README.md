@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Gadi male di jawae     #shorts](https://www.youtube.com/shorts/Q9stt3KC-u8) - 2026-06-09
+
 [Heritage Cars Trucks Payana Car Museum #shorts](https://www.youtube.com/shorts/3HAKo_gdrwo) - 2026-06-06
 
 [Payana Car Muesum Mysore Iconic Vehicles #shorts](https://www.youtube.com/shorts/Vb0QNq6pvsA) - 2026-06-04
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [NH44 Roadtrip #shorts](https://www.youtube.com/shorts/rS5_riiCfU8) - 2026-06-01
 
 [Roadtrip Payana Car Museum #shorts](https://www.youtube.com/shorts/w56tb0nBaPs) - 2026-05-30
-
-[Breakfast Stop Pakshala Mysore Bangalore Expressway #shorts](https://www.youtube.com/shorts/3TJVtIyVYUQ) - 2026-05-28
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
