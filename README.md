@@ -73,7 +73,19 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Up and Down Museum #Mysore  #Shorts](https://www.youtube.com/shorts/bQ5sqDVy_18) - 2026-06-10
 
+[Sree Peralassery Temple | breakfast |way to muzhappilangad Drive in beach|#humhairahi](https://www.youtube.com/watch?v=brd7RrcVpMc) - 2026-06-10
+
+[Gadi male di jawae     #shorts](https://www.youtube.com/shorts/Q9stt3KC-u8) - 2026-06-09
+
+[Heritage Cars Trucks Payana Car Museum #shorts](https://www.youtube.com/shorts/3HAKo_gdrwo) - 2026-06-06
+
+[Payana Car Muesum Mysore Iconic Vehicles #shorts](https://www.youtube.com/shorts/Vb0QNq6pvsA) - 2026-06-04
+
+[Pwd guest house thalassery fishing harbour thallai beach  pepper palace thalassery #humhairahi](https://www.youtube.com/watch?v=sXUQx5rYglU) - 2026-06-03
+
+[Payana Car Museum Heritage Cars #shorts](https://www.youtube.com/shorts/XIm8It1hP74) - 2026-06-01
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
