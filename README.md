@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[UpDownMuseum a must visit place in mysore](https://www.youtube.com/shorts/V_JtiRnu9Hw) - 2026-06-16
+
 [GRS UpDOwn Museum Mysore#shorts](https://www.youtube.com/shorts/2jX6qXh1ook) - 2026-06-12
 
 [Up and Down Museum #Mysore  #Shorts](https://www.youtube.com/shorts/bQ5sqDVy_18) - 2026-06-10
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Heritage Cars Trucks Payana Car Museum #shorts](https://www.youtube.com/shorts/3HAKo_gdrwo) - 2026-06-06
 
 [Payana Car Muesum Mysore Iconic Vehicles #shorts](https://www.youtube.com/shorts/Vb0QNq6pvsA) - 2026-06-04
-
-[Pwd guest house thalassery fishing harbour thallai beach  pepper palace thalassery #humhairahi](https://www.youtube.com/watch?v=sXUQx5rYglU) - 2026-06-03
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
