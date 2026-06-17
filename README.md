@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[UpDownMuseum a must visit place in mysore](https://www.youtube.com/shorts/V_JtiRnu9Hw) - 2026-06-16
 
-[GRS UpDOwn Museum Mysore#shorts](https://www.youtube.com/shorts/2jX6qXh1ook) - 2026-06-12
-
-[Up and Down Museum #Mysore  #Shorts](https://www.youtube.com/shorts/bQ5sqDVy_18) - 2026-06-10
-
-[Sree Peralassery Temple | breakfast |way to muzhappilangad Drive in beach|#humhairahi](https://www.youtube.com/watch?v=brd7RrcVpMc) - 2026-06-10
-
-[Gadi male di jawae     #shorts](https://www.youtube.com/shorts/Q9stt3KC-u8) - 2026-06-09
-
-[Heritage Cars Trucks Payana Car Museum #shorts](https://www.youtube.com/shorts/3HAKo_gdrwo) - 2026-06-06
-
-[Payana Car Muesum Mysore Iconic Vehicles #shorts](https://www.youtube.com/shorts/Vb0QNq6pvsA) - 2026-06-04
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
