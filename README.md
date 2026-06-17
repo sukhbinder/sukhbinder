@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Charlie’s prescription for life](https://sukhbinder.wordpress.com/2026/06/18/charlies-prescription-for-life/) - Wed, 17 Jun 2026 20:52:25 +0000
+
 [Learn Once, Use it for 30 years](https://sukhbinder.wordpress.com/2026/06/08/learn-once-use-it-for-30-years/) - Mon, 08 Jun 2026 07:44:39 +0000
 
 [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://sukhbinder.wordpress.com/2026/06/07/ai-enthusiasts-are-in-a-race-against-time-ai-skeptics-are-in-a-race-against-entropy/) - Sun, 07 Jun 2026 07:42:05 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [ChatGPT Made me Do it](https://sukhbinder.wordpress.com/2026/05/19/chatgpt-made-me-do-it/) - Mon, 18 May 2026 20:38:17 +0000
 
 [Easy is Overrated](https://sukhbinder.wordpress.com/2026/05/17/easy-is-overrated/) - Sun, 17 May 2026 08:12:42 +0000
-
-[The Unreasonable Effectiveness of Qwen3.5 4B](https://sukhbinder.wordpress.com/2026/05/16/the-unreasonable-effectiveness-of-qwen3-5-4b/) - Fri, 15 May 2026 19:43:07 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
