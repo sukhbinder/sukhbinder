@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[How I Save my Dashcam Videos](https://sukhbinder.wordpress.com/2026/06/21/how-i-save-my-dashcam-videos/) - Sun, 21 Jun 2026 16:50:08 +0000
+
 [Charlie’s prescription for life](https://sukhbinder.wordpress.com/2026/06/18/charlies-prescription-for-life/) - Wed, 17 Jun 2026 20:52:25 +0000
 
 [Learn Once, Use it for 30 years](https://sukhbinder.wordpress.com/2026/06/08/learn-once-use-it-for-30-years/) - Mon, 08 Jun 2026 07:44:39 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [How Fast is 10 Token per Second Really?](https://sukhbinder.wordpress.com/2026/05/21/how-fast-is-10-token-per-second-really/) - 
 
 [ChatGPT Made me Do it](https://sukhbinder.wordpress.com/2026/05/19/chatgpt-made-me-do-it/) - Mon, 18 May 2026 20:38:17 +0000
-
-[Easy is Overrated](https://sukhbinder.wordpress.com/2026/05/17/easy-is-overrated/) - Sun, 17 May 2026 08:12:42 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
