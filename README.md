@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Thallassery Resturant Arabian Sea #shorts](https://www.youtube.com/shorts/Z9e0nWtYUsI) - 2026-06-24
+
 [Muzhappilangad beach to Arakkal Museum Barka resturant St Angelos fort #humhairahi](https://www.youtube.com/watch?v=-no9kLKfWj8) - 2026-06-24
 
 [Unique Museum for Photography  upDown Museum Mysore](https://www.youtube.com/shorts/6hfhPh4ZK2U) - 2026-06-22
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Muzhappilangad Drive In Beach Starfish Arakkal Museum #humhairahi  Asia’s longest drive-in beach](https://www.youtube.com/watch?v=FkeUAYXlKw0) - 2026-06-17
 
 [UpDownMuseum a must visit place in mysore](https://www.youtube.com/shorts/V_JtiRnu9Hw) - 2026-06-16
-
-[GRS UpDOwn Museum Mysore#shorts](https://www.youtube.com/shorts/2jX6qXh1ook) - 2026-06-12
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
