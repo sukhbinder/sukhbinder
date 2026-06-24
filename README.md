@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Unique Museum for Photography  upDown Museum Mysore](https://www.youtube.com/shorts/6hfhPh4ZK2U) - 2026-06-22
 
-[Langar at Gurudwara Nanak Jhira Sahib Ji #shorts](https://www.youtube.com/shorts/INuyvJgNafw) - 2026-06-20
-
-[Longest underwarter Tunnel of india shorts #Mysore](https://www.youtube.com/shorts/kLeD7R2mHW4) - 2026-06-18
-
-[Muzhappilangad Drive In Beach Starfish Arakkal Museum #humhairahi  Asia’s longest drive-in beach](https://www.youtube.com/watch?v=FkeUAYXlKw0) - 2026-06-17
-
-[UpDownMuseum a must visit place in mysore](https://www.youtube.com/shorts/V_JtiRnu9Hw) - 2026-06-16
-
-[GRS UpDOwn Museum Mysore#shorts](https://www.youtube.com/shorts/2jX6qXh1ook) - 2026-06-12
-
-[Up and Down Museum #Mysore  #Shorts](https://www.youtube.com/shorts/bQ5sqDVy_18) - 2026-06-10
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
