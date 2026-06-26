@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Release v0.2.0 of the llm-llamacpp-plugin.](https://sukhbinder.wordpress.com/2026/06/27/release-v0-2-0-of-the-llm-llamacpp-plugin/) - Fri, 26 Jun 2026 20:42:58 +0000
+
 [How I Save my Dashcam Videos](https://sukhbinder.wordpress.com/2026/06/21/how-i-save-my-dashcam-videos/) - Sun, 21 Jun 2026 16:50:08 +0000
 
 [Charlie’s prescription for life](https://sukhbinder.wordpress.com/2026/06/18/charlies-prescription-for-life/) - Wed, 17 Jun 2026 20:52:25 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Embrace Boredom](https://sukhbinder.wordpress.com/2026/05/25/embrace-boredom/) - Mon, 25 May 2026 10:15:22 +0000
 
 [How Fast is 10 Token per Second Really?](https://sukhbinder.wordpress.com/2026/05/21/how-fast-is-10-token-per-second-really/) - 
-
-[ChatGPT Made me Do it](https://sukhbinder.wordpress.com/2026/05/19/chatgpt-made-me-do-it/) - Mon, 18 May 2026 20:38:17 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
