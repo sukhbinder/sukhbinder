@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->173<!-- releases_count ends --> releases across <!-- project_count starts -->68<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->174<!-- releases_count ends --> releases across <!-- project_count starts -->68<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-llamacpp-plugin](https://github.com/sukhbinder/llm-llamacpp-plugin)**: [v0.2.0](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.2.0) - ([4 releases total](https://github.com/sukhbinder/llm-llamacpp-plugin/releases)) - 2026-06-26
+<br />A plugin for LLM providing access to models running on a llama.cpp server
 * **[afrecord-win](https://github.com/sukhbinder/afrecord-win)**: [v0.1.1](https://github.com/sukhbinder/afrecord-win/releases/tag/v0.1.1) - ([2 releases total](https://github.com/sukhbinder/afrecord-win/releases)) - 2026-05-17
 <br />Record sound in cli in windows
-* **[llm-llamacpp-plugin](https://github.com/sukhbinder/llm-llamacpp-plugin)**: [v0.1.2](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.1.2) - ([3 releases total](https://github.com/sukhbinder/llm-llamacpp-plugin/releases)) - 2026-05-10
-<br />A plugin for LLM providing access to models running on a llama.cpp server
 * **[winzy-create-gif](https://github.com/sukhbinder/winzy-create-gif)**: [v0.0.2](https://github.com/sukhbinder/winzy-create-gif/releases/tag/v0.0.2) - ([3 releases total](https://github.com/sukhbinder/winzy-create-gif/releases)) - 2026-05-03
 <br />Create gifs from files in a folder.
 * **[winzy-whitelist](https://github.com/sukhbinder/winzy-whitelist)**: [v0.1.0](https://github.com/sukhbinder/winzy-whitelist/releases/tag/v0.1.0b) - ([4 releases total](https://github.com/sukhbinder/winzy-whitelist/releases)) - 2026-04-18
