@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Parking Snow City Snow city Mysore #shorts](https://www.youtube.com/shorts/0oZWGZLEpTM) - 2026-07-02
+
 [Snow City Mysore Delightful Experience #shorts](https://www.youtube.com/shorts/8tYcVq-p3iM) - 2026-07-01
 
 [St Angelos Fort Payyambalam Sea Pathway Kannur Lighthouse tellicherry restaurant #humhairahi](https://www.youtube.com/watch?v=M5ZRcFb-yLk) - 2026-07-01
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Muzhappilangad beach to Arakkal Museum Barka resturant St Angelos fort #humhairahi](https://www.youtube.com/watch?v=-no9kLKfWj8) - 2026-06-24
 
 [Unique Museum for Photography  upDown Museum Mysore](https://www.youtube.com/shorts/6hfhPh4ZK2U) - 2026-06-22
-
-[Langar at Gurudwara Nanak Jhira Sahib Ji #shorts](https://www.youtube.com/shorts/INuyvJgNafw) - 2026-06-20
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
