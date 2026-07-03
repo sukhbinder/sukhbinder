@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->174<!-- releases_count ends --> releases across <!-- project_count starts -->68<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->175<!-- releases_count ends --> releases across <!-- project_count starts -->68<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[screenrecord](https://github.com/sukhbinder/screenrecord)**: [v1.2.0](https://github.com/sukhbinder/screenrecord/releases/tag/1.2.0) - ([7 releases total](https://github.com/sukhbinder/screenrecord/releases)) - 2026-07-03
+<br />Record screen with python.
 * **[llm-llamacpp-plugin](https://github.com/sukhbinder/llm-llamacpp-plugin)**: [v0.2.0](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.2.0) - ([4 releases total](https://github.com/sukhbinder/llm-llamacpp-plugin/releases)) - 2026-06-26
 <br />A plugin for LLM providing access to models running on a llama.cpp server
 * **[afrecord-win](https://github.com/sukhbinder/afrecord-win)**: [v0.1.1](https://github.com/sukhbinder/afrecord-win/releases/tag/v0.1.1) - ([2 releases total](https://github.com/sukhbinder/afrecord-win/releases)) - 2026-05-17
@@ -71,8 +73,6 @@ Listing <!-- releases_count starts -->174<!-- releases_count ends --> releases a
 <br />A python app to serve smOllama - lightweight web browser chatbot interface for Ollama models
 * **[winzy-days-from](https://github.com/sukhbinder/winzy-days-from)**: [](https://github.com/sukhbinder/winzy-days-from/releases/tag/v0.0.1) - 2025-04-04
 <br />Calculate a future date based on a given date and number of days.
-* **[screenrecord](https://github.com/sukhbinder/screenrecord)**: [](https://github.com/sukhbinder/screenrecord/releases/tag/v1.1.3a) - ([6 releases total](https://github.com/sukhbinder/screenrecord/releases)) - 2025-03-29
-<br />Record screen with python.
 * **[duckduckgo-ai-chat](https://github.com/sukhbinder/duckduckgo-ai-chat)**: [](https://github.com/sukhbinder/duckduckgo-ai-chat/releases/tag/v0.0.8a) - ([9 releases total](https://github.com/sukhbinder/duckduckgo-ai-chat/releases)) - 2025-03-28
 <br />A CLI to access DuckDuckGo ai chat service from terminal
 * **[llm-duckduckgo-chat](https://github.com/sukhbinder/llm-duckduckgo-chat)**: [Version v0.1.6  plugin](https://github.com/sukhbinder/llm-duckduckgo-chat/releases/tag/v0.1.6) - ([7 releases total](https://github.com/sukhbinder/llm-duckduckgo-chat/releases)) - 2025-03-26

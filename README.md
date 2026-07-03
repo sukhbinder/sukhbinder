@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[screenrecord v1.2.0](https://github.com/sukhbinder/screenrecord/releases/tag/1.2.0) - 2026-07-03
+
 [llm-llamacpp-plugin v0.2.0](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.2.0) - 2026-06-26
 
 [afrecord-win v0.1.1](https://github.com/sukhbinder/afrecord-win/releases/tag/v0.1.1) - 2026-05-17
@@ -40,14 +42,14 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [winzy-get-the-file v0.0.1](https://github.com/sukhbinder/winzy-get-the-file/releases/tag/v0.0.1) - 2026-01-20
 
 [llm-embed-ollama v0.1.3](https://github.com/sukhbinder/llm-embed-ollama/releases/tag/v0.1.3) - 2026-01-20
-
-[vidtoolz-colored-textclip v0.0.2](https://github.com/sukhbinder/vidtoolz-colored-textclip/releases/tag/v0.0.2) - 2026-01-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[screenrecord v1.2.0](https://sukhbinder.wordpress.com/2026/07/03/screenrecord-v1-2-0/) - Fri, 03 Jul 2026 10:42:38 +0000
+
 [Release v0.2.0 of the llm-llamacpp-plugin.](https://sukhbinder.wordpress.com/2026/06/27/release-v0-2-0-of-the-llm-llamacpp-plugin/) - Fri, 26 Jun 2026 20:42:58 +0000
 
 [How I Save my Dashcam Videos](https://sukhbinder.wordpress.com/2026/06/21/how-i-save-my-dashcam-videos/) - Sun, 21 Jun 2026 16:50:08 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Please Use AI](https://sukhbinder.wordpress.com/2026/05/29/please-use-ai/) - Fri, 29 May 2026 18:14:10 +0000
 
 [Embrace Boredom](https://sukhbinder.wordpress.com/2026/05/25/embrace-boredom/) - Mon, 25 May 2026 10:15:22 +0000
-
-[How Fast is 10 Token per Second Really?](https://sukhbinder.wordpress.com/2026/05/21/how-fast-is-10-token-per-second-really/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
