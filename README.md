@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Snow City Mysore Fun for Kids Worth for one time Experience #shorts](https://www.youtube.com/shorts/FpwAfaom1xw) - 2026-07-06
 
-[Watch our day 2 in Mysore #shorts](https://www.youtube.com/shorts/ddeR-NB_Xf0) - 2026-07-04
-
-[Parking Snow City Snow city Mysore #shorts](https://www.youtube.com/shorts/0oZWGZLEpTM) - 2026-07-02
-
-[Snow City Mysore Delightful Experience #shorts](https://www.youtube.com/shorts/8tYcVq-p3iM) - 2026-07-01
-
-[St Angelos Fort Payyambalam Sea Pathway Kannur Lighthouse tellicherry restaurant #humhairahi](https://www.youtube.com/watch?v=M5ZRcFb-yLk) - 2026-07-01
-
-[Aquaworld Mysore #shorts #humhairahi](https://www.youtube.com/shorts/4oTPJmnpxRM) - 2026-06-28
-
-[Thallassery Resturant Arabian Sea #shorts](https://www.youtube.com/shorts/Z9e0nWtYUsI) - 2026-06-24
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
