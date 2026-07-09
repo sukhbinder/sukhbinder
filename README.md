@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[An Unpublished Policy is Not a Policy](https://sukhbinder.wordpress.com/2026/07/09/an-unpublished-policy-is-not-a-policy/) - 
+
 [The Short Leash AI Coding Method For Beating Fable](https://sukhbinder.wordpress.com/2026/07/03/the-short-leash-ai-coding-method-for-beating-fable/) - Fri, 03 Jul 2026 15:01:49 +0000
 
 [screenrecord v1.2.0](https://sukhbinder.wordpress.com/2026/07/03/screenrecord-v1-2-0/) - Fri, 03 Jul 2026 10:42:38 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [TIL: Fixing error: external filter ‘git-lfs filter-process’ failed](https://sukhbinder.wordpress.com/2026/06/06/til-fixing-error-external-filter-git-lfs-filter-process-failed/) - Sat, 06 Jun 2026 07:41:27 +0000
 
 [The Speed of Prototyping in the Age of AI](https://sukhbinder.wordpress.com/2026/06/02/the-speed-of-prototyping-in-the-age-of-ai/) - Mon, 01 Jun 2026 21:38:47 +0000
-
-[Please Use AI](https://sukhbinder.wordpress.com/2026/05/29/please-use-ai/) - Fri, 29 May 2026 18:14:10 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
