@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Infosys Mysore ECC #mysore #shorts](https://www.youtube.com/shorts/os1m8qV3E_E) - 2026-07-12
+
 [Snow City Mysore Fun for Everyone #shorts](https://www.youtube.com/shorts/Ue_-g5YMG8w) - 2026-07-10
 
 [Sundareswara Temple | Payyambalam Beach | Route to Pet station #placestosee #kannur #humhairahi](https://www.youtube.com/watch?v=NbktZ-M6vv0) - 2026-07-08
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Parking Snow City Snow city Mysore #shorts](https://www.youtube.com/shorts/0oZWGZLEpTM) - 2026-07-02
 
 [Snow City Mysore Delightful Experience #shorts](https://www.youtube.com/shorts/8tYcVq-p3iM) - 2026-07-01
-
-[St Angelos Fort Payyambalam Sea Pathway Kannur Lighthouse tellicherry restaurant #humhairahi](https://www.youtube.com/watch?v=M5ZRcFb-yLk) - 2026-07-01
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
