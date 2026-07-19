@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[AI Mania and Decision Making…](https://sukhbinder.wordpress.com/2026/07/19/ai-mania-and-decision-making/) - Sun, 19 Jul 2026 08:20:04 +0000
+
 [What AI did to stackoverflow in a graph](https://sukhbinder.wordpress.com/2026/07/18/what-ai-did-to-stackoverflow-in-a-graph/) - Sat, 18 Jul 2026 15:58:45 +0000
 
 [Code for the people](https://sukhbinder.wordpress.com/2026/07/15/code-for-the-people/) - Wed, 15 Jul 2026 06:18:30 +0000
@@ -65,15 +67,25 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [How I Save my Dashcam Videos](https://sukhbinder.wordpress.com/2026/06/21/how-i-save-my-dashcam-videos/) - Sun, 21 Jun 2026 16:50:08 +0000
 
 [Charlie’s prescription for life](https://sukhbinder.wordpress.com/2026/06/18/charlies-prescription-for-life/) - Wed, 17 Jun 2026 20:52:25 +0000
-
-[Learn Once, Use it for 30 years](https://sukhbinder.wordpress.com/2026/06/08/learn-once-use-it-for-30-years/) - Mon, 08 Jun 2026 07:44:39 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
+[Infosys Mysore ECC Campus #shorts](https://www.youtube.com/shorts/gf5_ZCm6Ja0) - 2026-07-18
 
+[Infosys Mysore Campus #shorts](https://www.youtube.com/shorts/Spt8ItM3Xus) - 2026-07-16
+
+[Pet Station kannur |  Kayal Theeram Restaurant #places2see #kannur #kids #humhairahi #fish](https://www.youtube.com/watch?v=fAER5Bu4F1A) - 2026-07-15
+
+[Infosys Mysore ECC #mysore #shorts](https://www.youtube.com/shorts/os1m8qV3E_E) - 2026-07-12
+
+[Snow City Mysore Fun for Everyone #shorts](https://www.youtube.com/shorts/Ue_-g5YMG8w) - 2026-07-10
+
+[Sundareswara Temple | Payyambalam Beach | Route to Pet station #placestosee #kannur #humhairahi](https://www.youtube.com/watch?v=NbktZ-M6vv0) - 2026-07-08
+
+[Snow City Mysore Fun for Kids Worth for one time Experience #shorts](https://www.youtube.com/shorts/FpwAfaom1xw) - 2026-07-06
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
