@@ -73,7 +73,19 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Karadiyur View Point Yercaud #shorts](https://www.youtube.com/shorts/rxJ6Bo16ZgM) - 2026-07-19
 
+[Infosys Mysore ECC Campus #shorts](https://www.youtube.com/shorts/gf5_ZCm6Ja0) - 2026-07-18
+
+[Infosys Mysore Campus #shorts](https://www.youtube.com/shorts/Spt8ItM3Xus) - 2026-07-16
+
+[Pet Station kannur |  Kayal Theeram Restaurant #places2see #kannur #kids #humhairahi #fish](https://www.youtube.com/watch?v=fAER5Bu4F1A) - 2026-07-15
+
+[Infosys Mysore ECC #mysore #shorts](https://www.youtube.com/shorts/os1m8qV3E_E) - 2026-07-12
+
+[Snow City Mysore Fun for Everyone #shorts](https://www.youtube.com/shorts/Ue_-g5YMG8w) - 2026-07-10
+
+[Sundareswara Temple | Payyambalam Beach | Route to Pet station #placestosee #kannur #humhairahi](https://www.youtube.com/watch?v=NbktZ-M6vv0) - 2026-07-08
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
