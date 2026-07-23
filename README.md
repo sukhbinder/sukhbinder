@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[vidtoolz v0.1.5](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.5) - 2026-07-23
+
 [screenrecord v1.2.0](https://github.com/sukhbinder/screenrecord/releases/tag/1.2.0) - 2026-07-03
 
 [llm-llamacpp-plugin v0.2.0](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.2.0) - 2026-06-26
@@ -40,14 +42,14 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [pyschtasks v0.1.1](https://github.com/sukhbinder/pyschtasks/releases/tag/v0.1.1) - 2026-01-22
 
 [winzy-get-the-file v0.0.1](https://github.com/sukhbinder/winzy-get-the-file/releases/tag/v0.0.1) - 2026-01-20
-
-[llm-embed-ollama v0.1.3](https://github.com/sukhbinder/llm-embed-ollama/releases/tag/v0.1.3) - 2026-01-20
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[Vidtoolz v0.1.5: Windows Support and Bug Fixes](https://sukhbinder.wordpress.com/2026/07/23/vidtoolz-v0-1-5-windows-support-and-bug-fixes/) - 
+
 [AI Mania and Decision Making…](https://sukhbinder.wordpress.com/2026/07/19/ai-mania-and-decision-making/) - Sun, 19 Jul 2026 08:20:04 +0000
 
 [What AI did to stackoverflow in a graph](https://sukhbinder.wordpress.com/2026/07/18/what-ai-did-to-stackoverflow-in-a-graph/) - Sat, 18 Jul 2026 15:58:45 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Release v0.2.0 of the llm-llamacpp-plugin.](https://sukhbinder.wordpress.com/2026/06/27/release-v0-2-0-of-the-llm-llamacpp-plugin/) - Fri, 26 Jun 2026 20:42:58 +0000
 
 [How I Save my Dashcam Videos](https://sukhbinder.wordpress.com/2026/06/21/how-i-save-my-dashcam-videos/) - Sun, 21 Jun 2026 16:50:08 +0000
-
-[Charlie’s prescription for life](https://sukhbinder.wordpress.com/2026/06/18/charlies-prescription-for-life/) - Wed, 17 Jun 2026 20:52:25 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">

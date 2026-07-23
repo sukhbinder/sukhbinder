@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->175<!-- releases_count ends --> releases across <!-- project_count starts -->68<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->176<!-- releases_count ends --> releases across <!-- project_count starts -->68<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [v0.1.5](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.5) - ([6 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2026-07-23
+<br />CLI tools for editing videos in python. A plugin based approach.
 * **[screenrecord](https://github.com/sukhbinder/screenrecord)**: [v1.2.0](https://github.com/sukhbinder/screenrecord/releases/tag/1.2.0) - ([7 releases total](https://github.com/sukhbinder/screenrecord/releases)) - 2026-07-03
 <br />Record screen with python.
 * **[llm-llamacpp-plugin](https://github.com/sukhbinder/llm-llamacpp-plugin)**: [v0.2.0](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.2.0) - ([4 releases total](https://github.com/sukhbinder/llm-llamacpp-plugin/releases)) - 2026-06-26
@@ -49,8 +51,6 @@ Listing <!-- releases_count starts -->175<!-- releases_count ends --> releases a
 <br />Extract text from a given pdf
 * **[winzy-convert](https://github.com/sukhbinder/winzy-convert)**: [winzy convert v0.0.2](https://github.com/sukhbinder/winzy-convert/releases/tag/v0.0.2) - ([2 releases total](https://github.com/sukhbinder/winzy-convert/releases)) - 2025-07-16
 <br />Mimic's convert to convert images to pdf, ppt etc.
-* **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [v0.1.4](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.4) - ([5 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2025-07-12
-<br />CLI tools for editing videos in python. A plugin based approach.
 * **[vidtoolz-intro](https://github.com/sukhbinder/vidtoolz-intro)**: [](https://github.com/sukhbinder/vidtoolz-intro/releases/tag/v0.1.1) - 2025-07-03
 <br />Create intro video from a series of videos
 * **[winzy-selected-file](https://github.com/sukhbinder/winzy-selected-file)**: [v0.1.0](https://github.com/sukhbinder/winzy-selected-file/releases/tag/v0.1.0) - 2025-06-28
