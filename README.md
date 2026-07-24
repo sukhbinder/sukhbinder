@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[AI and our Skills](https://sukhbinder.wordpress.com/2026/07/24/ai-and-our-skills/) - Fri, 24 Jul 2026 18:45:55 +0000
+
 [Vidtoolz v0.1.5: Windows Support and Bug Fixes](https://sukhbinder.wordpress.com/2026/07/23/vidtoolz-v0-1-5-windows-support-and-bug-fixes/) - 
 
 [AI Mania and Decision Making…](https://sukhbinder.wordpress.com/2026/07/19/ai-mania-and-decision-making/) - Sun, 19 Jul 2026 08:20:04 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [screenrecord v1.2.0](https://sukhbinder.wordpress.com/2026/07/03/screenrecord-v1-2-0/) - Fri, 03 Jul 2026 10:42:38 +0000
 
 [Release v0.2.0 of the llm-llamacpp-plugin.](https://sukhbinder.wordpress.com/2026/06/27/release-v0-2-0-of-the-llm-llamacpp-plugin/) - Fri, 26 Jun 2026 20:42:58 +0000
-
-[How I Save my Dashcam Videos](https://sukhbinder.wordpress.com/2026/06/21/how-i-save-my-dashcam-videos/) - Sun, 21 Jun 2026 16:50:08 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
