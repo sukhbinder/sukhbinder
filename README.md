@@ -73,7 +73,19 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Things to do in Mysore Watch the full video on the channel #shorts](https://www.youtube.com/shorts/zt0k86HvSlc) - 2026-07-22
 
+[Chottad Beach | Chottad Beach park | Places to see with kids kannur #humhairahi](https://www.youtube.com/watch?v=5qjSQPbIEnE) - 2026-07-22
+
+[Karadiyur View Point Yercaud #shorts](https://www.youtube.com/shorts/rxJ6Bo16ZgM) - 2026-07-19
+
+[Infosys Mysore ECC Campus #shorts](https://www.youtube.com/shorts/gf5_ZCm6Ja0) - 2026-07-18
+
+[Infosys Mysore Campus #shorts](https://www.youtube.com/shorts/Spt8ItM3Xus) - 2026-07-16
+
+[Pet Station kannur |  Kayal Theeram Restaurant #places2see #kannur #kids #humhairahi #fish](https://www.youtube.com/watch?v=fAER5Bu4F1A) - 2026-07-15
+
+[Infosys Mysore ECC #mysore #shorts](https://www.youtube.com/shorts/os1m8qV3E_E) - 2026-07-12
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
