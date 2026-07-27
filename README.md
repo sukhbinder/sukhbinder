@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[vidtoolz-beats v0.1.1](https://github.com/sukhbinder/vidtoolz-beats/releases/tag/v0.1.1) - 2026-07-27
+
 [vidtoolz v0.1.5](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.5) - 2026-07-23
 
 [screenrecord v1.2.0](https://github.com/sukhbinder/screenrecord/releases/tag/1.2.0) - 2026-07-03
@@ -40,8 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [audiobook-player v0.0.1](https://github.com/sukhbinder/audiobook-player/releases/tag/v0.0.1) - 2026-01-31
 
 [pyschtasks v0.1.1](https://github.com/sukhbinder/pyschtasks/releases/tag/v0.1.1) - 2026-01-22
-
-[winzy-get-the-file v0.0.1](https://github.com/sukhbinder/winzy-get-the-file/releases/tag/v0.0.1) - 2026-01-20
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">

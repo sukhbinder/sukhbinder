@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->176<!-- releases_count ends --> releases across <!-- project_count starts -->68<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->177<!-- releases_count ends --> releases across <!-- project_count starts -->68<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[vidtoolz-beats](https://github.com/sukhbinder/vidtoolz-beats)**: [v0.1.1](https://github.com/sukhbinder/vidtoolz-beats/releases/tag/v0.1.1) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-beats/releases)) - 2026-07-27
+<br />Get beats from a mp3 song
 * **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [v0.1.5](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.5) - ([6 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2026-07-23
 <br />CLI tools for editing videos in python. A plugin based approach.
 * **[screenrecord](https://github.com/sukhbinder/screenrecord)**: [v1.2.0](https://github.com/sukhbinder/screenrecord/releases/tag/1.2.0) - ([7 releases total](https://github.com/sukhbinder/screenrecord/releases)) - 2026-07-03
@@ -89,8 +91,6 @@ Listing <!-- releases_count starts -->176<!-- releases_count ends --> releases a
 <br />Run tasks in loop from cli
 * **[winzy-macos-reminder](https://github.com/sukhbinder/winzy-macos-reminder)**: [v0.0.3 release](https://github.com/sukhbinder/winzy-macos-reminder/releases/tag/v0.0.3) - ([3 releases total](https://github.com/sukhbinder/winzy-macos-reminder/releases)) - 2025-01-08
 <br />Create Reminders in macos with cli
-* **[vidtoolz-beats](https://github.com/sukhbinder/vidtoolz-beats)**: [](https://github.com/sukhbinder/vidtoolz-beats/releases/tag/v0.0.1) - 2025-01-08
-<br />Get beats from a mp3 song
 * **[never-sleep](https://github.com/sukhbinder/never-sleep)**: [](https://github.com/sukhbinder/never-sleep/releases/tag/v0.0.1) - 2025-01-08
 <br />Never let the windows system sleep
 * **[winzy-head-tail](https://github.com/sukhbinder/winzy-head-tail)**: [v0.0.1](https://github.com/sukhbinder/winzy-head-tail/releases/tag/v0.0.1) - 2024-12-21
