@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Horizontal or Vertical](https://sukhbinder.wordpress.com/2026/07/29/horizontal-or-vertical/) - Wed, 29 Jul 2026 05:26:14 +0000
+
 [AI and our Skills](https://sukhbinder.wordpress.com/2026/07/24/ai-and-our-skills/) - Fri, 24 Jul 2026 18:45:55 +0000
 
 [Vidtoolz v0.1.5: Windows Support and Bug Fixes](https://sukhbinder.wordpress.com/2026/07/23/vidtoolz-v0-1-5-windows-support-and-bug-fixes/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [The Short Leash AI Coding Method For Beating Fable](https://sukhbinder.wordpress.com/2026/07/03/the-short-leash-ai-coding-method-for-beating-fable/) - Fri, 03 Jul 2026 15:01:49 +0000
 
 [screenrecord v1.2.0](https://sukhbinder.wordpress.com/2026/07/03/screenrecord-v1-2-0/) - Fri, 03 Jul 2026 10:42:38 +0000
-
-[Release v0.2.0 of the llm-llamacpp-plugin.](https://sukhbinder.wordpress.com/2026/06/27/release-v0-2-0-of-the-llm-llamacpp-plugin/) - Fri, 26 Jun 2026 20:42:58 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
