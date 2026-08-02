@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Climbing Stairs](https://sukhbinder.wordpress.com/2026/08/02/climbing-stairs/) - Sun, 02 Aug 2026 08:33:29 +0000
+
 [How can you avoid being replaced by an AI?](https://sukhbinder.wordpress.com/2026/07/30/how-can-you-avoid-being-replaced-by-an-ai/) - 
 
 [Horizontal or Vertical](https://sukhbinder.wordpress.com/2026/07/29/horizontal-or-vertical/) - Wed, 29 Jul 2026 05:26:14 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [We build…](https://sukhbinder.wordpress.com/2026/07/13/we-build/) - Mon, 13 Jul 2026 17:13:49 +0000
 
 [An Unpublished Policy is Not a Policy](https://sukhbinder.wordpress.com/2026/07/09/an-unpublished-policy-is-not-a-policy/) - 
-
-[The Short Leash AI Coding Method For Beating Fable](https://sukhbinder.wordpress.com/2026/07/03/the-short-leash-ai-coding-method-for-beating-fable/) - Fri, 03 Jul 2026 15:01:49 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
