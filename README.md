@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[ECC Mysore Infosys #shorts](https://www.youtube.com/shorts/PY3xcjvla3w) - 2026-08-02
+
 [Tipu Sultan summer Palace Sreerangapatna #shorts](https://www.youtube.com/shorts/hUSrapI4WsM) - 2026-07-31
 
 [Gurudwara Sahib Mysore Singh Sabha Gurudwara Mysore #shorts](https://www.youtube.com/shorts/mZAmafzx5bU) - 2026-07-30
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Things to do in Mysore Watch the full video on the channel #shorts](https://www.youtube.com/shorts/zt0k86HvSlc) - 2026-07-22
 
 [Chottad Beach | Chottad Beach park | Places to see with kids kannur #humhairahi](https://www.youtube.com/watch?v=5qjSQPbIEnE) - 2026-07-22
-
-[Karadiyur View Point Yercaud #shorts](https://www.youtube.com/shorts/rxJ6Bo16ZgM) - 2026-07-19
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
