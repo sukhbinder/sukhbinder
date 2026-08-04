@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Entropy is always winning](https://sukhbinder.wordpress.com/2026/08/04/entropy-is-always-winning/) - 
+
 [Climbing Stairs](https://sukhbinder.wordpress.com/2026/08/02/climbing-stairs/) - Sun, 02 Aug 2026 08:33:29 +0000
 
 [How can you avoid being replaced by an AI?](https://sukhbinder.wordpress.com/2026/07/30/how-can-you-avoid-being-replaced-by-an-ai/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Code for the people](https://sukhbinder.wordpress.com/2026/07/15/code-for-the-people/) - Wed, 15 Jul 2026 06:18:30 +0000
 
 [We build…](https://sukhbinder.wordpress.com/2026/07/13/we-build/) - Mon, 13 Jul 2026 17:13:49 +0000
-
-[An Unpublished Policy is Not a Policy](https://sukhbinder.wordpress.com/2026/07/09/an-unpublished-policy-is-not-a-policy/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
