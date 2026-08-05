@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Work and the Gym](https://sukhbinder.wordpress.com/2026/08/05/work-and-the-gym/) - Wed, 05 Aug 2026 08:38:20 +0000
+
 [Entropy is always winning](https://sukhbinder.wordpress.com/2026/08/04/entropy-is-always-winning/) - 
 
 [Climbing Stairs](https://sukhbinder.wordpress.com/2026/08/02/climbing-stairs/) - Sun, 02 Aug 2026 08:33:29 +0000
@@ -65,15 +67,25 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [What AI did to stackoverflow in a graph](https://sukhbinder.wordpress.com/2026/07/18/what-ai-did-to-stackoverflow-in-a-graph/) - Sat, 18 Jul 2026 15:58:45 +0000
 
 [Code for the people](https://sukhbinder.wordpress.com/2026/07/15/code-for-the-people/) - Wed, 15 Jul 2026 06:18:30 +0000
-
-[We build…](https://sukhbinder.wordpress.com/2026/07/13/we-build/) - Mon, 13 Jul 2026 17:13:49 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
+[Sheeba Restaurant  Mahe beach  Puducherry  Union Territory  Tagore park Mahe  Lighthouse in Mahe](https://www.youtube.com/watch?v=bCzFl4KXgxI) - 2026-08-05
 
+[Infosys Campus Food court 7 #yummy #shorts](https://www.youtube.com/shorts/XDzDznBdlLw) - 2026-08-04
+
+[ECC Mysore Infosys #shorts](https://www.youtube.com/shorts/PY3xcjvla3w) - 2026-08-02
+
+[Tipu Sultan summer Palace Sreerangapatna #shorts](https://www.youtube.com/shorts/hUSrapI4WsM) - 2026-07-31
+
+[Gurudwara Sahib Mysore Singh Sabha Gurudwara Mysore #shorts](https://www.youtube.com/shorts/mZAmafzx5bU) - 2026-07-30
+
+[Adventures Coming Over Next Few Months #humhairahi](https://www.youtube.com/watch?v=mnmZn-ZbplA) - 2026-07-29
+
+[Tipu Sultan Summer Palace Entrance #shorts](https://www.youtube.com/shorts/cKNm4652hns) - 2026-07-28
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
