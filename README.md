@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Sheeba Restaurant  Mahe beach  Puducherry  Union Territory  Tagore park Mahe  Lighthouse in Mahe](https://www.youtube.com/watch?v=bCzFl4KXgxI) - 2026-08-05
 
-[Infosys Campus Food court 7 #yummy #shorts](https://www.youtube.com/shorts/XDzDznBdlLw) - 2026-08-04
-
-[ECC Mysore Infosys #shorts](https://www.youtube.com/shorts/PY3xcjvla3w) - 2026-08-02
-
-[Tipu Sultan summer Palace Sreerangapatna #shorts](https://www.youtube.com/shorts/hUSrapI4WsM) - 2026-07-31
-
-[Gurudwara Sahib Mysore Singh Sabha Gurudwara Mysore #shorts](https://www.youtube.com/shorts/mZAmafzx5bU) - 2026-07-30
-
-[Adventures Coming Over Next Few Months #humhairahi](https://www.youtube.com/watch?v=mnmZn-ZbplA) - 2026-07-29
-
-[Tipu Sultan Summer Palace Entrance #shorts](https://www.youtube.com/shorts/cKNm4652hns) - 2026-07-28
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
