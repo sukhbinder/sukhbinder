@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->177<!-- releases_count ends --> releases across <!-- project_count starts -->68<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->178<!-- releases_count ends --> releases across <!-- project_count starts -->69<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[winzy-optimize-image](https://github.com/sukhbinder/winzy-optimize-image)**: [v0.1.0](https://github.com/sukhbinder/winzy-optimize-image/releases/tag/v0.1.0) - 2026-08-07
+<br />Optimize image using python
 * **[vidtoolz-beats](https://github.com/sukhbinder/vidtoolz-beats)**: [v0.1.1](https://github.com/sukhbinder/vidtoolz-beats/releases/tag/v0.1.1) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-beats/releases)) - 2026-07-27
 <br />Get beats from a mp3 song
 * **[vidtoolz](https://github.com/sukhbinder/vidtoolz)**: [v0.1.5](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.5) - ([6 releases total](https://github.com/sukhbinder/vidtoolz/releases)) - 2026-07-23

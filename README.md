@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[winzy-optimize-image v0.1.0](https://github.com/sukhbinder/winzy-optimize-image/releases/tag/v0.1.0) - 2026-08-07
+
 [vidtoolz-beats v0.1.1](https://github.com/sukhbinder/vidtoolz-beats/releases/tag/v0.1.1) - 2026-07-27
 
 [vidtoolz v0.1.5](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.5) - 2026-07-23
@@ -40,14 +42,14 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [afplay-win v0.0.2](https://github.com/sukhbinder/afplay-win/releases/tag/v0.0.2) - 2026-02-03
 
 [audiobook-player v0.0.1](https://github.com/sukhbinder/audiobook-player/releases/tag/v0.0.1) - 2026-01-31
-
-[pyschtasks v0.1.1](https://github.com/sukhbinder/pyschtasks/releases/tag/v0.1.1) - 2026-01-22
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[AI isn’t a chef. At best, it’s a steak machine.](https://sukhbinder.wordpress.com/2026/08/07/ai-isnt-a-chef-at-best-its-a-steak-machine/) - Fri, 07 Aug 2026 06:29:38 +0000
+
 [Work and the Gym](https://sukhbinder.wordpress.com/2026/08/05/work-and-the-gym/) - Wed, 05 Aug 2026 08:38:20 +0000
 
 [Entropy is always winning](https://sukhbinder.wordpress.com/2026/08/04/entropy-is-always-winning/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [AI Mania and Decision Making…](https://sukhbinder.wordpress.com/2026/07/19/ai-mania-and-decision-making/) - Sun, 19 Jul 2026 08:20:04 +0000
 
 [What AI did to stackoverflow in a graph](https://sukhbinder.wordpress.com/2026/07/18/what-ai-did-to-stackoverflow-in-a-graph/) - Sat, 18 Jul 2026 15:58:45 +0000
-
-[Code for the people](https://sukhbinder.wordpress.com/2026/07/15/code-for-the-people/) - Wed, 15 Jul 2026 06:18:30 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
