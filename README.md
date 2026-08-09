@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Servarayankovil Temple Yercaud #shorts](https://www.youtube.com/shorts/DUyz29HLMq4) - 2026-08-09
+
 [Infosys Mysore ECC #shorts](https://www.youtube.com/shorts/-FY7szb1U1o) - 2026-08-06
 
 [Sheeba Restaurant  Mahe beach  Puducherry  Union Territory  Tagore park Mahe  Lighthouse in Mahe](https://www.youtube.com/watch?v=bCzFl4KXgxI) - 2026-08-05
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Tipu Sultan summer Palace Sreerangapatna #shorts](https://www.youtube.com/shorts/hUSrapI4WsM) - 2026-07-31
 
 [Gurudwara Sahib Mysore Singh Sabha Gurudwara Mysore #shorts](https://www.youtube.com/shorts/mZAmafzx5bU) - 2026-07-30
-
-[Adventures Coming Over Next Few Months #humhairahi](https://www.youtube.com/watch?v=mnmZn-ZbplA) - 2026-07-29
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
