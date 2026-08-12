@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Mahe to Banglore roadtrip | Lunch at Coorg gate | Dinner@burger king | Roadtrip | Kannur #humhairahi](https://www.youtube.com/watch?v=giEPOvbhClA) - 2026-08-12
+
 [Breakfast Break Murugan Idli #shorts](https://www.youtube.com/shorts/ZuaTqhUawKg) - 2026-08-11
 
 [Servarayankovil Temple Yercaud #shorts](https://www.youtube.com/shorts/DUyz29HLMq4) - 2026-08-09
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Infosys Campus Food court 7 #yummy #shorts](https://www.youtube.com/shorts/XDzDznBdlLw) - 2026-08-04
 
 [ECC Mysore Infosys #shorts](https://www.youtube.com/shorts/PY3xcjvla3w) - 2026-08-02
-
-[Tipu Sultan summer Palace Sreerangapatna #shorts](https://www.youtube.com/shorts/hUSrapI4WsM) - 2026-07-31
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
