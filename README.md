@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Lady suddenely run on busy NH highway #shorts](https://www.youtube.com/shorts/syFHycyL-Aw) - 2026-08-13
 
-[Mahe to Banglore roadtrip | Lunch at Coorg gate | Dinner@burger king | Roadtrip | Kannur #humhairahi](https://www.youtube.com/watch?v=giEPOvbhClA) - 2026-08-12
-
-[Breakfast Break Murugan Idli #shorts](https://www.youtube.com/shorts/ZuaTqhUawKg) - 2026-08-11
-
-[Servarayankovil Temple Yercaud #shorts](https://www.youtube.com/shorts/DUyz29HLMq4) - 2026-08-09
-
-[Infosys Mysore ECC #shorts](https://www.youtube.com/shorts/-FY7szb1U1o) - 2026-08-06
-
-[Sheeba Restaurant  Mahe beach  Puducherry  Union Territory  Tagore park Mahe  Lighthouse in Mahe](https://www.youtube.com/watch?v=bCzFl4KXgxI) - 2026-08-05
-
-[Infosys Campus Food court 7 #yummy #shorts](https://www.youtube.com/shorts/XDzDznBdlLw) - 2026-08-04
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
