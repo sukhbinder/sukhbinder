@@ -48,7 +48,25 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[AI isn’t a chef. At best, it’s a steak machine.](https://sukhbinder.wordpress.com/2026/08/07/ai-isnt-a-chef-at-best-its-a-steak-machine/) - Fri, 07 Aug 2026 06:29:38 +0000
 
+[Work and the Gym](https://sukhbinder.wordpress.com/2026/08/05/work-and-the-gym/) - Wed, 05 Aug 2026 08:38:20 +0000
+
+[Entropy is always winning](https://sukhbinder.wordpress.com/2026/08/04/entropy-is-always-winning/) - 
+
+[Climbing Stairs](https://sukhbinder.wordpress.com/2026/08/02/climbing-stairs/) - Sun, 02 Aug 2026 08:33:29 +0000
+
+[How can you avoid being replaced by an AI?](https://sukhbinder.wordpress.com/2026/07/30/how-can-you-avoid-being-replaced-by-an-ai/) - 
+
+[Horizontal or Vertical](https://sukhbinder.wordpress.com/2026/07/29/horizontal-or-vertical/) - Wed, 29 Jul 2026 05:26:14 +0000
+
+[AI and our Skills](https://sukhbinder.wordpress.com/2026/07/24/ai-and-our-skills/) - Fri, 24 Jul 2026 18:45:55 +0000
+
+[Vidtoolz v0.1.5: Windows Support and Bug Fixes](https://sukhbinder.wordpress.com/2026/07/23/vidtoolz-v0-1-5-windows-support-and-bug-fixes/) - 
+
+[AI Mania and Decision Making…](https://sukhbinder.wordpress.com/2026/07/19/ai-mania-and-decision-making/) - Sun, 19 Jul 2026 08:20:04 +0000
+
+[What AI did to stackoverflow in a graph](https://sukhbinder.wordpress.com/2026/07/18/what-ai-did-to-stackoverflow-in-a-graph/) - Sat, 18 Jul 2026 15:58:45 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
