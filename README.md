@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Let this sink in….](https://sukhbinder.wordpress.com/2026/08/18/let-this-sink-in/) - Mon, 17 Aug 2026 19:40:25 +0000
+
 [AI isn’t a chef. At best, it’s a steak machine.](https://sukhbinder.wordpress.com/2026/08/07/ai-isnt-a-chef-at-best-its-a-steak-machine/) - Fri, 07 Aug 2026 06:29:38 +0000
 
 [Work and the Gym](https://sukhbinder.wordpress.com/2026/08/05/work-and-the-gym/) - Wed, 05 Aug 2026 08:38:20 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Vidtoolz v0.1.5: Windows Support and Bug Fixes](https://sukhbinder.wordpress.com/2026/07/23/vidtoolz-v0-1-5-windows-support-and-bug-fixes/) - 
 
 [AI Mania and Decision Making…](https://sukhbinder.wordpress.com/2026/07/19/ai-mania-and-decision-making/) - Sun, 19 Jul 2026 08:20:04 +0000
-
-[What AI did to stackoverflow in a graph](https://sukhbinder.wordpress.com/2026/07/18/what-ai-did-to-stackoverflow-in-a-graph/) - Sat, 18 Jul 2026 15:58:45 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
