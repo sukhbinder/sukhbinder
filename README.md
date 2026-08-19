@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[My Experiments with Speculating Decoding with llamacpp](https://sukhbinder.wordpress.com/2026/08/20/my-experiments-with-speculating-decoding-with-llamacpp/) - Wed, 19 Aug 2026 19:11:21 +0000
+
 [Let this sink in….](https://sukhbinder.wordpress.com/2026/08/18/let-this-sink-in/) - Mon, 17 Aug 2026 19:40:25 +0000
 
 [AI isn’t a chef. At best, it’s a steak machine.](https://sukhbinder.wordpress.com/2026/08/07/ai-isnt-a-chef-at-best-its-a-steak-machine/) - Fri, 07 Aug 2026 06:29:38 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [AI and our Skills](https://sukhbinder.wordpress.com/2026/07/24/ai-and-our-skills/) - Fri, 24 Jul 2026 18:45:55 +0000
 
 [Vidtoolz v0.1.5: Windows Support and Bug Fixes](https://sukhbinder.wordpress.com/2026/07/23/vidtoolz-v0-1-5-windows-support-and-bug-fixes/) - 
-
-[AI Mania and Decision Making…](https://sukhbinder.wordpress.com/2026/07/19/ai-mania-and-decision-making/) - Sun, 19 Jul 2026 08:20:04 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
