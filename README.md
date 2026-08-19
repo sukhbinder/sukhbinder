@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Talakadu Kaveri Beach Roadtrip Kia sonet](https://www.youtube.com/shorts/LCfZT4F_Lrw) - 2026-08-19
+
 [Yercaud Ghat Road View Point #shorts](https://www.youtube.com/shorts/HMSxGCTU1KY) - 2026-08-19
 
 [Noodles Road of Yercaud Yercaud Ghat Road #shorts](https://www.youtube.com/shorts/LXNRpXkx9p0) - 2026-08-17
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Breakfast Break Murugan Idli #shorts](https://www.youtube.com/shorts/ZuaTqhUawKg) - 2026-08-11
 
 [Servarayankovil Temple Yercaud #shorts](https://www.youtube.com/shorts/DUyz29HLMq4) - 2026-08-09
-
-[Infosys Mysore ECC #shorts](https://www.youtube.com/shorts/-FY7szb1U1o) - 2026-08-06
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
