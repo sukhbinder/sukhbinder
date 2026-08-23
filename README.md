@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Yercaud Ghat Roads #shorts](https://www.youtube.com/shorts/he17SizQ7wM) - 2026-08-23
+
 [Gurudwara Nanak Jhira Sahib Ji #shorts](https://www.youtube.com/shorts/ah2jCjzNn_E) - 2026-08-21
 
 [Talakadu Kaveri Beach Roadtrip Kia sonet](https://www.youtube.com/shorts/LCfZT4F_Lrw) - 2026-08-19
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Lady suddenely run on busy NH highway #shorts](https://www.youtube.com/shorts/syFHycyL-Aw) - 2026-08-13
 
 [Mahe to Banglore roadtrip | Lunch at Coorg gate | Dinner@burger king | Roadtrip | Kannur #humhairahi](https://www.youtube.com/watch?v=giEPOvbhClA) - 2026-08-12
-
-[Breakfast Break Murugan Idli #shorts](https://www.youtube.com/shorts/ZuaTqhUawKg) - 2026-08-11
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
