@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Bangalore to punjab roadtrip day1 HajurSahib Nanded nh44 #humhairahi](https://www.youtube.com/watch?v=keveicWhsHg) - 2026-08-26
+
 [Bangalore to Punjab road trip day1 Hajur Sahib Nanded nh44 #humhairahi](https://www.youtube.com/watch?v=B3RRIoW806E) - 2026-08-26
 
 [Yercaud Ghat Roads #shorts](https://www.youtube.com/shorts/he17SizQ7wM) - 2026-08-23
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Yercaud Ghat Road View Point #shorts](https://www.youtube.com/shorts/HMSxGCTU1KY) - 2026-08-19
 
 [Noodles Road of Yercaud Yercaud Ghat Road #shorts](https://www.youtube.com/shorts/LXNRpXkx9p0) - 2026-08-17
-
-[Lady suddenely run on busy NH highway #shorts](https://www.youtube.com/shorts/syFHycyL-Aw) - 2026-08-13
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
