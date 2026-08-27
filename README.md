@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[A Turbulent AI Era](https://sukhbinder.wordpress.com/2026/08/28/a-turbulent-ai-era/) - 
+
 [Is AI a bubble?](https://sukhbinder.wordpress.com/2026/08/23/is-ai-a-bubble/) - Sun, 23 Aug 2026 10:23:27 +0000
 
 [My Experiments with Speculating Decoding with llamacpp](https://sukhbinder.wordpress.com/2026/08/20/my-experiments-with-speculating-decoding-with-llamacpp/) - Wed, 19 Aug 2026 19:11:21 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [How can you avoid being replaced by an AI?](https://sukhbinder.wordpress.com/2026/07/30/how-can-you-avoid-being-replaced-by-an-ai/) - 
 
 [Horizontal or Vertical](https://sukhbinder.wordpress.com/2026/07/29/horizontal-or-vertical/) - Wed, 29 Jul 2026 05:26:14 +0000
-
-[AI and our Skills](https://sukhbinder.wordpress.com/2026/07/24/ai-and-our-skills/) - Fri, 24 Jul 2026 18:45:55 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
