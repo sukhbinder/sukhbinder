@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[NH44 Roadtrip Bangalore to Punjab #shorts #humhairahi #travel](https://www.youtube.com/shorts/5qB5b3-X96s) - 2026-09-01
+
 [Sunset point Near Servarayankovil Temple  #travel #vacationdestinations](https://www.youtube.com/shorts/dD5M2-axoCg) - 2026-08-31
 
 [Yercaud Eco Park Activities Worth it #shorts](https://www.youtube.com/shorts/BwZpVZuU158) - 2026-08-31
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Yercaud Ghat Roads #shorts](https://www.youtube.com/shorts/he17SizQ7wM) - 2026-08-23
 
 [Gurudwara Nanak Jhira Sahib Ji #shorts](https://www.youtube.com/shorts/ah2jCjzNn_E) - 2026-08-21
-
-[Talakadu Kaveri Beach Roadtrip Kia sonet](https://www.youtube.com/shorts/LCfZT4F_Lrw) - 2026-08-19
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
