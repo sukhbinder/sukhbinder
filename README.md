@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[AI is killing programming as a job](https://sukhbinder.wordpress.com/2026/09/03/ai-is-killing-programming-as-a-job/) - Wed, 02 Sep 2026 20:52:32 +0000
+
 [A Turbulent AI Era](https://sukhbinder.wordpress.com/2026/08/28/a-turbulent-ai-era/) - 
 
 [Is AI a bubble?](https://sukhbinder.wordpress.com/2026/08/23/is-ai-a-bubble/) - Sun, 23 Aug 2026 10:23:27 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Climbing Stairs](https://sukhbinder.wordpress.com/2026/08/02/climbing-stairs/) - Sun, 02 Aug 2026 08:33:29 +0000
 
 [How can you avoid being replaced by an AI?](https://sukhbinder.wordpress.com/2026/07/30/how-can-you-avoid-being-replaced-by-an-ai/) - 
-
-[Horizontal or Vertical](https://sukhbinder.wordpress.com/2026/07/29/horizontal-or-vertical/) - Wed, 29 Jul 2026 05:26:14 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
