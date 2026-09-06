@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[You won’t replace it!](https://sukhbinder.wordpress.com/2026/09/07/you-wont-replace-it/) - Sun, 06 Sep 2026 20:30:11 +0000
+
 [Running a 35B MoE Model on 4GB VRAM laptop](https://sukhbinder.wordpress.com/2026/09/05/running-a-35b-moe-model-on-4gb-vram-laptop/) - Fri, 04 Sep 2026 21:06:16 +0000
 
 [AI is killing programming as a job](https://sukhbinder.wordpress.com/2026/09/03/ai-is-killing-programming-as-a-job/) - Wed, 02 Sep 2026 20:52:32 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Work and the Gym](https://sukhbinder.wordpress.com/2026/08/05/work-and-the-gym/) - Wed, 05 Aug 2026 08:38:20 +0000
 
 [Entropy is always winning](https://sukhbinder.wordpress.com/2026/08/04/entropy-is-always-winning/) - 
-
-[Climbing Stairs](https://sukhbinder.wordpress.com/2026/08/02/climbing-stairs/) - Sun, 02 Aug 2026 08:33:29 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
