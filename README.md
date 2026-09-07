@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Yercaud Beautiful #shorts](https://www.youtube.com/shorts/SXLIAKtV06Q) - 2026-09-07
+
 [HK Grand inn Homestay Room tour #shorts](https://www.youtube.com/shorts/i2bsG0bVrj4) - 2026-09-05
 
 [Next to Yercaud Lake Yercaud Eco Park Interactive exhibit was good  #shorts](https://www.youtube.com/shorts/j4Qp-8yXeFA) - 2026-09-03
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [NH44 Roadtrip Bangalore to Punjab #shorts #humhairahi #travel](https://www.youtube.com/shorts/5qB5b3-X96s) - 2026-09-01
 
 [Sunset point Near Servarayankovil Temple  #travel #vacationdestinations](https://www.youtube.com/shorts/dD5M2-axoCg) - 2026-08-31
-
-[Yercaud Eco Park Activities Worth it #shorts](https://www.youtube.com/shorts/BwZpVZuU158) - 2026-08-31
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
