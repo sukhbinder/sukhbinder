@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Finding Genuinely Useful Local LLMs](https://sukhbinder.wordpress.com/2026/09/08/finding-genuinely-useful-local-llms/) - 
+
 [You won’t replace it!](https://sukhbinder.wordpress.com/2026/09/07/you-wont-replace-it/) - Sun, 06 Sep 2026 20:30:11 +0000
 
 [Running a 35B MoE Model on 4GB VRAM laptop](https://sukhbinder.wordpress.com/2026/09/05/running-a-35b-moe-model-on-4gb-vram-laptop/) - Fri, 04 Sep 2026 21:06:16 +0000
@@ -65,15 +67,25 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [AI isn’t a chef. At best, it’s a steak machine.](https://sukhbinder.wordpress.com/2026/08/07/ai-isnt-a-chef-at-best-its-a-steak-machine/) - Fri, 07 Aug 2026 06:29:38 +0000
 
 [Work and the Gym](https://sukhbinder.wordpress.com/2026/08/05/work-and-the-gym/) - Wed, 05 Aug 2026 08:38:20 +0000
-
-[Entropy is always winning](https://sukhbinder.wordpress.com/2026/08/04/entropy-is-always-winning/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
+[Yercaud Beautiful #shorts](https://www.youtube.com/shorts/SXLIAKtV06Q) - 2026-09-07
 
+[HK Grand inn Homestay Room tour #shorts](https://www.youtube.com/shorts/i2bsG0bVrj4) - 2026-09-05
+
+[Next to Yercaud Lake Yercaud Eco Park Interactive exhibit was good  #shorts](https://www.youtube.com/shorts/j4Qp-8yXeFA) - 2026-09-03
+
+[Yercaud Eco Park Next to Yercaud Boat House Lot of activities for kids #shorts](https://www.youtube.com/shorts/K_xchMD79YU) - 2026-09-02
+
+[Bangalore to Punjab Roadtrip part 2 | NH44 | NH65 | NH161 | Complete details Gurudwara sahib Nanded](https://www.youtube.com/watch?v=PbHIyb4QZhM) - 2026-09-02
+
+[NH44 Roadtrip Bangalore to Punjab #shorts #humhairahi #travel](https://www.youtube.com/shorts/5qB5b3-X96s) - 2026-09-01
+
+[Sunset point Near Servarayankovil Temple  #travel #vacationdestinations](https://www.youtube.com/shorts/dD5M2-axoCg) - 2026-08-31
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
