@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Langar at Gurudwara Sahib #shorts](https://www.youtube.com/shorts/Yt6Kx7rWGLc) - 2026-09-09
+
 [Bangalore to Punjab Roadtrip | Gurudwara Yaadgar Sahib Nanded Yatri Nivas | Nanded  #roadtrip](https://www.youtube.com/watch?v=wvBod0HlTYE) - 2026-09-09
 
 [Yercaud Beautiful #shorts](https://www.youtube.com/shorts/SXLIAKtV06Q) - 2026-09-07
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Yercaud Eco Park Next to Yercaud Boat House Lot of activities for kids #shorts](https://www.youtube.com/shorts/K_xchMD79YU) - 2026-09-02
 
 [Bangalore to Punjab Roadtrip part 2 | NH44 | NH65 | NH161 | Complete details Gurudwara sahib Nanded](https://www.youtube.com/watch?v=PbHIyb4QZhM) - 2026-09-02
-
-[NH44 Roadtrip Bangalore to Punjab #shorts #humhairahi #travel](https://www.youtube.com/shorts/5qB5b3-X96s) - 2026-09-01
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
