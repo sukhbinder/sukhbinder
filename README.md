@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Aeroplane Museum On the way to Nanded #nanded #travel #bangalore2punjab](https://www.youtube.com/shorts/-OFMCpXXUSU) - 2026-09-12
+
 [HK Grand Inn Yercaud #shorts](https://www.youtube.com/shorts/uCVnQfULcZE) - 2026-09-11
 
 [Langar at Gurudwara Sahib #shorts](https://www.youtube.com/shorts/Yt6Kx7rWGLc) - 2026-09-09
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [HK Grand inn Homestay Room tour #shorts](https://www.youtube.com/shorts/i2bsG0bVrj4) - 2026-09-05
 
 [Next to Yercaud Lake Yercaud Eco Park Interactive exhibit was good  #shorts](https://www.youtube.com/shorts/j4Qp-8yXeFA) - 2026-09-03
-
-[Yercaud Eco Park Next to Yercaud Boat House Lot of activities for kids #shorts](https://www.youtube.com/shorts/K_xchMD79YU) - 2026-09-02
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
