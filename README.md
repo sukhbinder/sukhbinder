@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[My Impressions of Tiny LLM Models](https://sukhbinder.wordpress.com/2026/09/13/my-impressions-of-tiny-llm-models/) - Sun, 13 Sep 2026 17:34:51 +0000
+
 [Finding Genuinely Useful Local LLMs](https://sukhbinder.wordpress.com/2026/09/08/finding-genuinely-useful-local-llms/) - 
 
 [You won’t replace it!](https://sukhbinder.wordpress.com/2026/09/07/you-wont-replace-it/) - Sun, 06 Sep 2026 20:30:11 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Let this sink in….](https://sukhbinder.wordpress.com/2026/08/18/let-this-sink-in/) - Mon, 17 Aug 2026 19:40:25 +0000
 
 [AI isn’t a chef. At best, it’s a steak machine.](https://sukhbinder.wordpress.com/2026/08/07/ai-isnt-a-chef-at-best-its-a-steak-machine/) - Fri, 07 Aug 2026 06:29:38 +0000
-
-[Work and the Gym](https://sukhbinder.wordpress.com/2026/08/05/work-and-the-gym/) - Wed, 05 Aug 2026 08:38:20 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
