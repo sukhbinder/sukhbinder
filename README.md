@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[The compounding effect of AI](https://sukhbinder.wordpress.com/2026/09/19/the-compounding-effect-of-ai/) - Sat, 19 Sep 2026 17:16:53 +0000
+
 [Impress Me](https://sukhbinder.wordpress.com/2026/09/16/impress-me/) - 
 
 [My Impressions of Tiny LLM Models](https://sukhbinder.wordpress.com/2026/09/13/my-impressions-of-tiny-llm-models/) - Sun, 13 Sep 2026 17:34:51 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Is AI a bubble?](https://sukhbinder.wordpress.com/2026/08/23/is-ai-a-bubble/) - Sun, 23 Aug 2026 10:23:27 +0000
 
 [My Experiments with Speculating Decoding with llamacpp](https://sukhbinder.wordpress.com/2026/08/20/my-experiments-with-speculating-decoding-with-llamacpp/) - Wed, 19 Aug 2026 19:11:21 +0000
-
-[Let this sink in….](https://sukhbinder.wordpress.com/2026/08/18/let-this-sink-in/) - Mon, 17 Aug 2026 19:40:25 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
