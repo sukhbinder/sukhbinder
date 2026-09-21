@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Kon: Environment Variable Support for Pre-Installed Search Tools](https://sukhbinder.wordpress.com/2026/09/21/kon-environment-variable-support-for-pre-installed-search-tools/) - Mon, 21 Sep 2026 16:34:22 +0000
+
 [The compounding effect of AI](https://sukhbinder.wordpress.com/2026/09/19/the-compounding-effect-of-ai/) - Sat, 19 Sep 2026 17:16:53 +0000
 
 [Impress Me](https://sukhbinder.wordpress.com/2026/09/16/impress-me/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [A Turbulent AI Era](https://sukhbinder.wordpress.com/2026/08/28/a-turbulent-ai-era/) - 
 
 [Is AI a bubble?](https://sukhbinder.wordpress.com/2026/08/23/is-ai-a-bubble/) - Sun, 23 Aug 2026 10:23:27 +0000
-
-[My Experiments with Speculating Decoding with llamacpp](https://sukhbinder.wordpress.com/2026/08/20/my-experiments-with-speculating-decoding-with-llamacpp/) - Wed, 19 Aug 2026 19:11:21 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
