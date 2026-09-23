@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Sachkhand Sri Hajoor Sahib GuruGobind Baag Gurudawara sahib and nearby Gurudwara Sahib#humhairahi](https://www.youtube.com/watch?v=pxdlZMDPnME) - 2026-09-22
 
-[When will we learn? #shorts](https://www.youtube.com/shorts/G8pHcAkwqZM) - 2026-09-17
-
-[Karadiyur view point | Yercaud | #humhairahi](https://www.youtube.com/shorts/clfwSfVzUO8) - 2026-09-13
-
-[Aeroplane Museum On the way to Nanded #nanded #travel #bangalore2punjab](https://www.youtube.com/shorts/-OFMCpXXUSU) - 2026-09-12
-
-[HK Grand Inn Yercaud #shorts](https://www.youtube.com/shorts/uCVnQfULcZE) - 2026-09-11
-
-[Langar at Gurudwara Sahib #shorts](https://www.youtube.com/shorts/Yt6Kx7rWGLc) - 2026-09-09
-
-[Bangalore to Punjab Roadtrip | Gurudwara Yaadgar Sahib Nanded Yatri Nivas | Aeroplane Museum](https://www.youtube.com/watch?v=wvBod0HlTYE) - 2026-09-09
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
