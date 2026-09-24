@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Drive Mark](https://sukhbinder.wordpress.com/2026/09/24/drive-mark/) - 
+
 [Kon: Environment Variable Support for Pre-Installed Search Tools](https://sukhbinder.wordpress.com/2026/09/21/kon-environment-variable-support-for-pre-installed-search-tools/) - Mon, 21 Sep 2026 16:34:22 +0000
 
 [The compounding effect of AI](https://sukhbinder.wordpress.com/2026/09/19/the-compounding-effect-of-ai/) - Sat, 19 Sep 2026 17:16:53 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [AI is killing programming as a job](https://sukhbinder.wordpress.com/2026/09/03/ai-is-killing-programming-as-a-job/) - Wed, 02 Sep 2026 20:52:32 +0000
 
 [A Turbulent AI Era](https://sukhbinder.wordpress.com/2026/08/28/a-turbulent-ai-era/) - 
-
-[Is AI a bubble?](https://sukhbinder.wordpress.com/2026/08/23/is-ai-a-bubble/) - Sun, 23 Aug 2026 10:23:27 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
