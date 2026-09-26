@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Derby Test Routes In Google Maps](https://sukhbinder.wordpress.com/2026/09/26/derby-test-routes-in-google-maps/) - Sat, 26 Sep 2026 06:54:00 +0000
+
 [Drive Mark](https://sukhbinder.wordpress.com/2026/09/24/drive-mark/) - 
 
 [Kon: Environment Variable Support for Pre-Installed Search Tools](https://sukhbinder.wordpress.com/2026/09/21/kon-environment-variable-support-for-pre-installed-search-tools/) - Mon, 21 Sep 2026 16:34:22 +0000
@@ -65,15 +67,25 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Running a 35B MoE Model on 4GB VRAM laptop](https://sukhbinder.wordpress.com/2026/09/05/running-a-35b-moe-model-on-4gb-vram-laptop/) - Fri, 04 Sep 2026 21:06:16 +0000
 
 [AI is killing programming as a job](https://sukhbinder.wordpress.com/2026/09/03/ai-is-killing-programming-as-a-job/) - Wed, 02 Sep 2026 20:52:32 +0000
-
-[A Turbulent AI Era](https://sukhbinder.wordpress.com/2026/08/28/a-turbulent-ai-era/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
+[Gurudwara Sachkhand Hajoor Sahib #shorts](https://www.youtube.com/shorts/lg9YjBQQc_E) - 2026-09-26
 
+[Karadiyur View #travel #traveldestinations #vacationdestinations #roadtrips](https://www.youtube.com/shorts/DrWQe0T1uiY) - 2026-09-23
+
+[Sachkhand Sri Hajoor Sahib GuruGobind Baag Gurudawara sahib and nearby Gurudwara Sahib#humhairahi](https://www.youtube.com/watch?v=pxdlZMDPnME) - 2026-09-22
+
+[When will we learn? #shorts](https://www.youtube.com/shorts/G8pHcAkwqZM) - 2026-09-17
+
+[Karadiyur view point | Yercaud | #humhairahi](https://www.youtube.com/shorts/clfwSfVzUO8) - 2026-09-13
+
+[Aeroplane Museum On the way to Nanded #nanded #travel #bangalore2punjab](https://www.youtube.com/shorts/-OFMCpXXUSU) - 2026-09-12
+
+[HK Grand Inn Yercaud #shorts](https://www.youtube.com/shorts/uCVnQfULcZE) - 2026-09-11
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
