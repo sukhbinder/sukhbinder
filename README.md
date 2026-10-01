@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[How to Work Well in teams](https://sukhbinder.wordpress.com/2026/10/01/how-to-work-well-in-teams/) - 
+
 [How I Used Crontab-Win to Secure a Driving Test Booking](https://sukhbinder.wordpress.com/2026/09/29/how-i-used-crontab-win-to-secure-a-driving-test-booking/) - 
 
 [Derby Test Routes In Google Maps](https://sukhbinder.wordpress.com/2026/09/26/derby-test-routes-in-google-maps/) - Sat, 26 Sep 2026 06:54:00 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Finding Genuinely Useful Local LLMs](https://sukhbinder.wordpress.com/2026/09/08/finding-genuinely-useful-local-llms/) - 
 
 [You won’t replace it!](https://sukhbinder.wordpress.com/2026/09/07/you-wont-replace-it/) - Sun, 06 Sep 2026 20:30:11 +0000
-
-[Running a 35B MoE Model on 4GB VRAM laptop](https://sukhbinder.wordpress.com/2026/09/05/running-a-35b-moe-model-on-4gb-vram-laptop/) - Fri, 04 Sep 2026 21:06:16 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
