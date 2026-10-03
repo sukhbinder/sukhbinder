@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[The last time my family was replaced by technology](https://sukhbinder.wordpress.com/2026/10/03/the-last-time-my-family-was-replaced-by-technology/) - Sat, 03 Oct 2026 06:42:00 +0000
+
 [How to Work Well in teams](https://sukhbinder.wordpress.com/2026/10/01/how-to-work-well-in-teams/) - 
 
 [How I Used Crontab-Win to Secure a Driving Test Booking](https://sukhbinder.wordpress.com/2026/09/29/how-i-used-crontab-win-to-secure-a-driving-test-booking/) - 
@@ -65,15 +67,25 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [My Impressions of Tiny LLM Models](https://sukhbinder.wordpress.com/2026/09/13/my-impressions-of-tiny-llm-models/) - Sun, 13 Sep 2026 17:34:51 +0000
 
 [Finding Genuinely Useful Local LLMs](https://sukhbinder.wordpress.com/2026/09/08/finding-genuinely-useful-local-llms/) - 
-
-[You won’t replace it!](https://sukhbinder.wordpress.com/2026/09/07/you-wont-replace-it/) - Sun, 06 Sep 2026 20:30:11 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
+[Pagoda Point, Yercaud #shorts](https://www.youtube.com/shorts/qkvaaafDZjQ) - 2026-10-02
 
+[Tea at Pagoda Viewpoint Yercaud #shorts](https://www.youtube.com/shorts/1H_BbIrQ1aM) - 2026-10-01
+
+[Karadiyur View Point Yercaud #shorts #travel #vacationdestinations](https://www.youtube.com/shorts/1jGOEwweKrI) - 2026-10-01
+
+[Nanded to Bhopal Roadtrip | NH161E |  NH53 | NH 353 | NH 347| Bangalore to Punjab Roadtrip](https://www.youtube.com/watch?v=FSUa-wl3KZg) - 2026-09-30
+
+[Servarayankovil Temple Yercaud #shorts #travel #traveldestinations](https://www.youtube.com/shorts/u7TnQ-9tIu4) - 2026-09-29
+
+[Gurudwara Sachkhand Hajoor Sahib #shorts](https://www.youtube.com/shorts/lg9YjBQQc_E) - 2026-09-26
+
+[Karadiyur View #travel #traveldestinations #vacationdestinations #roadtrips](https://www.youtube.com/shorts/DrWQe0T1uiY) - 2026-09-23
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
