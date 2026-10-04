@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Pagoda Point, Yercaud #shorts](https://www.youtube.com/shorts/qkvaaafDZjQ) - 2026-10-02
 
-[Tea at Pagoda Viewpoint Yercaud #shorts](https://www.youtube.com/shorts/1H_BbIrQ1aM) - 2026-10-01
-
-[Karadiyur View Point Yercaud #shorts #travel #vacationdestinations](https://www.youtube.com/shorts/1jGOEwweKrI) - 2026-10-01
-
-[Nanded to Bhopal Roadtrip | NH161E |  NH53 | NH 353 | NH 347| Bangalore to Punjab Roadtrip](https://www.youtube.com/watch?v=FSUa-wl3KZg) - 2026-09-30
-
-[Servarayankovil Temple Yercaud #shorts #travel #traveldestinations](https://www.youtube.com/shorts/u7TnQ-9tIu4) - 2026-09-29
-
-[Gurudwara Sachkhand Hajoor Sahib #shorts](https://www.youtube.com/shorts/lg9YjBQQc_E) - 2026-09-26
-
-[Karadiyur View #travel #traveldestinations #vacationdestinations #roadtrips](https://www.youtube.com/shorts/DrWQe0T1uiY) - 2026-09-23
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
