@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Gurudwara Nanak Tekri Sahib | Gurudwara Bawli sahib | Bhopal | Roadtrip | Bangaloretopunjab](https://www.youtube.com/watch?v=ABUlfZD5hJY) - 2026-10-07
+
 [Yercaud Lady's Seat Viewpoint #shorts](https://www.youtube.com/shorts/qGynt56LFLs) - 2026-10-06
 
 [Gurdwara Guru Nanak Tekri Sahib Bhopal #shorts](https://www.youtube.com/shorts/MQeBUD684_o) - 2026-10-06
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Pagoda Point, Yercaud #shorts](https://www.youtube.com/shorts/qkvaaafDZjQ) - 2026-10-02
 
 [Tea at Pagoda Viewpoint Yercaud #shorts](https://www.youtube.com/shorts/1H_BbIrQ1aM) - 2026-10-01
-
-[Karadiyur View Point Yercaud #shorts #travel #vacationdestinations](https://www.youtube.com/shorts/1jGOEwweKrI) - 2026-10-01
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
