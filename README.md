@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[vidtoolz-colored-textclip v0.0.3](https://github.com/sukhbinder/vidtoolz-colored-textclip/releases/tag/v0.0.3) - 2026-10-11
+
 [winzy-optimize-image v0.1.0](https://github.com/sukhbinder/winzy-optimize-image/releases/tag/v0.1.0) - 2026-08-07
 
 [vidtoolz-beats v0.1.1](https://github.com/sukhbinder/vidtoolz-beats/releases/tag/v0.1.1) - 2026-07-27
@@ -40,14 +42,14 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [vidtoolz-rnnn v0.1.0](https://github.com/sukhbinder/vidtoolz-rnnn/releases/tag/v0.1.0) - 2026-03-31
 
 [afplay-win v0.0.2](https://github.com/sukhbinder/afplay-win/releases/tag/v0.0.2) - 2026-02-03
-
-[audiobook-player v0.0.1](https://github.com/sukhbinder/audiobook-player/releases/tag/v0.0.1) - 2026-01-31
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[LLM Training Shift](https://sukhbinder.wordpress.com/2026/10/11/llm-training-shift/) - Sun, 11 Oct 2026 06:22:42 +0000
+
 [The last time my family was replaced by technology](https://sukhbinder.wordpress.com/2026/10/03/the-last-time-my-family-was-replaced-by-technology/) - Sat, 03 Oct 2026 06:42:00 +0000
 
 [How to Work Well in teams](https://sukhbinder.wordpress.com/2026/10/01/how-to-work-well-in-teams/) - 
@@ -65,15 +67,25 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Impress Me](https://sukhbinder.wordpress.com/2026/09/16/impress-me/) - 
 
 [My Impressions of Tiny LLM Models](https://sukhbinder.wordpress.com/2026/09/13/my-impressions-of-tiny-llm-models/) - Sun, 13 Sep 2026 17:34:51 +0000
-
-[Finding Genuinely Useful Local LLMs](https://sukhbinder.wordpress.com/2026/09/08/finding-genuinely-useful-local-llms/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
+[Yercaud #placestosee #shorts](https://www.youtube.com/shorts/eQ--nKi4RVw) - 2026-10-10
 
+[Gurudwara Bhai Balaji Sahib #shorts](https://www.youtube.com/shorts/5517s3vHvg0) - 2026-10-10
+
+[Gurudwara Nanak Tekri Sahib | Gurudwara Bawli sahib | Bhopal | Roadtrip | Bangaloretopunjab](https://www.youtube.com/watch?v=ABUlfZD5hJY) - 2026-10-07
+
+[Yercaud Lady's Seat Viewpoint #shorts](https://www.youtube.com/shorts/qGynt56LFLs) - 2026-10-06
+
+[Gurdwara Guru Nanak Tekri Sahib Bhopal #shorts](https://www.youtube.com/shorts/MQeBUD684_o) - 2026-10-06
+
+[Pagoda Point Yercaud Places to see #shorts](https://www.youtube.com/shorts/40y1TuM9zDQ) - 2026-10-04
+
+[Jithe Jith tu Empty Highways Roadtrip #shorts](https://www.youtube.com/shorts/k27B_bX4vl4) - 2026-10-03
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
