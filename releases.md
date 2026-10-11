@@ -1,8 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->179<!-- releases_count ends --> releases across <!-- project_count starts -->69<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->182<!-- releases_count ends --> releases across <!-- project_count starts -->70<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[vidtoolz-highlights](https://github.com/sukhbinder/vidtoolz-highlights)**: [v0.1.0](https://github.com/sukhbinder/vidtoolz-highlights/releases/tag/v0.1.0) - 2026-10-11
+<br />Make highlights from videos and Stitch videos to a song
+* **[vidtoolz-concat](https://github.com/sukhbinder/vidtoolz-concat)**: [v0.0.4](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.4) - ([4 releases total](https://github.com/sukhbinder/vidtoolz-concat/releases)) - 2026-10-11
+<br />Concat videos using ffmpeg 
+* **[vidtoolz-add-text](https://github.com/sukhbinder/vidtoolz-add-text)**: [v0.4.2](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.4.2) - ([5 releases total](https://github.com/sukhbinder/vidtoolz-add-text/releases)) - 2026-10-11
+<br />Add text to a video file
 * **[vidtoolz-colored-textclip](https://github.com/sukhbinder/vidtoolz-colored-textclip)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-colored-textclip/releases/tag/v0.0.3) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-colored-textclip/releases)) - 2026-10-11
 <br />Create a color clip with overlaid text
 * **[winzy-optimize-image](https://github.com/sukhbinder/winzy-optimize-image)**: [v0.1.0](https://github.com/sukhbinder/winzy-optimize-image/releases/tag/v0.1.0) - 2026-08-07
@@ -59,12 +65,8 @@ Listing <!-- releases_count starts -->179<!-- releases_count ends --> releases a
 <br />Create intro video from a series of videos
 * **[winzy-selected-file](https://github.com/sukhbinder/winzy-selected-file)**: [v0.1.0](https://github.com/sukhbinder/winzy-selected-file/releases/tag/v0.1.0) - 2025-06-28
 <br />Get selected files on Mac os in console
-* **[vidtoolz-concat](https://github.com/sukhbinder/vidtoolz-concat)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.3a) - ([3 releases total](https://github.com/sukhbinder/vidtoolz-concat/releases)) - 2025-06-27
-<br />Concat videos using ffmpeg 
 * **[tera-tera](https://github.com/sukhbinder/tera-tera)**: [v0.1.1](https://github.com/sukhbinder/tera-tera/releases/tag/v0.1.1a) - ([2 releases total](https://github.com/sukhbinder/tera-tera/releases)) - 2025-06-12
 <br />Tera tera app to do langar seva at various gurudwara's
-* **[vidtoolz-add-text](https://github.com/sukhbinder/vidtoolz-add-text)**: [v0.4.1](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.4.1) - ([4 releases total](https://github.com/sukhbinder/vidtoolz-add-text/releases)) - 2025-06-10
-<br />Add text to a video file
 * **[vidtoolz-trim](https://github.com/sukhbinder/vidtoolz-trim)**: [v0.1.2](https://github.com/sukhbinder/vidtoolz-trim/releases/tag/v0.1.2) - ([3 releases total](https://github.com/sukhbinder/vidtoolz-trim/releases)) - 2025-06-08
 <br />Trim video using ffmpeg
 * **[intersection](https://github.com/sukhbinder/intersection)**: [v1.3.2](https://github.com/sukhbinder/intersection/releases/tag/v1.3.3) - ([6 releases total](https://github.com/sukhbinder/intersection/releases)) - 2025-04-27

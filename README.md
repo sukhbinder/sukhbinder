@@ -19,6 +19,12 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[vidtoolz-highlights v0.1.0](https://github.com/sukhbinder/vidtoolz-highlights/releases/tag/v0.1.0) - 2026-10-11
+
+[vidtoolz-concat v0.0.4](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.4) - 2026-10-11
+
+[vidtoolz-add-text v0.4.2](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.4.2) - 2026-10-11
+
 [vidtoolz-colored-textclip v0.0.3](https://github.com/sukhbinder/vidtoolz-colored-textclip/releases/tag/v0.0.3) - 2026-10-11
 
 [winzy-optimize-image v0.1.0](https://github.com/sukhbinder/winzy-optimize-image/releases/tag/v0.1.0) - 2026-08-07
@@ -36,12 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [winzy-create-gif v0.0.2](https://github.com/sukhbinder/winzy-create-gif/releases/tag/v0.0.2) - 2026-05-03
 
 [winzy-whitelist v0.1.0](https://github.com/sukhbinder/winzy-whitelist/releases/tag/v0.1.0b) - 2026-04-18
-
-[winzy-screenshot v0.0.6](https://github.com/sukhbinder/winzy-screenshot/releases/tag/v0.0.6) - 2026-04-09
-
-[vidtoolz-rnnn v0.1.0](https://github.com/sukhbinder/vidtoolz-rnnn/releases/tag/v0.1.0) - 2026-03-31
-
-[afplay-win v0.0.2](https://github.com/sukhbinder/afplay-win/releases/tag/v0.0.2) - 2026-02-03
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
