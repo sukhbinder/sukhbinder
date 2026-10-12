@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Coding](https://sukhbinder.wordpress.com/2026/10/12/coding/) - Mon, 12 Oct 2026 06:44:31 +0000
+
 [LLM Training Shift](https://sukhbinder.wordpress.com/2026/10/11/llm-training-shift/) - Sun, 11 Oct 2026 06:22:42 +0000
 
 [The last time my family was replaced by technology](https://sukhbinder.wordpress.com/2026/10/03/the-last-time-my-family-was-replaced-by-technology/) - Sat, 03 Oct 2026 06:42:00 +0000
@@ -65,15 +67,25 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [The compounding effect of AI](https://sukhbinder.wordpress.com/2026/09/19/the-compounding-effect-of-ai/) - Sat, 19 Sep 2026 17:16:53 +0000
 
 [Impress Me](https://sukhbinder.wordpress.com/2026/09/16/impress-me/) - 
-
-[My Impressions of Tiny LLM Models](https://sukhbinder.wordpress.com/2026/09/13/my-impressions-of-tiny-llm-models/) - Sun, 13 Sep 2026 17:34:51 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
+[Darsan Sachkhand Hajoor Sahib Nanded #shorts](https://www.youtube.com/shorts/esJIri3xrzI) - 2026-10-12
 
+[Yercaud #placestosee #shorts](https://www.youtube.com/shorts/eQ--nKi4RVw) - 2026-10-10
+
+[Gurudwara Bhai Balaji Sahib #shorts](https://www.youtube.com/shorts/5517s3vHvg0) - 2026-10-10
+
+[Gurudwara Nanak Tekri Sahib | Gurudwara Bawli sahib | Bhopal | Roadtrip | Bangaloretopunjab](https://www.youtube.com/watch?v=ABUlfZD5hJY) - 2026-10-07
+
+[Yercaud Lady's Seat Viewpoint #shorts](https://www.youtube.com/shorts/qGynt56LFLs) - 2026-10-06
+
+[Gurdwara Guru Nanak Tekri Sahib Bhopal #shorts](https://www.youtube.com/shorts/MQeBUD684_o) - 2026-10-06
+
+[Pagoda Point Yercaud Places to see #shorts](https://www.youtube.com/shorts/40y1TuM9zDQ) - 2026-10-04
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
