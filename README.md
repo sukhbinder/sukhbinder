@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Why do all LLM pelicans look like this?](https://sukhbinder.wordpress.com/2026/10/15/why-do-all-llm-pelicans-look-like-this/) - Wed, 14 Oct 2026 21:11:30 +0000
+
 [AI is a tool. AI is a Mirror](https://sukhbinder.wordpress.com/2026/10/14/ai-is-a-tool-ai-is-a-mirror/) - Wed, 14 Oct 2026 05:34:00 +0000
 
 [Coding](https://sukhbinder.wordpress.com/2026/10/12/coding/) - Mon, 12 Oct 2026 06:44:31 +0000
@@ -65,27 +67,13 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Drive Mark](https://sukhbinder.wordpress.com/2026/09/24/drive-mark/) - 
 
 [Kon: Environment Variable Support for Pre-Installed Search Tools](https://sukhbinder.wordpress.com/2026/09/21/kon-environment-variable-support-for-pre-installed-search-tools/) - Mon, 21 Sep 2026 16:34:22 +0000
-
-[The compounding effect of AI](https://sukhbinder.wordpress.com/2026/09/19/the-compounding-effect-of-ai/) - Sat, 19 Sep 2026 17:16:53 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
-[Bhopal to Gwalior RoadTrip #Bangalore2Punjab #Gurudwara Datta Bandi Chor Sahib  #nh46 #cows](https://www.youtube.com/watch?v=cKBBdI8mhao) - 2026-10-14
 
-[Boating at Yercaud Lake #shorts](https://www.youtube.com/shorts/PCLKYN2AlpU) - 2026-10-12
-
-[Darsan Sachkhand Hajoor Sahib Nanded #shorts](https://www.youtube.com/shorts/esJIri3xrzI) - 2026-10-12
-
-[Yercaud #placestosee #shorts](https://www.youtube.com/shorts/eQ--nKi4RVw) - 2026-10-10
-
-[Gurudwara Bhai Balaji Sahib #shorts](https://www.youtube.com/shorts/5517s3vHvg0) - 2026-10-10
-
-[Gurudwara Nanak Tekri Sahib | Gurudwara Bawli sahib | Bhopal | Roadtrip | Bangaloretopunjab](https://www.youtube.com/watch?v=ABUlfZD5hJY) - 2026-10-07
-
-[Yercaud Lady's Seat Viewpoint #shorts](https://www.youtube.com/shorts/qGynt56LFLs) - 2026-10-06
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
