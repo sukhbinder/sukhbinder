@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[3 releases of vidtoolz plugin](https://sukhbinder.wordpress.com/2026/10/16/3-releases-of-vidtoolz-plugin/) - 
+
 [Why do all LLM pelicans look like this?](https://sukhbinder.wordpress.com/2026/10/15/why-do-all-llm-pelicans-look-like-this/) - Wed, 14 Oct 2026 21:11:30 +0000
 
 [AI is a tool. AI is a Mirror](https://sukhbinder.wordpress.com/2026/10/14/ai-is-a-tool-ai-is-a-mirror/) - Wed, 14 Oct 2026 05:34:00 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Derby Test Routes In Google Maps](https://sukhbinder.wordpress.com/2026/09/26/derby-test-routes-in-google-maps/) - Sat, 26 Sep 2026 06:54:00 +0000
 
 [Drive Mark](https://sukhbinder.wordpress.com/2026/09/24/drive-mark/) - 
-
-[Kon: Environment Variable Support for Pre-Installed Search Tools](https://sukhbinder.wordpress.com/2026/09/21/kon-environment-variable-support-for-pre-installed-search-tools/) - Mon, 21 Sep 2026 16:34:22 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
