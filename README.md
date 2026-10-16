@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Your greatest advantage over LLM](https://sukhbinder.wordpress.com/2026/10/16/your-greatest-advantage-over-llm/) - Fri, 16 Oct 2026 06:46:00 +0000
+
 [3 releases of vidtoolz plugin](https://sukhbinder.wordpress.com/2026/10/16/3-releases-of-vidtoolz-plugin/) - 
 
 [Why do all LLM pelicans look like this?](https://sukhbinder.wordpress.com/2026/10/15/why-do-all-llm-pelicans-look-like-this/) - Wed, 14 Oct 2026 21:11:30 +0000
@@ -65,15 +67,25 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [How I Used Crontab-Win to Secure a Driving Test Booking](https://sukhbinder.wordpress.com/2026/09/29/how-i-used-crontab-win-to-secure-a-driving-test-booking/) - 
 
 [Derby Test Routes In Google Maps](https://sukhbinder.wordpress.com/2026/09/26/derby-test-routes-in-google-maps/) - Sat, 26 Sep 2026 06:54:00 +0000
-
-[Drive Mark](https://sukhbinder.wordpress.com/2026/09/24/drive-mark/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
+[Bhopal to Gwalior RoadTrip #Bangalore2Punjab #Gurudwara Datta Bandi Chor Sahib  #nh46 #cows](https://www.youtube.com/watch?v=cKBBdI8mhao) - 2026-10-14
 
+[Boating at Yercaud Lake #shorts](https://www.youtube.com/shorts/PCLKYN2AlpU) - 2026-10-12
+
+[Darsan Sachkhand Hajoor Sahib Nanded #shorts](https://www.youtube.com/shorts/esJIri3xrzI) - 2026-10-12
+
+[Yercaud #placestosee #shorts](https://www.youtube.com/shorts/eQ--nKi4RVw) - 2026-10-10
+
+[Gurudwara Bhai Balaji Sahib #shorts](https://www.youtube.com/shorts/5517s3vHvg0) - 2026-10-10
+
+[Gurudwara Nanak Tekri Sahib | Gurudwara Bawli sahib | Bhopal | Roadtrip | Bangaloretopunjab](https://www.youtube.com/watch?v=ABUlfZD5hJY) - 2026-10-07
+
+[Yercaud Lady's Seat Viewpoint #shorts](https://www.youtube.com/shorts/qGynt56LFLs) - 2026-10-06
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
