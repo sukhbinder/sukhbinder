@@ -73,7 +73,19 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Lady's Seat Viewpoint Yercaud #shorts](https://www.youtube.com/shorts/o8qmph2i3gI) - 2026-10-16
 
+[Datta Bandi Chor Palace #shorts](https://www.youtube.com/shorts/jElECY1xuv0) - 2026-10-16
+
+[Bhopal to Gwalior RoadTrip #Bangalore2Punjab #Gurudwara Datta Bandi Chor Sahib  #nh46 #cows](https://www.youtube.com/watch?v=cKBBdI8mhao) - 2026-10-14
+
+[Boating at Yercaud Lake #shorts](https://www.youtube.com/shorts/PCLKYN2AlpU) - 2026-10-12
+
+[Darsan Sachkhand Hajoor Sahib Nanded #shorts](https://www.youtube.com/shorts/esJIri3xrzI) - 2026-10-12
+
+[Yercaud #placestosee #shorts](https://www.youtube.com/shorts/eQ--nKi4RVw) - 2026-10-10
+
+[Gurudwara Bhai Balaji Sahib #shorts](https://www.youtube.com/shorts/5517s3vHvg0) - 2026-10-10
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
