@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[crontab-win v0.2.1](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.1) - 2026-10-19
+
 [vidtoolz-highlights v0.1.0](https://github.com/sukhbinder/vidtoolz-highlights/releases/tag/v0.1.0) - 2026-10-11
 
 [vidtoolz-concat v0.0.4](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.4) - 2026-10-11
@@ -40,8 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [afrecord-win v0.1.1](https://github.com/sukhbinder/afrecord-win/releases/tag/v0.1.1) - 2026-05-17
 
 [winzy-create-gif v0.0.2](https://github.com/sukhbinder/winzy-create-gif/releases/tag/v0.0.2) - 2026-05-03
-
-[winzy-whitelist v0.1.0](https://github.com/sukhbinder/winzy-whitelist/releases/tag/v0.1.0b) - 2026-04-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">

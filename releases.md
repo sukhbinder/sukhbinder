@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->182<!-- releases_count ends --> releases across <!-- project_count starts -->70<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->183<!-- releases_count ends --> releases across <!-- project_count starts -->70<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[crontab-win](https://github.com/sukhbinder/crontab-win)**: [v0.2.1](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.1) - ([4 releases total](https://github.com/sukhbinder/crontab-win/releases)) - 2026-10-19
+<br />Crontab for windows
 * **[vidtoolz-highlights](https://github.com/sukhbinder/vidtoolz-highlights)**: [v0.1.0](https://github.com/sukhbinder/vidtoolz-highlights/releases/tag/v0.1.0) - 2026-10-11
 <br />Make highlights from videos and Stitch videos to a song
 * **[vidtoolz-concat](https://github.com/sukhbinder/vidtoolz-concat)**: [v0.0.4](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.4) - ([4 releases total](https://github.com/sukhbinder/vidtoolz-concat/releases)) - 2026-10-11
@@ -45,8 +47,6 @@ Listing <!-- releases_count starts -->182<!-- releases_count ends --> releases a
 <br />Nitnem using python for Mac and possibly windows latter
 * **[winzy](https://github.com/sukhbinder/winzy)**: [v0.0.5](https://github.com/sukhbinder/winzy/releases/tag/v0.0.5) - ([9 releases total](https://github.com/sukhbinder/winzy/releases)) - 2025-12-10
 <br />CLI tools for windows. A plugin based approach.
-* **[crontab-win](https://github.com/sukhbinder/crontab-win)**: [v0.2.0](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.0) - ([3 releases total](https://github.com/sukhbinder/crontab-win/releases)) - 2025-12-10
-<br />Crontab for windows
 * **[vidtoolz-add-sound](https://github.com/sukhbinder/vidtoolz-add-sound)**: [v0.0.3](https://github.com/sukhbinder/vidtoolz-add-sound/releases/tag/v0.0.3) - ([2 releases total](https://github.com/sukhbinder/vidtoolz-add-sound/releases)) - 2025-11-26
 <br />Add sound to a video file
 * **[outlook-meetings](https://github.com/sukhbinder/outlook-meetings)**: [v0.0.1](https://github.com/sukhbinder/outlook-meetings/releases/tag/v0.0.1) - 2025-10-11
