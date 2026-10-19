@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Ghat roads of Yercaud #shorts](https://www.youtube.com/shorts/eCuEaw3anC4) - 2026-10-18
+
 [Lady's Seat Viewpoint Yercaud #shorts](https://www.youtube.com/shorts/o8qmph2i3gI) - 2026-10-16
 
 [Datta Bandi Chor Palace #shorts](https://www.youtube.com/shorts/jElECY1xuv0) - 2026-10-16
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Darsan Sachkhand Hajoor Sahib Nanded #shorts](https://www.youtube.com/shorts/esJIri3xrzI) - 2026-10-12
 
 [Yercaud #placestosee #shorts](https://www.youtube.com/shorts/eQ--nKi4RVw) - 2026-10-10
-
-[Gurudwara Bhai Balaji Sahib #shorts](https://www.youtube.com/shorts/5517s3vHvg0) - 2026-10-10
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
