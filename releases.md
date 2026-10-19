@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->183<!-- releases_count ends --> releases across <!-- project_count starts -->70<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->184<!-- releases_count ends --> releases across <!-- project_count starts -->71<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[vidtoolz-compose](https://github.com/sukhbinder/vidtoolz-compose)**: [v0.1.0](https://github.com/sukhbinder/vidtoolz-compose/releases/tag/v0.1.0) - 2026-10-19
+<br />Compose Videos using the supplied compose_vid file
 * **[crontab-win](https://github.com/sukhbinder/crontab-win)**: [v0.2.1](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.1) - ([4 releases total](https://github.com/sukhbinder/crontab-win/releases)) - 2026-10-19
 <br />Crontab for windows
 * **[vidtoolz-highlights](https://github.com/sukhbinder/vidtoolz-highlights)**: [v0.1.0](https://github.com/sukhbinder/vidtoolz-highlights/releases/tag/v0.1.0) - 2026-10-11
