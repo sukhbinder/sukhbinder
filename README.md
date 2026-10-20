@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Using Qwen3.5 locally with llamacpp in cli](https://sukhbinder.wordpress.com/2026/10/20/using-qwen3-5-locally-with-llamacpp-in-cli/) - 
+
 [The Least Surprising Graph in the world](https://sukhbinder.wordpress.com/2026/10/19/the-least-surprising-graph-in-the-world/) - Mon, 19 Oct 2026 06:56:00 +0000
 
 [Your greatest advantage over LLM](https://sukhbinder.wordpress.com/2026/10/16/your-greatest-advantage-over-llm/) - Fri, 16 Oct 2026 06:46:00 +0000
@@ -65,27 +67,13 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [The last time my family was replaced by technology](https://sukhbinder.wordpress.com/2026/10/03/the-last-time-my-family-was-replaced-by-technology/) - Sat, 03 Oct 2026 06:42:00 +0000
 
 [How to Work Well in teams](https://sukhbinder.wordpress.com/2026/10/01/how-to-work-well-in-teams/) - 
-
-[How I Used Crontab-Win to Secure a Driving Test Booking](https://sukhbinder.wordpress.com/2026/09/29/how-i-used-crontab-win-to-secure-a-driving-test-booking/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
-[Ghat roads of Yercaud #shorts](https://www.youtube.com/shorts/eCuEaw3anC4) - 2026-10-18
 
-[Lady's Seat Viewpoint Yercaud #shorts](https://www.youtube.com/shorts/o8qmph2i3gI) - 2026-10-16
-
-[Datta Bandi Chor Palace #shorts](https://www.youtube.com/shorts/jElECY1xuv0) - 2026-10-16
-
-[Bhopal to Gwalior RoadTrip #Bangalore2Punjab #Gurudwara Datta Bandi Chor Sahib  #nh46 #cows](https://www.youtube.com/watch?v=cKBBdI8mhao) - 2026-10-14
-
-[Boating at Yercaud Lake #shorts](https://www.youtube.com/shorts/PCLKYN2AlpU) - 2026-10-12
-
-[Darsan Sachkhand Hajoor Sahib Nanded #shorts](https://www.youtube.com/shorts/esJIri3xrzI) - 2026-10-12
-
-[Yercaud #placestosee #shorts](https://www.youtube.com/shorts/eQ--nKi4RVw) - 2026-10-10
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
