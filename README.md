@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Crontab for window](https://sukhbinder.wordpress.com/2026/10/21/crontab-for-window/) - Wed, 21 Oct 2026 06:36:00 +0000
+
 [Using Qwen3.5 locally with llamacpp in cli](https://sukhbinder.wordpress.com/2026/10/20/using-qwen3-5-locally-with-llamacpp-in-cli/) - 
 
 [The Least Surprising Graph in the world](https://sukhbinder.wordpress.com/2026/10/19/the-least-surprising-graph-in-the-world/) - Mon, 19 Oct 2026 06:56:00 +0000
@@ -65,15 +67,25 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [LLM Training Shift](https://sukhbinder.wordpress.com/2026/10/11/llm-training-shift/) - Sun, 11 Oct 2026 06:22:42 +0000
 
 [The last time my family was replaced by technology](https://sukhbinder.wordpress.com/2026/10/03/the-last-time-my-family-was-replaced-by-technology/) - Sat, 03 Oct 2026 06:42:00 +0000
-
-[How to Work Well in teams](https://sukhbinder.wordpress.com/2026/10/01/how-to-work-well-in-teams/) - 
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
+[Gwalior Gurudwara Datta Bandi Chor Sahib | Gwalior Fort Light Show | MP tourism #humhairahi](https://www.youtube.com/watch?v=1RRJFpna9NY) - 2026-10-21
 
+[Gurudwara darsan Gwalior Gurudwara Datta Bandi Chor Gurudwara Sahib #shorts](https://www.youtube.com/shorts/sEYOWz6ybq4) - 2026-10-20
+
+[Ghat roads of Yercaud #shorts](https://www.youtube.com/shorts/eCuEaw3anC4) - 2026-10-18
+
+[Lady's Seat Viewpoint Yercaud #shorts](https://www.youtube.com/shorts/o8qmph2i3gI) - 2026-10-16
+
+[Datta Bandi Chor Palace #shorts](https://www.youtube.com/shorts/jElECY1xuv0) - 2026-10-16
+
+[Bhopal to Gwalior RoadTrip #Bangalore2Punjab #Gurudwara Datta Bandi Chor Sahib  #nh46 #cows](https://www.youtube.com/watch?v=cKBBdI8mhao) - 2026-10-14
+
+[Boating at Yercaud Lake #shorts](https://www.youtube.com/shorts/PCLKYN2AlpU) - 2026-10-12
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
