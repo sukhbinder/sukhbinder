@@ -19,7 +19,29 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[vidtoolz-compose v0.1.0](https://github.com/sukhbinder/vidtoolz-compose/releases/tag/v0.1.0) - 2026-10-19
 
+[crontab-win v0.2.1](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.1) - 2026-10-19
+
+[vidtoolz-highlights v0.1.0](https://github.com/sukhbinder/vidtoolz-highlights/releases/tag/v0.1.0) - 2026-10-11
+
+[vidtoolz-concat v0.0.4](https://github.com/sukhbinder/vidtoolz-concat/releases/tag/v0.0.4) - 2026-10-11
+
+[vidtoolz-add-text v0.4.2](https://github.com/sukhbinder/vidtoolz-add-text/releases/tag/v0.4.2) - 2026-10-11
+
+[vidtoolz-colored-textclip v0.0.3](https://github.com/sukhbinder/vidtoolz-colored-textclip/releases/tag/v0.0.3) - 2026-10-11
+
+[winzy-optimize-image v0.1.0](https://github.com/sukhbinder/winzy-optimize-image/releases/tag/v0.1.0) - 2026-08-07
+
+[vidtoolz-beats v0.1.1](https://github.com/sukhbinder/vidtoolz-beats/releases/tag/v0.1.1) - 2026-07-27
+
+[vidtoolz v0.1.5](https://github.com/sukhbinder/vidtoolz/releases/tag/v0.1.5) - 2026-07-23
+
+[screenrecord v1.2.0](https://github.com/sukhbinder/screenrecord/releases/tag/1.2.0) - 2026-07-03
+
+[llm-llamacpp-plugin v0.2.0](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.2.0) - 2026-06-26
+
+[afrecord-win v0.1.1](https://github.com/sukhbinder/afrecord-win/releases/tag/v0.1.1) - 2026-05-17
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
