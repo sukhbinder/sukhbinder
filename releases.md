@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->184<!-- releases_count ends --> releases across <!-- project_count starts -->71<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->185<!-- releases_count ends --> releases across <!-- project_count starts -->71<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[winzy-calendar](https://github.com/sukhbinder/winzy-calendar)**: [v0.2.0](https://github.com/sukhbinder/winzy-calendar/releases/tag/v0.2.0) - ([2 releases total](https://github.com/sukhbinder/winzy-calendar/releases)) - 2026-10-24
+<br />Calendar in windows commandline
 * **[vidtoolz-compose](https://github.com/sukhbinder/vidtoolz-compose)**: [v0.1.0](https://github.com/sukhbinder/vidtoolz-compose/releases/tag/v0.1.0) - 2026-10-19
 <br />Compose Videos using the supplied compose_vid file
 * **[crontab-win](https://github.com/sukhbinder/crontab-win)**: [v0.2.1](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.1) - ([4 releases total](https://github.com/sukhbinder/crontab-win/releases)) - 2026-10-19
@@ -135,8 +137,6 @@ Listing <!-- releases_count starts -->184<!-- releases_count ends --> releases a
 <br />Mimics the functionality of the 'cut' command
 * **[winzy-checkmail](https://github.com/sukhbinder/winzy-checkmail)**: [](https://github.com/sukhbinder/winzy-checkmail/releases/tag/v0.1) - 2024-10-13
 <br />CLI tool for checking outlook email
-* **[winzy-calendar](https://github.com/sukhbinder/winzy-calendar)**: [](https://github.com/sukhbinder/winzy-calendar/releases/tag/v0.1) - 2024-10-13
-<br />Calendar in windows commandline
 * **[sendmail-outlook](https://github.com/sukhbinder/sendmail-outlook)**: [First release](https://github.com/sukhbinder/sendmail-outlook/releases/tag/v0.0.1) - 2024-08-20
 <br />Send email using outlook application 
 * **[pbpaste-win](https://github.com/sukhbinder/pbpaste-win)**: [](https://github.com/sukhbinder/pbpaste-win/releases/tag/v0.1.2) - ([4 releases total](https://github.com/sukhbinder/pbpaste-win/releases)) - 2024-08-02

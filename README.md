@@ -19,6 +19,8 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 
 ### Recent releases
 <!-- recent_releases starts -->
+[winzy-calendar v0.2.0](https://github.com/sukhbinder/winzy-calendar/releases/tag/v0.2.0) - 2026-10-24
+
 [vidtoolz-compose v0.1.0](https://github.com/sukhbinder/vidtoolz-compose/releases/tag/v0.1.0) - 2026-10-19
 
 [crontab-win v0.2.1](https://github.com/sukhbinder/crontab-win/releases/tag/v0.2.1) - 2026-10-19
@@ -40,8 +42,6 @@ Read [my blog](https://sukhbinder.wordpress.com/), follow me on [X](https://x.co
 [screenrecord v1.2.0](https://github.com/sukhbinder/screenrecord/releases/tag/1.2.0) - 2026-07-03
 
 [llm-llamacpp-plugin v0.2.0](https://github.com/sukhbinder/llm-llamacpp-plugin/releases/tag/v0.2.0) - 2026-06-26
-
-[afrecord-win v0.1.1](https://github.com/sukhbinder/afrecord-win/releases/tag/v0.1.1) - 2026-05-17
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/releases.md)
 </td><td valign="top" width="34%">
