@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Software Engineer](https://sukhbinder.wordpress.com/2026/10/24/software-engineer/) - Sat, 24 Oct 2026 16:02:55 +0000
+
 [Crontab for window](https://sukhbinder.wordpress.com/2026/10/21/crontab-for-window/) - Wed, 21 Oct 2026 06:36:00 +0000
 
 [Using Qwen3.5 locally with llamacpp in cli](https://sukhbinder.wordpress.com/2026/10/20/using-qwen3-5-locally-with-llamacpp-in-cli/) - 
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Coding](https://sukhbinder.wordpress.com/2026/10/12/coding/) - Mon, 12 Oct 2026 06:44:31 +0000
 
 [LLM Training Shift](https://sukhbinder.wordpress.com/2026/10/11/llm-training-shift/) - Sun, 11 Oct 2026 06:22:42 +0000
-
-[The last time my family was replaced by technology](https://sukhbinder.wordpress.com/2026/10/03/the-last-time-my-family-was-replaced-by-technology/) - Sat, 03 Oct 2026 06:42:00 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
