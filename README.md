@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[OntheroadOn the road From Gwalior #shorts](https://www.youtube.com/shorts/UFhxPWj-NNE) - 2026-10-26
 
-[Yercaud Lake Boating #shorts](https://www.youtube.com/shorts/sOSHdoj1XVM) - 2026-10-22
-
-[Gwalior Gurudwara Datta Bandi Chor Sahib | Gwalior Fort Light Show | MP tourism #humhairahi](https://www.youtube.com/watch?v=1RRJFpna9NY) - 2026-10-21
-
-[Gurudwara darsan Gwalior Gurudwara Datta Bandi Chor Gurudwara Sahib #shorts](https://www.youtube.com/shorts/sEYOWz6ybq4) - 2026-10-20
-
-[Ghat roads of Yercaud #shorts](https://www.youtube.com/shorts/eCuEaw3anC4) - 2026-10-18
-
-[Lady's Seat Viewpoint Yercaud #shorts](https://www.youtube.com/shorts/o8qmph2i3gI) - 2026-10-16
-
-[Datta Bandi Chor Palace #shorts](https://www.youtube.com/shorts/jElECY1xuv0) - 2026-10-16
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
