@@ -73,7 +73,19 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Roadtrip Pahalwan Dhanha Lunch Break Roadtrip #shorts](https://www.youtube.com/shorts/jcBhkaxlNTE) - 2026-10-30
 
+[Places to see in Yercaud #shorts](https://www.youtube.com/shorts/4EU6rBGLh70) - 2026-10-29
+
+[Gwalior fort | Maan Singh Palace | Gurudwara Datta Bandi Chor Sahib ji #humhairahi](https://www.youtube.com/watch?v=3OxWMH0zvoU) - 2026-10-28
+
+[OntheroadOn the road From Gwalior #shorts](https://www.youtube.com/shorts/UFhxPWj-NNE) - 2026-10-26
+
+[Yercaud Lake Boating #shorts](https://www.youtube.com/shorts/sOSHdoj1XVM) - 2026-10-22
+
+[Gwalior Gurudwara Datta Bandi Chor Sahib | Gwalior Fort Light Show | MP tourism #humhairahi](https://www.youtube.com/watch?v=1RRJFpna9NY) - 2026-10-21
+
+[Gurudwara darsan Gwalior Gurudwara Datta Bandi Chor Gurudwara Sahib #shorts](https://www.youtube.com/shorts/sEYOWz6ybq4) - 2026-10-20
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
