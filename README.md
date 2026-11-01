@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[Random thoughts on Local vs Cloud](https://sukhbinder.wordpress.com/2026/11/01/random-thoughts-on-local-vs-cloud/) - Sun, 01 Nov 2026 06:11:00 +0000
+
 [Experiments with New Small models](https://sukhbinder.wordpress.com/2026/10/30/experiments-with-new-small-models/) - Fri, 30 Oct 2026 06:50:00 +0000
 
 [Software Engineer](https://sukhbinder.wordpress.com/2026/10/24/software-engineer/) - Sat, 24 Oct 2026 16:02:55 +0000
@@ -65,8 +67,6 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Why do all LLM pelicans look like this?](https://sukhbinder.wordpress.com/2026/10/15/why-do-all-llm-pelicans-look-like-this/) - Wed, 14 Oct 2026 21:11:30 +0000
 
 [AI is a tool. AI is a Mirror](https://sukhbinder.wordpress.com/2026/10/14/ai-is-a-tool-ai-is-a-mirror/) - Wed, 14 Oct 2026 05:34:00 +0000
-
-[Coding](https://sukhbinder.wordpress.com/2026/10/12/coding/) - Mon, 12 Oct 2026 06:44:31 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
