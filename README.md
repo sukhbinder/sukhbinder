@@ -73,7 +73,19 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Yercaud's Lady Seat Places to see #shorts](https://www.youtube.com/shorts/oRIsT7yqYuU) - 2026-11-02
 
+[Pine Tree Yercaud #shorts](https://www.youtube.com/shorts/eJrhjOkjmfU) - 2026-11-01
+
+[Beautiful place in Yercaud Viewpoints of Yercaud #shorts](https://www.youtube.com/shorts/vdcAek2nuD8) - 2026-10-31
+
+[Roadtrip Pahalwan Dhanha Lunch Break Roadtrip #shorts](https://www.youtube.com/shorts/jcBhkaxlNTE) - 2026-10-30
+
+[Places to see in Yercaud #shorts](https://www.youtube.com/shorts/4EU6rBGLh70) - 2026-10-29
+
+[Gwalior fort | Maan Singh Palace | Gurudwara Datta Bandi Chor Sahib ji #humhairahi](https://www.youtube.com/watch?v=3OxWMH0zvoU) - 2026-10-28
+
+[OntheroadOn the road From Gwalior #shorts](https://www.youtube.com/shorts/UFhxPWj-NNE) - 2026-10-26
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
