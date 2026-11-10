@@ -48,6 +48,8 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 
 ### On my blog
 <!-- blog starts -->
+[A Case For Local AI](https://sukhbinder.wordpress.com/2026/11/10/a-case-for-local-ai/) - 
+
 [Happy Diwali with local llms](https://sukhbinder.wordpress.com/2026/11/09/happy-diwali-with-local-llms/) - Sun, 08 Nov 2026 20:39:28 +0000
 
 [Random thoughts on Local vs Cloud](https://sukhbinder.wordpress.com/2026/11/01/random-thoughts-on-local-vs-cloud/) - Sun, 01 Nov 2026 06:11:00 +0000
@@ -65,15 +67,25 @@ More [recent releases](https://github.com/sukhbinder/sukhbinder/blob/master/rele
 [Your greatest advantage over LLM](https://sukhbinder.wordpress.com/2026/10/16/your-greatest-advantage-over-llm/) - Fri, 16 Oct 2026 06:46:00 +0000
 
 [3 releases of vidtoolz plugin](https://sukhbinder.wordpress.com/2026/10/16/3-releases-of-vidtoolz-plugin/) - 
-
-[Why do all LLM pelicans look like this?](https://sukhbinder.wordpress.com/2026/10/15/why-do-all-llm-pelicans-look-like-this/) - Wed, 14 Oct 2026 21:11:30 +0000
 <!-- blog ends -->
 More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 </td><td valign="top" width="33%">
 
 ### Youtube
 <!-- youtube starts -->
+[Roadtrips #humhairahi #shorts](https://www.youtube.com/shorts/dumV68Nw82s) - 2026-11-10
 
+[NH44 Pipli Kurukshetra #shorts](https://www.youtube.com/shorts/ksXrfIfskjw) - 2026-11-08
+
+[To Gurudwara Nanak Jhira Sahib NH44 #shorts](https://www.youtube.com/shorts/gMNA79g_t-4) - 2026-11-07
+
+[Early Morning Drive Bangalore to Bidar #shorts](https://www.youtube.com/shorts/qm3-_WsX66A) - 2026-11-05
+
+[Gwalior Saas Bahu Mandir and Other Forts In Gwalior | Last day in Gurudwara Data Bandi Chor Sahib](https://www.youtube.com/watch?v=LuYh6-V4DFE) - 2026-11-04
+
+[Bangalore to Bidar Roadtrip #shorts](https://www.youtube.com/shorts/4qqvwM1muJ0) - 2026-11-03
+
+[Yercaud's Lady Seat Places to see #shorts](https://www.youtube.com/shorts/oRIsT7yqYuU) - 2026-11-02
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
