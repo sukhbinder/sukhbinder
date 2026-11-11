@@ -73,6 +73,10 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Gurudwara Shri Nanak Jhira Sahib Ji #shorts](https://www.youtube.com/shorts/uANZam_XX48) - 2026-11-11
+
+[Roadtrip #humhairahi #shorts](https://www.youtube.com/shorts/pzhsY1li9WA) - 2026-11-11
+
 [Roadtrips #humhairahi #shorts](https://www.youtube.com/shorts/dumV68Nw82s) - 2026-11-10
 
 [NH44 Pipli Kurukshetra #shorts](https://www.youtube.com/shorts/ksXrfIfskjw) - 2026-11-08
@@ -82,10 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Early Morning Drive Bangalore to Bidar #shorts](https://www.youtube.com/shorts/qm3-_WsX66A) - 2026-11-05
 
 [Gwalior Saas Bahu Mandir and Other Forts In Gwalior | Last day in Gurudwara Data Bandi Chor Sahib](https://www.youtube.com/watch?v=LuYh6-V4DFE) - 2026-11-04
-
-[Bangalore to Bidar Roadtrip #shorts](https://www.youtube.com/shorts/4qqvwM1muJ0) - 2026-11-03
-
-[Yercaud's Lady Seat Places to see #shorts](https://www.youtube.com/shorts/oRIsT7yqYuU) - 2026-11-02
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
