@@ -73,19 +73,7 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
-[Near Kia Factory #shorts](https://www.youtube.com/shorts/VCcb844z3BE) - 2026-11-13
 
-[Gwalior to Kurukshetra | Bangalore to Punjab | Roadtrip | Gurudwara Sahibs on the way | #humhairahi](https://www.youtube.com/watch?v=QzNactmjXMw) - 2026-11-11
-
-[Gurudwara Shri Nanak Jhira Sahib Ji #shorts](https://www.youtube.com/shorts/uANZam_XX48) - 2026-11-11
-
-[Roadtrip #humhairahi #shorts](https://www.youtube.com/shorts/pzhsY1li9WA) - 2026-11-11
-
-[Roadtrips #humhairahi #shorts](https://www.youtube.com/shorts/dumV68Nw82s) - 2026-11-10
-
-[NH44 Pipli Kurukshetra #shorts](https://www.youtube.com/shorts/ksXrfIfskjw) - 2026-11-08
-
-[To Gurudwara Nanak Jhira Sahib NH44 #shorts](https://www.youtube.com/shorts/gMNA79g_t-4) - 2026-11-07
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
