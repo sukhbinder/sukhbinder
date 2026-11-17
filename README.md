@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Roadtrip NH44 #shorts](https://www.youtube.com/shorts/9IhXg_jpr3w) - 2026-11-17
+
 [Amritsar In and around Gurudwara Sahib #shorts](https://www.youtube.com/shorts/WPlUiUnUH9U) - 2026-11-16
 
 [Near Kia Factory #shorts](https://www.youtube.com/shorts/VCcb844z3BE) - 2026-11-13
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Roadtrip #humhairahi #shorts](https://www.youtube.com/shorts/pzhsY1li9WA) - 2026-11-11
 
 [Roadtrips #humhairahi #shorts](https://www.youtube.com/shorts/dumV68Nw82s) - 2026-11-10
-
-[NH44 Pipli Kurukshetra #shorts](https://www.youtube.com/shorts/ksXrfIfskjw) - 2026-11-08
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
