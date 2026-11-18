@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Kurukshetra to Chandigarh | Bangalore to Punjab Roadtrip in our Kia Sonet #humhairahi](https://www.youtube.com/watch?v=YBYlRMSuH-Y) - 2026-11-18
+
 [Roadtrip NH44 #shorts](https://www.youtube.com/shorts/9IhXg_jpr3w) - 2026-11-17
 
 [Amritsar In and around Gurudwara Sahib #shorts](https://www.youtube.com/shorts/WPlUiUnUH9U) - 2026-11-16
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Gurudwara Shri Nanak Jhira Sahib Ji #shorts](https://www.youtube.com/shorts/uANZam_XX48) - 2026-11-11
 
 [Roadtrip #humhairahi #shorts](https://www.youtube.com/shorts/pzhsY1li9WA) - 2026-11-11
-
-[Roadtrips #humhairahi #shorts](https://www.youtube.com/shorts/dumV68Nw82s) - 2026-11-10
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
