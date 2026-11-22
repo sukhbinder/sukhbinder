@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Golden Temple Sarovar Harmandir Sahib Gurudwara #shorts](https://www.youtube.com/shorts/Mkq-seINgAc) - 2026-11-22
+
 [Open roads and Sartaaj Songs    #shorts](https://www.youtube.com/shorts/I4e9ajA5sII) - 2026-11-19
 
 [Kurukshetra to Chandigarh | Bangalore to Punjab Roadtrip in our Kia Sonet #humhairahi](https://www.youtube.com/watch?v=YBYlRMSuH-Y) - 2026-11-18
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Near Kia Factory #shorts](https://www.youtube.com/shorts/VCcb844z3BE) - 2026-11-13
 
 [Gwalior to Kurukshetra | Bangalore to Punjab | Roadtrip | Gurudwara Sahibs on the way | #humhairahi](https://www.youtube.com/watch?v=QzNactmjXMw) - 2026-11-11
-
-[Gurudwara Shri Nanak Jhira Sahib Ji #shorts](https://www.youtube.com/shorts/uANZam_XX48) - 2026-11-11
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
