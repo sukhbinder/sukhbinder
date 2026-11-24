@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Gurudwara Guru Ka Taal Agra gurudwara agra #shorts](https://www.youtube.com/shorts/9SkPsUQejV8) - 2026-11-24
+
 [Near Kurnool NH44 Roadtrip #shorts](https://www.youtube.com/shorts/5X4kulyhV3A) - 2026-11-23
 
 [Golden Temple Sarovar Harmandir Sahib Gurudwara #shorts](https://www.youtube.com/shorts/Mkq-seINgAc) - 2026-11-22
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Roadtrip NH44 #shorts](https://www.youtube.com/shorts/9IhXg_jpr3w) - 2026-11-17
 
 [Amritsar In and around Gurudwara Sahib #shorts](https://www.youtube.com/shorts/WPlUiUnUH9U) - 2026-11-16
-
-[Near Kia Factory #shorts](https://www.youtube.com/shorts/VCcb844z3BE) - 2026-11-13
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
