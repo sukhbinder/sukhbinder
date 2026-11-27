@@ -73,6 +73,8 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 
 ### Youtube
 <!-- youtube starts -->
+[Harminder Sahib Golden Temple Morning Darsan #shorts](https://www.youtube.com/shorts/_7R_u7LhHRs) - 2026-11-27
+
 [Our Agra Roadtrip travel vlog family #shorts](https://www.youtube.com/shorts/qStUTMvEAcg) - 2026-11-26
 
 [Chandigarh to Amritsar |Harmandir Sahib Gurudwara | Golden temple | Roadtrip #humhairahi](https://www.youtube.com/watch?v=XdBQnXGZw_0) - 2026-11-25
@@ -84,8 +86,6 @@ More on [sukhbinder.wordpress.com](https://sukhbinder.wordpress.com/)
 [Golden Temple Sarovar Harmandir Sahib Gurudwara #shorts](https://www.youtube.com/shorts/Mkq-seINgAc) - 2026-11-22
 
 [Open roads and Sartaaj Songs    #shorts](https://www.youtube.com/shorts/I4e9ajA5sII) - 2026-11-19
-
-[Kurukshetra to Chandigarh | Bangalore to Punjab Roadtrip in our Kia Sonet #humhairahi](https://www.youtube.com/watch?v=YBYlRMSuH-Y) - 2026-11-18
 <!-- youtube ends -->
 More on [youtube.com/@humhairahi](https://www.youtube.com/@humhairahi)
 </td></tr></table>
